@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Page](README.md)
+## June 2025
+
+* [20 June: Welcome to the changelog](README.md)
