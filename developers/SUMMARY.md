@@ -20,16 +20,17 @@
 
 ## Shift API (v2)
 
-* ```yaml
-  type: builtin:openapi
-  props:
-    models: true
-  dependencies:
-    spec:
-      ref:
-        kind: openapi
-        spec: api-v2
-  ```
+* [API Reference](shift-api-v2/api-reference/README.md)
+  * ```yaml
+    type: builtin:openapi
+    props:
+      models: true
+    dependencies:
+      spec:
+        ref:
+          kind: openapi
+          spec: api-v2
+    ```
 
 ## Resources
 
