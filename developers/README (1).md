@@ -1,3 +1,7 @@
+---
+icon: hashtag
+---
+
 # .NET Versions
 
 This document outlines the approach to migrating source code from .NET Framework 4.8 to .NET Standard 2.0 and .NET 9 (Core).

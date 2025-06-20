@@ -6,4 +6,4 @@
 
 ## Resources
 
-* [.NET Versions](resources/.net-versions.md)
+* [.NET Versions](<README (1).md>)
