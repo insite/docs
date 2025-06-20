@@ -6,7 +6,7 @@
 
 ## Shift API (v1)
 
-* [API Reference](shift-api-v1/api-reference/README.md)
+* [API Reference](shift-iq-api/api-reference/README.md)
   * ```yaml
     type: builtin:openapi
     props:
@@ -30,7 +30,6 @@
         kind: openapi
         spec: api-v2
   ```
-* [Page 1](shift-api-v2/page-1.md)
 
 ## Resources
 
