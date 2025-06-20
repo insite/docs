@@ -1,4 +1,9 @@
 # Table of contents
 
-* [.NET Versions](README.md)
-* [Developer Documentation](developer-documentation.md)
+## Getting Started
+
+* [Developer Documentation](README.md)
+
+## Resources
+
+* [.NET Versions](resources/.net-versions.md)
