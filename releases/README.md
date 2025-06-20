@@ -7,3 +7,8 @@ description: >-
 
 # 20 June: Welcome to the changelog
 
+Welcome to the very first entry in our changelog!&#x20;
+
+From here on out, we’ll use this space to keep you informed about new features, updates, bug fixes, and improvements across the product. Whether it’s big launches or small tweaks, you’ll find it all here.
+
+Thanks for following along — and stay tuned for what’s next!
