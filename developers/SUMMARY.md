@@ -3,8 +3,7 @@
 ## Getting Started
 
 * [Developer Documentation](README.md)
-
-* [Components](<components/README.md>)
+* [Components](components/README.md)
   * [Utility Components](components/utility-components/README.md)
     * [Metadata](components/utility-components/metadata.md)
     * [Security](components/utility-components/security/README.md)
@@ -22,9 +21,9 @@
 
 * [API Reference](shift-iq-api/api-reference/README.md)
   * ```yaml
-    type: builtin:openapi
     props:
       models: true
+    type: builtin:openapi
     dependencies:
       spec:
         ref:
@@ -36,9 +35,9 @@
 
 * [API Reference](shift-api-v2/api-reference/README.md)
   * ```yaml
-    type: builtin:openapi
     props:
       models: true
+    type: builtin:openapi
     dependencies:
       spec:
         ref:
@@ -48,7 +47,7 @@
 
 ## Resources
 
-* [.NET Versions](<dotnet-versions.md>)
+* [.NET Versions](dotnet-versions.md)
 
 ## Integrations
 
