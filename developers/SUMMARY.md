@@ -51,4 +51,5 @@
 
 ## Integrations
 
+* [Safe Exam Browser](integrations/safe-exam-browser.md)
 * [Single Sign-On](integrations/single-sign-on.md)
