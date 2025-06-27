@@ -17,9 +17,9 @@
     * [Setup](components/utility-components/setup/README.md)
       * [Colours](components/utility-components/setup/colours.md)
 
-## Shift API (v1)
+## API - Version 1
 
-* [API Reference](shift-iq-api/api-reference/README.md)
+* [API Reference](api-v1/api-reference/README.md)
   * ```yaml
     props:
       models: true
@@ -31,9 +31,9 @@
           spec: api-v1
     ```
 
-## Shift API (v2)
+## API - Version 2
 
-* [API Reference](shift-api-v2/api-reference/README.md)
+* [API Reference](api-v2/api-reference/README.md)
   * ```yaml
     props:
       models: true

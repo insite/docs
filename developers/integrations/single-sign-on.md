@@ -4,8 +4,6 @@ description: >-
   with a single ID to any of several related, yet independent, software systems.
 ---
 
-# Single Sign-On
-
 Refer to this Wikipedia article for background information about [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on).
 
 Shift iQ supports two industry-standard mechanisms for SSO:
@@ -15,7 +13,7 @@ Shift iQ supports two industry-standard mechanisms for SSO:
 
 We do not implement or support custom SSO mechanisms due to the potential security and privacy risks associated with them.
 
-### Learning Tools Interoperability (LTI) <a href="#learning-tools-interoperability-lti" id="learning-tools-interoperability-lti"></a>
+## Learning Tools Interoperability (LTI) <a href="#learning-tools-interoperability-lti" id="learning-tools-interoperability-lti"></a>
 
 LTI is the simplest approach to SSO with the Shift iQ platform.
 
@@ -37,7 +35,7 @@ When Shift iQ receives this message from a user’s web browser, it validates th
 
 If request is valid, then Shift iQ authenticates the learner and navigates to the requested course in the Shift iQ Learning Portal.
 
-### Security Assertion Markup Language (SAML) <a href="#security-assertion-markup-language-saml" id="security-assertion-markup-language-saml"></a>
+## Security Assertion Markup Language (SAML) <a href="#security-assertion-markup-language-saml" id="security-assertion-markup-language-saml"></a>
 
 SAML is a more powerful and more sophisticated approach to SSO with the Shift iQ platform. It is more secure than LTI, therefore it is the mechanism we prefer and recommend to customers.
 

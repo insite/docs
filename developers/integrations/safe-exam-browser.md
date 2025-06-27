@@ -1,6 +1,9 @@
-# Enhancing Assessment Integrity
+---
+description: >-
+  Enhancing assessment integrity with Safe Exam Browser.
+---
 
-## Safe Exam Browser
+# Overview
 
 In an era where online training and education has become the new normal, ensuring the integrity of online quizzes and exams has never been more important. Training providers and educators are constantly looking for more effective ways to prevent cheating and ensure the security and integrity of their online assessments. 
 
