@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Components](README.md)
+* [Help Center](README.md)
+* [Components](<README (1).md>)
   * [Utility Components](components/utility-components/README.md)
     * [Metadata](components/utility-components/metadata.md)
     * [Security](components/utility-components/security/README.md)
