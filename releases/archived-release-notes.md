@@ -1,6 +1,6 @@
 # Archived Release Notes
 
-## Version 22.4 - June 17, 2022
+## v22.4 - June 17, 2022
 
 Here's a summary of the updates and improvements in this release:
 
@@ -31,7 +31,7 @@ Here's a summary of the updates and improvements in this release:
 * Learning Centre Student-Body Report
 * Summary Class Lists Report
 
-## Version 22.5 - July 29, 2022
+## v22.5 - July 29, 2022
 
 Here's a summary of the updates and improvements in this release:
 
@@ -58,7 +58,7 @@ Here's a summary of the updates and improvements in this release:
    * Content Tab: Content Title, Summary, Diagram Book, Reference Materials, Materials for Distribution / Online.
    * Addendum: Attachments
 
-## Version 22.6 - September 23, 2022
+## v22.6 - September 23, 2022
 
 Here's a summary of the updates and improvements in this release:
 
@@ -105,7 +105,7 @@ Here's a summary of the updates and improvements in this release:
    * Implement Validator's Logged Entries Search
    * Implement Validator's Logged Competencies Search
 
-## Version 22.7 - November 4, 2022
+## v22.7 - November 4, 2022
 
 Here's a summary of the updates and improvements in this release:
 
@@ -140,7 +140,7 @@ Here's a summary of the updates and improvements in this release:
 * Improvements for Students Grade Report - Header of Report
 * Implement Download|Upload JSON for Standards Settings
 
-## Version 22.8 - December 16, 2022
+## v22.8 - December 16, 2022
 
 Here's a summary of the updates and improvements in this release:
 
@@ -171,7 +171,7 @@ Here's a summary of the updates and improvements in this release:
 * Began Implementation of Micro-Credentials and My Dashboard
 * Rename Resources Labels into Achievements On Customer Screens
 
-## Version 23.1 - February 10, 2023
+## v23.1 - February 10, 2023
 
 Here's a summary of the updates and improvements in this release:
 
@@ -201,7 +201,7 @@ Here's a summary of the updates and improvements in this release:
 * Possibility to Get Statistics (Count, Sum, Mean and Etc.) on Columns Report Builder
 * Implement Timeline for Contact Groups
 
-## Version 23.2 - March 24, 2023
+## v23.2 - March 24, 2023
 
 Here's a summary of the updates and improvements in this release:
 
@@ -234,7 +234,7 @@ Here's a summary of the updates and improvements in this release:
 * Person/Edit/Files: Throttle Image Size
 * Implement Social Integration / Sharing Of Achievements On Linkedin.
 
-## Version 23.3 - May 5, 2023
+## v23.3 - May 5, 2023
 
 Here's a summary of the updates and improvements in this release:
 
@@ -267,7 +267,7 @@ Here's a summary of the updates and improvements in this release:
 * Hide Period Filter Dropdown If Hide Period Is Checked
 * Implement Ui/Portal/Attempts/Search
 
-## Version 23.4 - June 14, 2023
+## v23.4 - June 14, 2023
 
 Here's a summary of the updates and improvements in this release:
 
@@ -292,7 +292,7 @@ Here's a summary of the updates and improvements in this release:
 * Add A New Portal Form That Allows Employers To View More Information About Employees
 * Implement A Feature To Display Related Assessment Questions In Separate Tabs
 
-## Version 23.5 - August 30, 2023
+## v23.5 - August 30, 2023
 
 Here's a summary of the updates and improvements in this release:
 
@@ -348,7 +348,7 @@ Here's a summary of the updates and improvements in this release:
 * Implement Functionality For An Admin/Instructor To Grade Composed Response Questions In Shift
 * Enforce Privacy Settings In Courses V2 At The Course Level
 
-## Version 23.6 - October 25, 2023
+## v23.6 - October 25, 2023
 
 Here's a summary of the updates and improvements in this release:
 
@@ -379,7 +379,7 @@ Here's a summary of the updates and improvements in this release:
 * Implement Ability To Ignore A Score From Calculation
 * Improve System Access Tab On Person Editor Screen
 
-## Version 23.7 - December 6, 2023
+## v23.7 - December 6, 2023
 
 Here's a summary of the updates and improvements in this release:
 
@@ -409,7 +409,7 @@ Here's a summary of the updates and improvements in this release:
 * Improve User Creation Options On /Admin/Accounts/Organizations/Edit
 * Change Contacts Search Screen So It Defaults To Not Archived
 
-## Version 24.1 - February 14, 2024
+## v24.1 - February 14, 2024
 
 Here's a summary of the updates and improvements in this release:
 
@@ -457,7 +457,7 @@ Here's a summary of the updates and improvements in this release:
 * Improve /Ui/Survey/Respond/Search To Be Like Other Portal Search Screens
 * Replace Collection Color Picker And Enable It To Display In UI Competency Frameworks
 
-## Version 24.2 - April 3, 2024
+## v24.2 - April 3, 2024
 
 Here's a summary of the updates and improvements in this release:
 
@@ -516,7 +516,7 @@ Here's a summary of the updates and improvements in this release:
 * Survey Outline Messages Tab: Add a preview of message content
 * Improve Portal Support page and related Help Requested alert message
 
-## Version 24.3 - May 22, 2024
+## v24.3 - May 22, 2024
 
 Here's a summary of the updates and improvements in this release:
 
@@ -555,7 +555,7 @@ Here's a summary of the updates and improvements in this release:
 * Improve accessibility of Assessment feedback by adding checkmarks and X's to indicate correct and incorrect responses
 * Improve adding comments on Admin/Assessments/Questions/Change page
 
-## Version 24.4 - July 10, 2024
+## v24.4 - July 10, 2024
 
 Here's a summary of the updates and improvements in this release:
 
@@ -609,7 +609,7 @@ Here's a summary of the updates and improvements in this release:
 * Rename Second Tags In Standards Toolkit To Flags
 * Improve The Upload People Page For Commonly Used Person And User Columns
 
-## Version 24.5 - September 9, 2024
+## v24.5 - September 9, 2024
 
 Here's a summary of the updates and improvements in this release:
 
@@ -654,7 +654,7 @@ Here's a summary of the updates and improvements in this release:
 * Fix The Bug In Cachepagestatepersister
 * Fix Error Message That Appears When Making Edits On The Specification/Form Workshop Pages
 
-## Version 24.6 - October 30, 2024
+## v24.6 - October 30, 2024
 
 Here's a summary of the updates and improvements in this release:
 
@@ -705,7 +705,7 @@ Here's a summary of the updates and improvements in this release:
 * Fix Cases Search And Download Errors
 * Fix Field 'Startandenddates' Already Exists In Journal Setup
 
-## Version 24.7 - December 18, 2024
+## v24.7 - December 18, 2024
 
 Here's a summary of the updates and improvements in this release:
 
@@ -760,7 +760,7 @@ Here's a summary of the updates and improvements in this release:
 * Fix A Problem With The Query String On The Catalog Form
 * Fix Lingering Issues With Message Placeholders Using Mailgun Sender
 
-## Version 25.1 - February 19, 2025
+## v25.1 - February 19, 2025
 
 Here's a summary of the updates and improvements in this release:
 
@@ -828,7 +828,7 @@ Here's a summary of the updates and improvements in this release:
 * Remove Unused Collections From Database And UI
 * Improvements To Ui/Admin/Standards/Troubleshoot
 
-## Version 25.2 - April 9, 2025
+## v25.2 - April 9, 2025
 
 Here's a summary of the updates and improvements in this release:
 
