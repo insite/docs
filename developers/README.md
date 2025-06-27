@@ -8,10 +8,6 @@ icon: square-terminal
 
 # Developer Documentation
 
-#### 🚧 This page is under construction <a href="#this-page-is-under-construction" id="this-page-is-under-construction"></a>
-
-We’re working on something great! This page isn’t quite ready yet, but content is on the way. Please check back soon for updates that will help you get the most out of our platform.
-
 ## Developer API
 
 The Shift iQ Developer Application Programming Interface (API) allows you to access the data in your account through a secure programming interface. It is a [RESTful API](https://restfulapi.net) based on [HTTPS](https://datatracker.ietf.org/doc/html/rfc2818) requests and [JSON](https://www.json.org/json-en.html) responses.
