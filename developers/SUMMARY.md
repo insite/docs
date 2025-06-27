@@ -17,9 +17,9 @@
     * [Setup](components/utility-components/setup/README.md)
       * [Colours](components/utility-components/setup/colours.md)
 
-## API - Version 1
+## API - v1
 
-* [Introduction](api-version-1/introduction.md)
+* [Introduction](api-v1/introduction.md)
 * [API Reference](api-v1/api-reference/README.md)
   * ```yaml
     props:
@@ -32,7 +32,7 @@
           spec: api-v1
     ```
 
-## API - Version 2
+## API - v2
 
 * [API Reference](api-v2/api-reference/README.md)
   * ```yaml
