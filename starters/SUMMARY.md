@@ -3,4 +3,7 @@
 ## Getting Started
 
 * [Welcome!](README.md)
-* [Quickstart](getting-started/quickstart.md)
+
+## Announcements
+
+* [Upcoming version 25.4](announcements/upcoming-version-25.4.md)
