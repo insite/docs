@@ -6,7 +6,7 @@ description: >-
 
 # Code of ethics and professional practice for software engineering
 
-### Preamble
+## Preamble
 
 Computers play a growing and central role in all sectors of society. Software engineers—whether practitioners, educators, managers, supervisors, or students—impact society through the systems they develop or maintain. These roles offer opportunities to do good or cause harm. Therefore, software engineers must be committed to making the profession respected and beneficial.
 
@@ -16,9 +16,9 @@ The Code is not a checklist or algorithm for ethical decisions. Rather, it encou
 
 ***
 
-### Principles
+## Principles
 
-#### Public
+### Public
 
 Software engineers shall act consistently with the public interest. Specifically, they shall:
 
@@ -33,7 +33,7 @@ Software engineers shall act consistently with the public interest. Specifically
 
 ***
 
-#### Client and Employer
+### Client and Employer
 
 Software engineers shall prioritize the interests of clients and employers, in line with public interest. They shall:
 
@@ -49,7 +49,7 @@ Software engineers shall prioritize the interests of clients and employers, in l
 
 ***
 
-#### Product
+### Product
 
 Software engineers shall ensure professional standards for products and modifications. They shall:
 
@@ -66,7 +66,7 @@ Software engineers shall ensure professional standards for products and modifica
 
 ***
 
-#### Judgment
+### Judgment
 
 Software engineers shall uphold integrity and independence. They shall:
 
@@ -79,7 +79,7 @@ Software engineers shall uphold integrity and independence. They shall:
 
 ***
 
-#### Management
+### Management
 
 Leaders shall promote ethical software development practices. They shall:
 
@@ -93,7 +93,7 @@ Leaders shall promote ethical software development practices. They shall:
 
 ***
 
-#### Profession
+### Profession
 
 Software engineers shall uphold the profession’s integrity. They shall:
 
@@ -110,7 +110,7 @@ Software engineers shall uphold the profession’s integrity. They shall:
 
 ***
 
-#### Colleagues
+### Colleagues
 
 Software engineers shall treat colleagues fairly. They shall:
 
@@ -125,7 +125,7 @@ Software engineers shall treat colleagues fairly. They shall:
 
 ***
 
-#### Self
+### Self
 
 Software engineers shall continually learn and act ethically. They shall:
 
@@ -139,6 +139,6 @@ Software engineers shall continually learn and act ethically. They shall:
 * Avoid influencing unethical acts.
 * Recognize that violations undermine professionalism.
 
-
+***
 
 © Association for Computing Machinery; Institute for Electrical and Electronics Engineers
