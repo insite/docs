@@ -10,4 +10,4 @@
 
 ## Archive
 
-* [Previous release notes](archived-release-notes.md)
+* [Notes for previous releases](archived-release-notes.md)
