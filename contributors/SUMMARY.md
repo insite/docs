@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Contributor Documentation](README.md)
-* [Code of ethics and professional practice](<README (1).md>)
+* [Contributors](README.md)
+* [Ethics and professional practice](ethics-and-professional-practice.md)
 
 ## Human Resources
 

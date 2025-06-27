@@ -1,4 +1,4 @@
-# Code of ethics and professional practice
+# Ethics and professional practice
 
 {% file src=".gitbook/assets/Code of Ethics.pdf" %}
 
