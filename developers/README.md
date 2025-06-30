@@ -12,7 +12,7 @@ icon: square-terminal
 
 The Shift iQ Developer Application Programming Interface (API) allows you to access the data in your account through a secure programming interface. It is a RESTful API based on HTTPS requests and JSON responses.
 
-* [API Reference](api-v1/api-reference/)
+* [API Reference](api-v1/introduction.md)
 
 Contact us for developer API keys.
 
