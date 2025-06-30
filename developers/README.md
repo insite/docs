@@ -8,14 +8,14 @@ icon: square-terminal
 
 # Developer Documentation
 
-## Developer API
+## Version 1
 
-The Shift iQ Developer Application Programming Interface (API) allows you to access the data in your account through a secure programming interface. It is a [RESTful API](https://restfulapi.net) based on [HTTPS](https://datatracker.ietf.org/doc/html/rfc2818) requests and [JSON](https://www.json.org/json-en.html) responses.
+The Shift iQ Developer Application Programming Interface (API) allows you to access the data in your account through a secure programming interface. It is a RESTful API based on HTTPS requests and JSON responses.
 
-* [API Documentation](/resources/api)
+* [API Reference](./#version-1)
 
-[Contact us](/contact) for developer API keys.
+Contact us for developer API keys.
 
-## Coming Soon
+## Version 2 Coming Soon
 
 Version 2 of the Shift iQ API is nearing completion. This next version is a much more comprehensive API, providing developers with access to every part of every toolkit throughout the platform. We'll publish updates here when they become available.
