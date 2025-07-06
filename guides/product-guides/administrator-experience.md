@@ -160,28 +160,72 @@ Notifications and direct messages are configured in the Messages toolkit.
 
 ### Notifications
 
-Notifications are sent automatically by the system based on system events, or configurable triggers. For example, you can create a notification and configure it to be sent upon different triggers on a course. Create a new notification by opening the Messages toolkit Click on the Notifications counter tile Click the Add New Notification link at the top of the page\
-Create some sample content and save your notification.
+Notifications are sent automatically by the system based on system events, or configurable triggers. For example, you can create a notification and configure it to be sent upon different triggers on a course.&#x20;
 
-### Attach your notification to a course.
+1. Create a new notification by opening the Messages toolkit
+2. Click on the Notifications counter tile
+3. Click the Add New Notification link at the top of the page
+4. Create some sample content and save your notification.
 
-From the admin home screen or the left hand menu, select the Courses toolkit Click on the Courses counter tile and edit a course Select the Notifications Setup tab and attach your notification to the course. The system will now automatically send the notification based on the criteria you have selected.
+<figure><img src="../.gitbook/assets/admin-experience-07.png" alt=""><figcaption></figcaption></figure>
+
+Attach your notification to a course:
+
+1. From the admin home screen or the left hand menu, select the Courses toolkit
+2. Click on the Courses counter tile and edit a course
+3. Select the Notifications Setup tab and attach your notification to the course
+
+The system will now automatically send the notification based on the criteria you have selected.
 
 ### Direct Messages
 
-You can send a message directly to any system user through their contact record. To send a message to a contact: Search for the person you wish to email in the Contacts toolkit. On the Search Results tab, click on their name to edit them Under the System Access tab, click on the Send Email dropdown. Select Correspondence. From here you can select a template from the list or create a new message from scratch. Follow the prompts to send the message. Note, sending has been disabled in Sandbox. A complete history of changes to a contact including the dates of any messages sent and the content of those messages is available on the Person -> Details tab.
+You can send a message directly to any system user through their contact record.
+
+To send a message to a contact:&#x20;
+
+1. Search for the person you wish to email in the Contacts toolkit
+2. On the Search Results tab, click on their name to edit them
+3. Under the System Access tab, click on the Send Email dropdown
+4. Select Correspondence. From here you can select a template from the list or create a new message from scratch
+5. Follow the prompts to send the message. Note, sending has been disabled in Sandbox
+
+A complete history of changes to a contact including the dates of any messages sent and the content of those messages is available on the Person -> Details tab.
+
+<figure><img src="../.gitbook/assets/admin-experience-08.png" alt=""><figcaption></figcaption></figure>
 
 ## Tracking & Reporting
 
 ### Key learner insights
 
-From the admin home screen, Click on the Assessments tile Under the Attempts counter tile, click on the Ad Hoc Attempt Report link In the Exam Bank Framework search criteria box, select the Privacy Awareness (FIPPA) and click Search This will show an overview of all learners who have taken assessments based on this framework. Attempts: Shows learner scores, time it took to complete the assessment, and gives a pass/fail indicator Time Series: Shows what time of the day/week/month learners are interacting with your assessments Statistics: Shows average statistics for all learners interacting with that topic. Question Analysis: Gives detailed analysis of each question to allow you to determine the effectiveness of your assessment questions. Standards: Shows average scores for each competency in your framework. This can highlight the strengths and weaknesses of your training program. Note, you can also toggle this to a learner view to see this report by individual learner.\
-Downloads: Download any of this data to share or for external analysis.
+1. From the admin home screen, Click on the **Assessments** tile
+2. Under the **Attempts** counter tile, click on the **Ad Hoc Attempt Report** link
+3. In the **Exam Bank Framework** search criteria box, select the Privacy Awareness (FIPPA) and click **Search**
+4. This will show an overview of all learners who have taken assessments based on this framework
+   1. **Attempts**: Shows learner scores, time it took to complete the assessment, and gives a pass/fail indicator
+   2. **Time Series**: Shows what time of the day/week/month learners are interacting with your assessments
+   3. **Statistics**: Shows average statistics for all learners interacting with that topic
+   4. **Question Analysis**: Gives detailed analysis of each question to allow you to determine the effectiveness of your assessment questions
+   5. **Standards**: Shows average scores for each competency in your framework. This can highlight the strengths and weaknesses of your training program. Note, you can also toggle this to a learner view to see this report by individual learner.
+   6. **Downloads**: Download any of this data to share or for external analysis.
+
+<figure><img src="../.gitbook/assets/admin-experience-09.png" alt=""><figcaption></figcaption></figure>
 
 ### View or Export learner records from the person record
 
-From the admin home screen, click on Contacts tile Filter for and edit Jane Learner Select any option from the More Info dropdown to open the person detail report Scroll up to see the Print Training Records button Print to export a pdf of that learner's history
+1. From the admin home screen, click on **Contacts** tile
+2. Filter for and edit Jane Learner
+3. Select any option from the **More Info** dropdown to open the person detail report
+4. Scroll up to see the **Print Training Records** button
+5. Print to export a pdf of that learner's history
 
 ### View or Export learner records from the Gradebook
 
-From the admin home screen, click on Records tile Click on the Gradebooks counter tile or the Learner Scores counter tile Select the gradebook that corresponds to the course for which you would like to pull scores. Note, Introduction to Statics has a lot of data to play with. The Learner Progress tab allows you to see progress through the learning material for each learner, along with their grades or achievement on each grade item. The Achievements tab will show when achievements were granted, and whether they are still valid. The Grade items tab will give an overview of the grade items you have set up. You can add, remove, or change the scoring settings of your gradebook here. Export records using the Summary List button
+1. From the admin home screen, click on **Records** tile
+2. Click on the **Gradebooks** counter tile or the **Learner Scores** counter tile
+3. Select the gradebook that corresponds to the course for which you would like to pull scores. Note, Introduction to Statics has a lot of data to play with.
+4. The **Learner Progress** tab allows you to see progress through the learning material for each learner, along with their grades or achievement on each grade item
+5. The **Achievements** tab will show when achievements were granted, and whether they are still valid
+6. The **Grade items** tab will give an overview of the grade items you have set up. You can add, remove, or change the scoring settings of your gradebook here
+7. Export records using the **Summary List** button
+
+<figure><img src="../.gitbook/assets/admin-experience-10.png" alt=""><figcaption></figcaption></figure>
