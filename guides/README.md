@@ -1,12 +1,13 @@
 ---
 description: >-
-  Explore Shift iQ features in more detail, discover new ways to work, and learn
-  best practices with our guides
+  Explore features in more detail, discover new ways to work, and learn best
+  practices with our guides
 icon: book
 ---
 
 # Guides
 
-#### 🚧 This p**age is under construction** <a href="#this-page-is-under-construction" id="this-page-is-under-construction"></a>
+## Walkthroughs <a href="#this-page-is-under-construction" id="this-page-is-under-construction"></a>
 
-We’re working on something great! This page isn’t quite ready yet, but content is on the way. Please check back soon for updates that will help you get the most out of our platform.
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Experiencing the system as a learner</td><td><a href=".gitbook/assets/learner-card.png">learner-card.png</a></td></tr><tr><td>Experiencing the system as an instructor</td><td><a href=".gitbook/assets/instructor-card.png">instructor-card.png</a></td></tr><tr><td>Experiencing the system as an administrator</td><td><a href=".gitbook/assets/administrator-card.png">administrator-card.png</a></td></tr></tbody></table>
+
