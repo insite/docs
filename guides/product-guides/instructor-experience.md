@@ -11,7 +11,7 @@ Sign in with the email address and password for an instructor. For example:
 * instructor@example.com
 * SuperSecretPassword1234!
 
-## Sample setup for demonstration: Safety Training Authority
+## Sample organization setup: Safety Training Authority
 
 Our team has configured a sample organization for demo and training purposes. You can use this to familiarize yourself with the system and experiment with various features.
 

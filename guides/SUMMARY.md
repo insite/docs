@@ -6,3 +6,4 @@
 
 * [Learner experience](product-guides/learner-experience.md)
 * [Instructor experience](product-guides/instructor-experience.md)
+* [Administrator experience](product-guides/administrator-experience.md)

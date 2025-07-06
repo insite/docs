@@ -29,7 +29,7 @@ You can navigate to the Dashboard page any time by clicking your name at the top
 
 The navigation menu in the left panel provides learners with quick and easy access to everything they need.
 
-## Sample setup for demonstration: Safety Training Authority
+## Sample organization setup: Safety Training Authority
 
 Our team has configured a sample organization for demo and training purposes. You can use this to familiarize yourself with the system and experiment with various features.
 
