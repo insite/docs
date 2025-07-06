@@ -1,3 +1,10 @@
+---
+description: >-
+  This administrator experience walkthrough shows a variety of features,
+  including learner administration, content authoring, assessments and
+  certifications, communication, and reporting
+---
+
 # Administrator experience
 
 ## Getting started
@@ -11,19 +18,21 @@ Sign in with the email address and password for an administrator. For example:
 * administrator@example.com
 * SuperSecretPassword1234!
 
-## Sample organization setup: Safety Training Authority
+## Sample organization overview
 
 Our team has configured a sample organization for demo and training purposes. You can use this to familiarize yourself with the system and experiment with various features.
 
 The sample organization is named Safety Training Authority (STA).
 
-## Overview
+The administrator dashboard contains everything needed to quickly view critical information and shortcuts to access tasks and activities. And just like the learner dashboard, the administrator dashboard is a persistent, synchronous environment, meaning information presented to learners appears in real-time and is always up to date.&#x20;
 
-Admin level dashboards contain everything needed to quickly view critical information and shortcuts to access tasks and activities. And just like the learner dashboard, the admin dashboard is a persistent, synchronous environment, meaning information presented to learners appears in real-time and is always up to date.&#x20;
+Depending on the configuration of the system for your organization account, an administrator might have access to any (or all!) of these features:
+
+<figure><img src="../.gitbook/assets/admin-experience-11.png" alt=""><figcaption></figcaption></figure>
 
 > Administrator Note: Email notifications are disabled in all Sandbox environments.
 
-## Navigate Home
+## Navigate home
 
 Return to the home screen at any time by clicking the Home button, or **Admin** on the breadcrumb trail. Navigate to any toolkit by clicking on the left menu OR on the tile on the main admin work area.
 
@@ -31,7 +40,7 @@ Return to the home screen at any time by clicking the Home button, or **Admin** 
 
 Shift iQ is delivered using role-based access control, meaning different features, functionality and information is displayed to administrators based on their on the permissions and roles in the system.
 
-## Search for Data
+## Search for data
 
 When you click on a toolkit, you're presented with tiles showing the different types of data available there. For example, the **Contacts** toolkit shows that there are 36 **People**, 17 **Employers**, 9 **Roles** (Permissions), etc.
 
@@ -63,7 +72,7 @@ Form the search results tab, edit a person to view all the information the syste
 * View Records, including Grades, Logbooks, Class Registrations, Achievements, Survey responses, and Outcomes.
 * Manage System Access, permissions, multi-factor authentication, password resets, and user impersonations.
 
-## Managing Training & Users
+## Managing Training and Users
 
 ### Adjust user roles and assign a user to a group
 
@@ -111,13 +120,13 @@ SUGGESTED ACTIVITY: Remove a learner’s registration from the Privacy Awareness
 * [ ] Edit the Privacy Awareness FIPPA course
 * [ ] Under the Registrations tab, click the trash icon beside the registration you would like to remove. Note, administrators are always warned when deleting system data.
 
-## Content Creation & Organization
+## Content Creation and Organization
 
 Access documentation related to course creation here: [www.shiftiq.com/help/courses](https://www.shiftiq.com/help/courses)
 
 The Courses toolkit can be used to deliver traditional courses; they can also be used to bundle different activities. For example, you might create course modules that contain surveys, quizzes, assessments, videos, attachments, and other interactions. You can layer these together to create a learning journey that can be completed in a day or one that is intended to be completed over a longer period.
 
-### Suggested Activity
+### Suggested activity
 
 Insert an additional assessment into the Privacy Awareness FIPPA course
 
@@ -134,13 +143,13 @@ Click on Course Catalogue -> Privacy Awareness FIPPA course to see the changes t
 
 <figure><img src="../.gitbook/assets/admin-experience-05.png" alt=""><figcaption></figcaption></figure>
 
-## Assessments & Certifications
+## Assessments and Certifications
 
 ### Adaptive logic
 
 Learning paths can be configured so a learner follows a consecutive series of steps, or they can be configured such that some modules are locked until the learner fulfills certain criteria. For example, you can configure a course where a learner must take lesson 1, then do a test on that material. If they pass the test, they can skip Lesson 2 and complete the course. If they fail, Lesson 2 will unlock and the learner must complete that material to get their achievement.
 
-### Suggested Activity
+### Suggested activity
 
 Configure the Privacy Awareness FIPPA course to follow the logic above.
 
@@ -154,7 +163,7 @@ Configure the Privacy Awareness FIPPA course to follow the logic above.
 
 <figure><img src="../.gitbook/assets/admin-experience-06.png" alt=""><figcaption></figcaption></figure>
 
-## Communication & Learner Engagement
+## Communication and Learner Engagement
 
 Notifications and direct messages are configured in the Messages toolkit.
 
@@ -177,7 +186,7 @@ Attach your notification to a course:
 
 The system will now automatically send the notification based on the criteria you have selected.
 
-### Direct Messages
+### Direct messages
 
 You can send a message directly to any system user through their contact record.
 
@@ -193,7 +202,7 @@ A complete history of changes to a contact including the dates of any messages s
 
 <figure><img src="../.gitbook/assets/admin-experience-08.png" alt=""><figcaption></figcaption></figure>
 
-## Tracking & Reporting
+## Tracking and Reporting
 
 ### Key learner insights
 
@@ -210,7 +219,7 @@ A complete history of changes to a contact including the dates of any messages s
 
 <figure><img src="../.gitbook/assets/admin-experience-09.png" alt=""><figcaption></figcaption></figure>
 
-### View or Export learner records from the person record
+### View or export learner records from the person record
 
 1. From the admin home screen, click on **Contacts** tile
 2. Filter for and edit Jane Learner
@@ -218,7 +227,7 @@ A complete history of changes to a contact including the dates of any messages s
 4. Scroll up to see the **Print Training Records** button
 5. Print to export a pdf of that learner's history
 
-### View or Export learner records from the Gradebook
+### View or export learner records from the gradebook
 
 1. From the admin home screen, click on **Records** tile
 2. Click on the **Gradebooks** counter tile or the **Learner Scores** counter tile

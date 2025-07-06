@@ -1,6 +1,6 @@
 ---
 description: >-
-  This learner experience guide is focused on taking courses in the learning
+  This learner experience walkthrough demonstrates courses in the learning
   portal
 ---
 
@@ -29,7 +29,7 @@ You can navigate to the Dashboard page any time by clicking your name at the top
 
 The navigation menu in the left panel provides learners with quick and easy access to everything they need.
 
-## Sample organization setup: Safety Training Authority
+## Sample organization overview
 
 Our team has configured a sample organization for demo and training purposes. You can use this to familiarize yourself with the system and experiment with various features.
 
@@ -52,7 +52,7 @@ Please note, in the STA demo organization:
 * Notifications are disabled to prevent accidental delivery of email messages.
 * E-commerce and online payment features are disabled for all courses except one. If you are interested to see the online payment process, then follow the registration steps for **JHSC Course 1 eLearning**.
 
-### Explore courses
+## Explore courses
 
 Here is a suggested activity to try for yourself:
 
@@ -65,7 +65,7 @@ Here is a suggested activity to try for yourself:
 
 <figure><img src="../.gitbook/assets/learner-experience-03.png" alt=""><figcaption></figcaption></figure>
 
-### Explore class enrollments
+## Explore class enrollments
 
 Here is a suggested activity to try for yourself:
 

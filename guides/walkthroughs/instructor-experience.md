@@ -1,3 +1,7 @@
+---
+description: This instructor experience walkthrough is demonstrates gradebook features
+---
+
 # Instructor experience
 
 ## Getting started
@@ -11,7 +15,7 @@ Sign in with the email address and password for an instructor. For example:
 * instructor@example.com
 * SuperSecretPassword1234!
 
-## Sample organization setup: Safety Training Authority
+## Sample organization overview
 
 Our team has configured a sample organization for demo and training purposes. You can use this to familiarize yourself with the system and experiment with various features.
 
@@ -23,7 +27,7 @@ The sample organization is named Safety Training Authority (STA). It is configur
 
 The **Course Catalog** displays the same information for an instructor that it displays for a learner.
 
-### Instructor Gradebook
+## Instructor Gradebook
 
 When you navigate to the **Instructor Gradebook** you'll see an administrative view of the system, with limited access to gradebook administration. For example:
 

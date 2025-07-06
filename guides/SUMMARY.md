@@ -2,8 +2,8 @@
 
 * [Guides](README.md)
 
-## Product guides
+## Walkthroughs
 
-* [Learner experience](product-guides/learner-experience.md)
-* [Instructor experience](product-guides/instructor-experience.md)
-* [Administrator experience](product-guides/administrator-experience.md)
+* [Learner experience](walkthroughs/learner-experience.md)
+* [Instructor experience](walkthroughs/instructor-experience.md)
+* [Administrator experience](walkthroughs/administrator-experience.md)
