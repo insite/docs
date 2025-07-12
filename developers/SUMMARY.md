@@ -21,6 +21,7 @@
 
 ## API - v2
 
+* [Introduction](api-v2/introduction.md)
 * [API Reference](api-v2/api-reference/README.md)
   * ```yaml
     props:
