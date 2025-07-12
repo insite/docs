@@ -22,6 +22,8 @@
 ## API - v2
 
 * [Introduction](api-v2/introduction.md)
+* [Authentication](api-v2/authentication.md)
+* [Navigating the API](api-v2/navigating-the-api.md)
 * [API Reference](api-v2/api-reference/README.md)
   * ```yaml
     props:
