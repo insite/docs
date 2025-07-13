@@ -1,5 +1,6 @@
 ---
 description: Authenticate your user when using the API
+icon: key
 ---
 
 # Authentication

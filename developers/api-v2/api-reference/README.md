@@ -1,1 +1,6 @@
-# API Reference for Version 2
+---
+icon: brackets-curly
+---
+
+# API Reference
+
