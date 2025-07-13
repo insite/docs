@@ -7,7 +7,7 @@ icon: calendar-arrow-up
 
 # Date and time values
 
-Date/time values are stored in Microsoft SQL Server using the [DATETIMEOFFSET](https://learn.microsoft.com/en-us/sql/t-sql/data-types/datetimeoffset-transact-sql?view=sql-server-ver16) data type, and in PostgreSQL using the [timestamp with time zone](https://www.postgresql.org/docs/17/datatype-datetime.html) data type.&#x20;
+The API stores date/time values in Microsoft SQL Server using the [DATETIMEOFFSET](https://learn.microsoft.com/en-us/sql/t-sql/data-types/datetimeoffset-transact-sql?view=sql-server-ver16) data type, and in PostgreSQL using the [timestamp with time zone](https://www.postgresql.org/docs/17/datatype-datetime.html) data type.&#x20;
 
 ## Why is explicit time zone information is so important?
 
@@ -15,7 +15,7 @@ Consider the following date/time value for example:
 
 **2025-11-02 01:30 AM**
 
-The exact meaning of this value is ambiguous. In the United States and Canada, Daylight Savings Time (DST) ends on November 2, 2025 at 2:00 AM. At that moment, clocks are set back one hour. Therefore, the hour from 1:00 AM to 2:00 AM occurs twice:
+The exact meaning of this value is ambiguous. In Canada and the United States, Daylight Savings Time (DST) ends on November 2, 2025 at 2:00 AM. At that moment, clocks are set back one hour. Therefore, the hour from 1:00 AM to 2:00 AM occurs twice:
 
 * First, under Eastern Daylight Time (EDT, UTC-4)
 * Then again, under Eastern Standard Time (EST, UTC-5)
@@ -31,13 +31,13 @@ In contrast, consider the following date/time offset value:
 
 **2025-11-01T22:30:00-07:00**
 
-The exact meaning of this value is **not** ambiguous. It can be interpreted one way only:
+In contrast to the previous example, the exact meaning of this value is **not** ambiguous. It can be interpreted one way only:
 
-* November 1, 2025 at 10:30 PM Mountain Standard Time, as observed in Canada/Calgary
+* November 1, 2025 at 10:30 PM Mountain Standard Time, as observed in Canada/Calgary and in America/Denver
 
 It cannot be interpreted to mean any other day, or time, or time zone.
 
-Explicitly including time zone information — in one atomic value with the date and time — ensures every date/time value includes the calendar date, the time of day (based on a 24-hour clock), and time zone awareness (based on Coordinated Universal Time).&#x20;
+Explicitly including time zone awareness — i.e., embedding it in a single atomic value with the date and time — ensures every date/time value includes the calendar date, the time of day (based on a 24-hour clock), and the time zone offset (based on Coordinated Universal Time).&#x20;
 
 In turn, this guarantees the precise meaning of a value is never ambiguous with regard to time zone or (where applicable) rules about daylight savings time.
 
@@ -48,11 +48,11 @@ In turn, this guarantees the precise meaning of a value is never ambiguous with 
 * Logging, auditing, and monitoring in distributed systems where clients and servers operate in different time zones require unambiguous timestamps.
 * Aligning with formal standards and industry best practices found in other modern APIs is especially important for data serialization. This is critical for reliable communication between systems that need to exchange time-based data across platform boundaries.
 
-## ISO 8601 = The round-trip format
+## ISO 8601
 
 The API uses the [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format for all date/time values.&#x20;
 
-This format is often referred to as the **round-trip format** in data serialization contexts because it ensures a date/time value can be:
+This format is often referred to as the **round-trip format** in data serialization contexts because it guarantees a date/time value can be:
 
 * **Serialized** (converted to a string), and then
 * **Deserialized** (parsed back to the original object)
@@ -61,7 +61,7 @@ with **zero loss** of information.
 
 ### Key characteristics enabling round-trip accuracy
 
-The round-trip format has several important characteristics:
+This round-trip format has several important characteristics:
 
 | **Full date-time precision**  | Includes year, month, day, hour, minute, second, fractional seconds (optional).               |
 | ----------------------------- | --------------------------------------------------------------------------------------------- |
@@ -69,9 +69,11 @@ The round-trip format has several important characteristics:
 | **Unambiguous format**        | Uses fixed patterns like `YYYY-MM-DDTHH:mm:ssK`, where `K` includes the offset.               |
 | **Invariant across cultures** | Not affected by locale settings (e.g., no "AM/PM", no localized month names).                 |
 
+## The round-trip format
+
 In .NET, the ISO 8601 format corresponds to the "O" (round-trip) or "o" format specifier for function calls to `DateTimeOffset.ToString()`.
 
-.NET follows the standard with this pattern:
+.NET follows the ISO 8601 standard with this pattern:
 
 `yyyy-MM-ddTHH:mm:ss.fffffffK`
 
