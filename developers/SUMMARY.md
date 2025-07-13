@@ -38,11 +38,11 @@
 
 ## Resources
 
-* [.NET Versions](dotnet-versions.md)
+* [.NET versions](dotnet-versions.md)
 
 ***
 
-* [Sending and receiving date and time values](sending-and-receiving-date-and-time-values.md)
+* [Date and time values](date-and-time-values.md)
 
 ## Integrations
 

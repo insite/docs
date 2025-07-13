@@ -1,9 +1,9 @@
 ---
-description: A quick refresher on the various flavours of Microsoft .NET
+description: A quick refresher on the many different flavors of Microsoft .NET
 icon: hashtag
 ---
 
-# .NET Versions
+# .NET versions
 
 This document outlines the approach to migrating source code from .NET Framework 4.8 to .NET Standard 2.0 and .NET 9 (Core).
 
