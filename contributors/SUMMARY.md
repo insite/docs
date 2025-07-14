@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Contributors](README.md)
-* [Page](page.md)
 * [Components](components/README.md)
   * [Utility Components](components/utility-components/README.md)
     * [Metadata](components/utility-components/metadata.md)
