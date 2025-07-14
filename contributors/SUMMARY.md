@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Contributors](README.md)
-* [Code of ethics and professional practice for software engineering](ethics-and-professional-practice.md)
+* [Page](page.md)
 * [Components](components/README.md)
   * [Utility Components](components/utility-components/README.md)
     * [Metadata](components/utility-components/metadata.md)
@@ -15,3 +15,11 @@
       * [Organization Collections](components/utility-components/security/organization-collections.md)
     * [Setup](components/utility-components/setup/README.md)
       * [Colours](components/utility-components/setup/colours.md)
+
+## Conventions
+
+* [Task list comment tokens](conventions/task-list-comment-tokens.md)
+
+## Values
+
+* [Code of ethics and professional practice for software engineering](values/ethics-and-professional-practice.md)
