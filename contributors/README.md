@@ -6,9 +6,7 @@ description: Consistency, clarity, and collaboration in code
 
 Welcome to the Contributors area of our documentation. This section is designed to provide internal developers and collaborators with the knowledge, structure, and shared understanding necessary to contribute effectively to the platform. Whether you're extending functionality, integrating services, or improving internal tooling, this is your hub for technical alignment and team standards.
 
-> Please note this is (very much!) a work-in-progress, with a lot of content still "under construction" and not yet published. You're likely to see something new here every week, so check back regularly.
-
-***
+> Please note this section is a work-in-progress, with a lot of content that is under construction and not yet published. You are likely to see something new here every week, so check back regularly.
 
 ## Architecture
 
