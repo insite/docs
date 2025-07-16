@@ -1,7 +1,7 @@
 ---
 description: Tips and tricks for exploring the various components
-icon: location-arrow
+icon: brackets-curly
 ---
 
-# Navigating the API
+# Endpoints
 

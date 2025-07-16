@@ -7,7 +7,7 @@
 ## API - v1
 
 * [Introduction](api-v1/introduction.md)
-* [API Reference](api-v1/api-reference/README.md)
+* [Endpoints](api-v1/api-reference/README.md)
   * ```yaml
     props:
       models: true
@@ -22,9 +22,9 @@
 ## API - v2
 
 * [Introduction](api-v2/introduction.md)
-* [Authentication and authorization](api-v2/authentication-and-authorization.md)
-* [Endpoints](api-v2/endpoints/README.md)
-  * [API Reference](api-v2/endpoints/api-reference/README.md)
+* [Authentication](api-v2/authentication.md)
+* [Endpoints](api-v2/navigating-the-api.md)
+  * [OpenAPI Specification](api-v2/api-reference/README.md)
     * ```yaml
       props:
         models: true
@@ -39,6 +39,7 @@
 ***
 
 * [Request and response formats](request-and-response-formats.md)
+* [Rate limits and throttling](rate-limits-and-throttling.md)
 
 ## Resources
 
