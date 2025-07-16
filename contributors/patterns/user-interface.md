@@ -24,15 +24,15 @@ A search query is specifically designed for this purpose.&#x20;
 
 For example, if you are building a combo box in React to find and select a gradebook, then use the **Search** endpoint in the API:
 
-`/progress/gradebooks/search`
+<mark style="color:blue;">**progress/gradebooks/search**</mark>
 
 {% hint style="info" %}
-For details, refer to [API Reference](https://app.gitbook.com/s/yCodYcY9Svgs5pGsCpXh/api-v2/api-reference "mention")
+For details, refer to the [API Reference](https://app.gitbook.com/s/yCodYcY9Svgs5pGsCpXh/api-v2/api-reference "mention")
 {% endhint %}
 
-### Similar API endpoints to query for data
+### Using the API to query data
 
-Here is a brief summary of the intended developer use case for similar API endpoints:
+Here is a summary of the intended developer use case for similar endpoints in the API:
 
-<table data-header-hidden><thead><tr><th width="135">Query Type</th><th width="398">Query Purpose</th><th>Endpoint Pattern</th></tr></thead><tbody><tr><td><i class="fa-check">:check:</i> <strong>Assert</strong></td><td>Checks for the existence of one specific item in a collection using its primary key (returns true or false)</td><td><p><strong>HEAD</strong></p><p>api/collection/{id}</p></td></tr><tr><td><i class="fa-album-collection">:album-collection:</i> <strong>Collect</strong></td><td>Finds matching items in a collection (returns a list of heavyweight models, suitable for detailed views of the item in a UI, integration with other systems, etc.)</td><td><strong>GET or POST</strong><br>api/collection</td></tr><tr><td><i class="fa-tally">:tally:</i> <strong>Count</strong></td><td>Counts the matching items in a collection (returns an integer)</td><td><strong>GET or POST</strong><br>api/collection/count</td></tr><tr><td><i class="fa-memo">:memo:</i> <strong>Retrieve</strong></td><td>Finds one specific item in a collection using its primary key (returns a heavyweight model suitable for a detailed view of the item in a UI)</td><td><p><strong>GET</strong></p><p>api/collection/{id}</p></td></tr><tr><td><i class="fa-magnifying-glass">:magnifying-glass:</i> <strong>Search</strong></td><td>Find matching items in a collection (return a list of lightweight models intended for search results, combo boxes, lookups, etc.)</td><td><strong>GET or POST</strong><br>api/collection/search</td></tr></tbody></table>
+<table><thead><tr><th width="135">Query Type</th><th width="398">Query Purpose</th><th>Endpoint Pattern</th></tr></thead><tbody><tr><td><i class="fa-check">:check:</i> <strong>Assert</strong></td><td>Checks for the existence of one specific item in a collection using its primary key (returns true or false)</td><td><p><strong>HEAD</strong></p><p>api/collection/{id}</p></td></tr><tr><td><i class="fa-album-collection">:album-collection:</i> <strong>Collect</strong></td><td>Finds matching items in a collection (returns a list of heavyweight models, suitable for detailed views of the item in a UI, integration with other systems, etc.)</td><td><strong>GET or POST</strong><br>api/collection</td></tr><tr><td><i class="fa-tally">:tally:</i> <strong>Count</strong></td><td>Counts the matching items in a collection (returns an integer)</td><td><strong>GET or POST</strong><br>api/collection/count</td></tr><tr><td><i class="fa-album">:album:</i> <strong>Retrieve</strong></td><td>Finds one specific item in a collection using its primary key (returns a heavyweight model suitable for a detailed view of the item in a UI)</td><td><p><strong>GET</strong></p><p>api/collection/{id}</p></td></tr><tr><td><i class="fa-magnifying-glass">:magnifying-glass:</i> <strong>Search</strong></td><td>Find matching items in a collection (return a list of lightweight models intended for search results, combo boxes, lookups, etc.)</td><td><strong>GET or POST</strong><br>api/collection/search</td></tr></tbody></table>
 
