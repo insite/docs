@@ -26,6 +26,10 @@ For example, if you are building a combo box in React to find and select a grade
 
 `/progress/gradebooks/search`
 
+{% hint style="info" %}
+For details, refer to [API Reference](https://app.gitbook.com/s/yCodYcY9Svgs5pGsCpXh/api-v2/api-reference "mention")
+{% endhint %}
+
 ### Similar API endpoints to query for data
 
 Here is a brief summary of the intended developer use case for similar API endpoints:
