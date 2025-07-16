@@ -18,7 +18,7 @@
 * Decide if the new customer will be created in an existing partition or a new one (if the latter, see creating a new partition)
 * Create the account in /ui/admin/accounts/organizations/create of the desired/new partition:
 *
-  * Parent organization - Global (except for Keyera orgs, use CMDS) **Note:** this is what gives us Platform Admins all the permissions we need to be boss.&#x20;
+  * Parent organization - Global (except for Keyera orgs, use CMDS) **Note:** this is what gives us Platform Admins all the permissions we need to be boss.
   * Organization Code - this is what their portion of the url will be with .insite.com or .shiftiq.com
   * Organization Name - this is what is seen as their name inside Shift iQ, both by us and our customers, as well as in any alerts with the placeholder of $OrganizationName
   * Full Legal Name - can be same as Organization Name, but if using an acronym, suggest full name here for reference
@@ -35,8 +35,8 @@
     * Allow new users to self-register by link only - select if account wants to use specific links to each role group that allows self-subscribe, the New Users tab isn’t visible so users can only register using the links
     * Automatically grant Portal (learner) access to self-registered users - select if account doesn’t want to review self-registered new user accounts before they have access to a portal (if selected, ensure account is configured to give something to new users, not just a blank portal; if unselected, ensure account has the **AccessRequested** alert configured)
     * Settings card can be ignored
-  * &#x20;
-  * **Advanced** subtab, see [Advanced configuration](broken-reference) topic
+  *
+  * **Advanced** subtab, see [Advanced configuration](../../../../../components/utility-components/security/setting-up-new-organizations/broken-reference/) topic
 * Configuration for desired New User Journey
 *
   * Do they want the New Users tab visible or not

@@ -72,7 +72,7 @@ Shift iQ contains:
 * **2 Plugin Components**
 * **4 Utility Components**
 
-<figure><img src=".gitbook/assets/components.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../components/.gitbook/assets/components.png" alt=""><figcaption></figcaption></figure>
 
 #### Features (Apps)
 
