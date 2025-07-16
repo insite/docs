@@ -2,7 +2,7 @@
 
 ## July 2025
 
-* [July 9: Version 25.4](README.md)
+* [July 9: Version 25.4 is in pre-release](README.md)
 
 ## June 2025
 
