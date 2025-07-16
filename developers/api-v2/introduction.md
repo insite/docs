@@ -21,7 +21,7 @@ The Base URL for the API endpoints is also displayed for reference. Please note 
 
 ## OpenAPI Specification
 
-The [OpenAPI Specification](https://www.openapis.org/) (OAS) provides a consistent means to carry information through each stage of the API lifecycle. It is a specification language for HTTP APIs that defines structure and syntax in a way that is not wedded to the programming language the API is created in. API specifications are typically written in YAML or JSON, allowing for easy sharing and consumption of the specification.
+The [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) (OAS) provides a consistent means to carry information through each stage of the API lifecycle. It is a specification language for HTTP APIs that defines structure and syntax in a way that is not wedded to the programming language the API is created in. API specifications are typically written in YAML or JSON, allowing for easy sharing and consumption of the specification.
 
 With OAS, you can quickly discover how an API works. As it is programming-language agnostic you can quickly identify and understand service capabilities. You can also use OAS to configure infrastructure, generate client code and create test cases for your APIs. OAS can therefore support your endeavors throughout the API lifecycle, and help you communicate with developer communities both inside and outside your organization.
 
