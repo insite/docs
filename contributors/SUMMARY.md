@@ -15,6 +15,10 @@
     * [Setup](components/utility-components/setup/README.md)
       * [Colours](components/utility-components/setup/colours.md)
 
+## Patterns
+
+* [User interface](patterns/user-interface.md)
+
 ## Conventions
 
 * [Task list comment tokens](conventions/task-list-comment-tokens.md)
