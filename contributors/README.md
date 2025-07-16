@@ -78,4 +78,6 @@ The principles that guide how we build, collaborate, and make decisions. This se
 
 ***
 
-> 💡 **New here?** Start with the Architecture and Values sections before diving into code.
+{% hint style="info" %}
+💡 **New here?** Start with the Architecture and Values sections before diving into code.
+{% endhint %}
