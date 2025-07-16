@@ -8,7 +8,9 @@ Welcome to the Contributors area of our documentation. This section is designed 
 
 > Please note this is (very much!) a work-in-progress, with a lot of content still "under construction" and not yet published. You're likely to see something new here every week, so check back regularly.
 
-### Architecture
+***
+
+## Architecture
 
 Understand the high-level structure of the system, including service boundaries, deployment topology, and integration points. This section outlines how components interact, where responsibilities lie, and how the system scales and evolves.
 
@@ -20,7 +22,7 @@ Understand the high-level structure of the system, including service boundaries,
 
 ***
 
-### Domain Models
+## Domain models
 
 Get familiar with the core business concepts and how they are represented in code. This section defines the primary entities, their relationships, and the domain-driven design principles that guide model construction.
 
@@ -32,7 +34,7 @@ Get familiar with the core business concepts and how they are represented in cod
 
 ***
 
-### Internal Code Reference
+## Internal code reference
 
 A comprehensive, indexed and searchable reference for internal documentation generated directly from the source code using [DocFX](https://dotnet.github.io/docfx/), including interfaces, kernel libraries, application libraries, and infrastructure libraries. This section helps you understand existing capabilities and how to safely extend or consume them.
 
@@ -42,7 +44,7 @@ A comprehensive, indexed and searchable reference for internal documentation gen
 
 ***
 
-### Patterns
+## Patterns
 
 A library of reusable patterns for solving common problems in a consistent way. These include UI interaction patterns, error handling approaches, data loading strategies, and more.
 
@@ -54,7 +56,7 @@ A library of reusable patterns for solving common problems in a consistent way. 
 
 ***
 
-### Conventions
+## Conventions
 
 Documented rules and stylistic preferences that keep our code and processes consistent. From naming conventions and folder structures to testing strategies, this section supports clarity and maintainability.
 
@@ -66,7 +68,7 @@ Documented rules and stylistic preferences that keep our code and processes cons
 
 ***
 
-### Values
+## Values
 
 The principles that guide how we build, collaborate, and make decisions. This section anchors the technical documentation in the broader goals of quality, usability, and team trust.
 
