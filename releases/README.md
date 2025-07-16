@@ -31,4 +31,4 @@ Contact your Shift iQ support team -- we're here to help!
 
 Phone: 1 (888) 435‑0981 x2\
 Email: support@shiftiq.com\
-[Support Portal](https://dm96xp04.na3.hubspotlinks.com/Ctc/DR+113/dM96xP04/VX6_Cv3LPczSW5rg82S5TYyXTW91lZlN5z3n0WN1h3yrs3m2nnW7Y8-PT6lZ3p5W22ffS28t3T8VW1m5Wkr7dNHCfW6PBfnS8qtvp9W7pq1mP1qFd1ZW3tJc425S2VyQW1wNg5F67zLlhN3vQxRkF9tHqW2Mp3w31db031N1C71pNPJDszW2NxWsZ73KFX5W8WDxk-1f4FZgW1d4r037l4h9GMnjClr2LrYKVNmSyQ8Dg4lLW4QD8KK5S2yPwW4kqq2q1WThKFW4Rjldy9kdSDcN5PPx5ch-3X0W4Dt84f3cgdMKW30lsw954SBxpW5wxF7K1xrp8kW6WlM1D6QWJbwN6kYrbxys39jVWHNy-95f_TcW60xlRf7h33ThW9gJTMR23C8njf8071JK04)
+[Support Portal](https://insite.atlassian.net/servicedesk/customer/portal)
