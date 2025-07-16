@@ -22,19 +22,23 @@
 ## API - v2
 
 * [Introduction](api-v2/introduction.md)
-* [Authentication](api-v2/authentication.md)
-* [Navigating the API](api-v2/navigating-the-api.md)
-* [API Reference](api-v2/api-reference/README.md)
-  * ```yaml
-    props:
-      models: true
-    type: builtin:openapi
-    dependencies:
-      spec:
-        ref:
-          kind: openapi
-          spec: api-v2
-    ```
+* [Authentication and authorization](api-v2/authentication-and-authorization.md)
+* [Endpoints](api-v2/endpoints/README.md)
+  * [API Reference](api-v2/endpoints/api-reference/README.md)
+    * ```yaml
+      props:
+        models: true
+      type: builtin:openapi
+      dependencies:
+        spec:
+          ref:
+            kind: openapi
+            spec: api-v2
+      ```
+
+***
+
+* [Request and response formats](request-and-response-formats.md)
 
 ## Resources
 
