@@ -4,6 +4,14 @@ icon: bullseye-arrow
 
 # Introduction
 
+Version 1 of the API provides a basic toolset for building integrations and reporting solutions. It includes tools for reporting on learners, departments, achievements, competencies, and job profiles — as well as updating and importing contacts, and managing event registrations.
+
+The Swagger OpenAPI specification is available here: [API Reference](introduction.md)
+
+{% hint style="info" %}
+Contact our service and support team to have your developer account enabled.&#x20;
+{% endhint %}
+
 The Shift iQ Developer Application Programming Interface (API) allows you to access the data in your account through a secure programming interface. It is a [RESTful API](https://restfulapi.net) based on [HTTPS](https://datatracker.ietf.org/doc/html/rfc2818) requests and [JSON](https://www.json.org/json-en.html) responses, which means you can use your programming language of choice.
 
 ## Getting Started

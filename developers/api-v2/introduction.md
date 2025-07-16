@@ -7,6 +7,12 @@ icon: bullseye-arrow
 
 # Introduction
 
+Version 2 of the API is a much more advanced and more comprehensive programming interface, providing developers and integrators with access to every part of every subsystem throughout the platform.&#x20;
+
+{% hint style="danger" %}
+Version 2 is a **beta release only** and is therefore subject to change. We'll post updates as they become available. If you'd like join our beta program, then please contact our service and support team to have your developer account enabled. We'd love to have your help and feedback!
+{% endhint %}
+
 ## Authentication
 
 Your developer API key is available on the My Profile page for your account.&#x20;
