@@ -1,8 +1,12 @@
 # Table of contents
 
+## July 2025
+
+* [July 9: Version 25.4](README.md)
+
 ## June 2025
 
-* [June 20: Welcome to the changelog](README.md)
+* [June 20: Welcome to the changelog](<README (1).md>)
 
 ## May 2025
 
