@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-* [Developer Documentation](README.md)
+* [Developers](README.md)
 
 ## API - v1
 
