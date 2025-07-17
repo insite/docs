@@ -1,5 +1,5 @@
 ---
-description: Version 25.3 was released to the Production environment today.
+description: Version 25.3 was released to the Production environment today
 ---
 
 # May 28: Version 25.3 is live!
