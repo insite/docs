@@ -21,12 +21,9 @@
 
 * [User interface](patterns/user-interface.md)
 
-***
-
-* [Database naming conventions](database-naming-conventions.md)
-
 ## Conventions
 
+* [Database naming conventions](conventions/database-naming-conventions.md)
 * [Task list comment tokens](conventions/task-list-comment-tokens.md)
 
 ## Values
