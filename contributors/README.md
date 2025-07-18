@@ -2,7 +2,7 @@
 description: Consistency, clarity, and collaboration in code
 ---
 
-# Contributors
+# Contributor documentation
 
 Welcome to the Contributors area of our documentation. This section is designed to provide internal developers and collaborators with the knowledge, structure, and shared understanding necessary to contribute effectively to the platform. Whether you're extending functionality, integrating services, or improving internal tooling, this is your hub for technical alignment and team standards.
 
@@ -63,6 +63,20 @@ Documented rules and stylistic preferences that keep our code and processes cons
 * Git branching, commit, and review practices
 
 👉 _Follow these conventions when writing code, tests, or documentation._
+
+***
+
+## Tools and utilities
+
+Tips and tricks to streamline platform development, debugging, and diagnostics. This section provides some "extra" information about the tools used (and recommended!) by our contributors. This includes things like IDE setup, command-line tooling, build scripts, and local environment configuration.
+
+* IDE setup
+* CLI tools and wrappers
+* Debugging and profiling utilities
+* Build and packaging scripts
+* Local development environments
+
+👉 Use this section to align your local development environment with the core team.
 
 ***
 
