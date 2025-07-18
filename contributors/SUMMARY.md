@@ -26,6 +26,10 @@
 * [Database naming conventions](conventions/database-naming-conventions.md)
 * [Task list comment tokens](conventions/task-list-comment-tokens.md)
 
+***
+
+* [Version numbers](version-numbers.md)
+
 ## Values
 
 * [Code of ethics and professional practice for software engineering](values/ethics-and-professional-practice.md)
