@@ -17,16 +17,32 @@
     * [Setup](getting-started/components/utility-components/setup/README.md)
       * [Colours](getting-started/components/utility-components/setup/colours.md)
 
-## Patterns
-
-* [User interface](patterns/user-interface.md)
-
-## Conventions
-
-* [Database naming conventions](conventions/database-naming-conventions.md)
-* [Task list comment tokens](conventions/task-list-comment-tokens.md)
-* [Version numbers](conventions/version-numbers.md)
-
 ## Values
 
 * [Code of ethics and professional practice for software engineering](values/ethics-and-professional-practice.md)
+
+## Architecture
+
+* [Coming soon!](architecture/coming-soon.md)
+
+## Domain models
+
+* [Coming soon!](domain-models/coming-soon.md)
+
+## Coding conventions
+
+* [Database naming conventions](coding-conventions/database-naming-conventions.md)
+* [Task list comment tokens](coding-conventions/task-list-comment-tokens.md)
+* [Version numbers](coding-conventions/version-numbers.md)
+
+## Implementation patterns
+
+* [User interface](implementation-patterns/user-interface.md)
+
+## Tools and utilities
+
+* [Coming soon!](tools-and-utilities/coming-soon.md)
+
+## Internal code reference
+
+* [Coming soon!](internal-code-reference/coming-soon.md)
