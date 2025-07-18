@@ -25,10 +25,7 @@
 
 * [Database naming conventions](conventions/database-naming-conventions.md)
 * [Task list comment tokens](conventions/task-list-comment-tokens.md)
-
-***
-
-* [Version numbers](version-numbers.md)
+* [Version numbers](conventions/version-numbers.md)
 
 ## Values
 
