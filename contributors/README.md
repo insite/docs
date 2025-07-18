@@ -8,6 +8,18 @@ Welcome to the Contributors area of our documentation. This section is designed 
 
 > Please note this section is a work-in-progress, with a lot of content that is under construction and not yet published. You are likely to see something new here every week, so check back regularly.
 
+## Values
+
+The principles that guide how we build, collaborate, and make decisions. This section anchors the technical documentation in the broader goals of quality, usability, and team trust.
+
+* Design and engineering philosophies
+* Accessibility, security, and performance priorities
+* Collaboration and review culture
+
+👉 _Keep these values in mind when making architectural or implementation choices._
+
+***
+
 ## Architecture
 
 Understand the high-level structure of the system, including service boundaries, deployment topology, and integration points. This section outlines how components interact, where responsibilities lie, and how the system scales and evolves.
@@ -32,29 +44,7 @@ Get familiar with the core business concepts and how they are represented in cod
 
 ***
 
-## Internal code reference
-
-A comprehensive, indexed and searchable reference for internal documentation generated directly from the source code using [DocFX](https://dotnet.github.io/docfx/), including interfaces, kernel libraries, application libraries, and infrastructure libraries. This section helps you understand existing capabilities and how to safely extend or consume them.
-
-* Class/method/property definitions
-
-👉 _Reference this section when modifying platform source code._
-
-***
-
-## Patterns
-
-A library of reusable patterns for solving common problems in a consistent way. These include UI interaction patterns, error handling approaches, data loading strategies, and more.
-
-* UI patterns and component behaviors
-* Backend workflow patterns
-* Async communication and retries
-
-👉 _Consult this section to follow or contribute standardized solutions._
-
-***
-
-## Conventions
+## Coding conventions
 
 Documented rules and stylistic preferences that keep our code and processes consistent. From naming conventions and folder structures to testing strategies, this section supports clarity and maintainability.
 
@@ -63,6 +53,18 @@ Documented rules and stylistic preferences that keep our code and processes cons
 * Git branching, commit, and review practices
 
 👉 _Follow these conventions when writing code, tests, or documentation._
+
+***
+
+## Implementation patterns
+
+A library of reusable patterns for solving common problems in a consistent way. These include UI interaction patterns, error handling approaches, data loading strategies, and more.
+
+* UI patterns and component behaviors
+* Backend workflow patterns
+* Async communication and retries
+
+👉 _Consult this section to follow or contribute standardized solutions._
 
 ***
 
@@ -80,15 +82,13 @@ Tips and tricks to streamline platform development, debugging, and diagnostics. 
 
 ***
 
-## Values
+## Internal code reference
 
-The principles that guide how we build, collaborate, and make decisions. This section anchors the technical documentation in the broader goals of quality, usability, and team trust.
+A comprehensive, indexed and searchable reference for internal documentation generated directly from the source code using [DocFX](https://dotnet.github.io/docfx/), including interfaces, kernel libraries, application libraries, and infrastructure libraries. This section helps you understand existing capabilities and how to safely extend or consume them.
 
-* Design and engineering philosophies
-* Accessibility, security, and performance priorities
-* Collaboration and review culture
+* Class/method/property definitions
 
-👉 _Keep these values in mind when making architectural or implementation choices._
+👉 _Reference this section when modifying platform source code._
 
 ***
 
