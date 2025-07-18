@@ -4,6 +4,10 @@
 
 * [Developers](README.md)
 
+***
+
+* [Queries and commands](queries-and-commands.md)
+
 ## API - v1
 
 * [Introduction](api-v1/introduction.md)
