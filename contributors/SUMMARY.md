@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-* [Contributors](README.md)
+* [Contributor documentation](README.md)
 * [Components](getting-started/components/README.md)
   * [Utility Components](getting-started/components/utility-components/README.md)
     * [Metadata](getting-started/components/utility-components/metadata.md)
