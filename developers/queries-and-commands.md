@@ -1,5 +1,6 @@
 ---
 description: Lions, and tigers, and bears — oh my!
+icon: timeline-arrow
 ---
 
 # Queries and commands
