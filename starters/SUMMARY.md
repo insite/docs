@@ -6,4 +6,4 @@
 
 ## Announcements
 
-* [Upcoming version 25.4](announcements/upcoming-version-25.4.md)
+* [Upcoming version 25.5](announcements/upcoming-version-25.5.md)
