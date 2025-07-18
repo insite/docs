@@ -1,3 +1,7 @@
+---
+description: Naming conventions to help every contributor speak the same schema
+---
+
 # Database naming conventions
 
 {% hint style="info" %}
