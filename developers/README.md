@@ -6,9 +6,9 @@ description: >-
 icon: square-terminal
 ---
 
-# Developer Documentation
+# Developer documentation
 
-Welcome to the Developers area of our documentation. This section is intended for external developers consuming our public APIs directly, technical partners embedding or extending our platform, and integration teams implementing custom or third-party connectors. Whether you're building a new integration, connecting between platforms, or creating shared tooling, you'll find technical guidance and reference information here to help you get started.
+Welcome to the developer documentation for Shift iQ. These docs are intended for external developers consuming our public APIs directly, technical partners embedding or extending our platform, and integration teams implementing custom or third-party connectors. Whether you're building a new integration, connecting between platforms, or creating shared tooling, you'll find technical guidance and reference information here to help you get started.
 
 ## Overview
 
