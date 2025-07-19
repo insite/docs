@@ -33,12 +33,13 @@
 
 * [Database naming conventions](coding-conventions/database-naming-conventions.md)
 * [README files](coding-conventions/readme-files.md)
+* [Git repository folder structure](coding-conventions/git-repository-folder-structure.md)
 * [Task list comment tokens](coding-conventions/task-list-comment-tokens.md)
 * [Version numbers](coding-conventions/version-numbers.md)
 
 ***
 
-* [Videos recommendations](videos-recommendations.md)
+* [Video recommendations](video-recommendations.md)
 
 ## Implementation patterns
 

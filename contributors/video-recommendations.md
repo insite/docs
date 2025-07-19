@@ -4,7 +4,7 @@ description: >-
   contributors
 ---
 
-# Videos recommendations
+# Video recommendations
 
 ## Dependency injection: the best pattern
 
