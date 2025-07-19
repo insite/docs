@@ -33,7 +33,7 @@
 
 * [Database naming conventions](coding-conventions/database-naming-conventions.md)
 * [README files](coding-conventions/readme-files.md)
-* [Git repository folder structure](coding-conventions/git-repository-folder-structure.md)
+* [Folder structure and project names](coding-conventions/folder-structure-and-project-names.md)
 * [Task list comment tokens](coding-conventions/task-list-comment-tokens.md)
 * [Version numbers](coding-conventions/version-numbers.md)
 
