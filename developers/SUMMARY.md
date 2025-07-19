@@ -28,17 +28,16 @@
 * [Introduction](api-v2/introduction.md)
 * [Authentication](api-v2/authentication.md)
 * [Endpoints](api-v2/navigating-the-api.md)
-  * [OpenAPI Specification](api-v2/api-reference/README.md)
-    * ```yaml
-      props:
-        models: true
-      type: builtin:openapi
-      dependencies:
-        spec:
-          ref:
-            kind: openapi
-            spec: api-v2
-      ```
+  * ```yaml
+    props:
+      models: true
+    type: builtin:openapi
+    dependencies:
+      spec:
+        ref:
+          kind: openapi
+          spec: api-v2
+    ```
 
 ***
 
