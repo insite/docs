@@ -25,31 +25,31 @@
 
 * [Coming soon!](architecture/coming-soon.md)
 
-## Domain models
+## Domain models <a href="#domains" id="domains"></a>
 
-* [Coming soon!](domain-models/coming-soon.md)
+* [Coming soon!](domains/coming-soon.md)
 
-## Coding conventions
+## Conventions
 
-* [API conventions](coding-conventions/api-conventions.md)
-* [Database naming conventions](coding-conventions/database-naming-conventions.md)
-* [README files](coding-conventions/readme-files.md)
-* [Folder structure and project names](coding-conventions/folder-structure-and-project-names.md)
-* [Task list comment tokens](coding-conventions/task-list-comment-tokens.md)
-* [Version numbers](coding-conventions/version-numbers.md)
+* [API conventions](conventions/api-conventions.md)
+* [Database naming conventions](conventions/database-naming-conventions.md)
+* [README files](conventions/readme-files.md)
+* [Folder structure and project names](conventions/folder-structure-and-project-names.md)
+* [Task list comment tokens](conventions/task-list-comment-tokens.md)
+* [Version numbers](conventions/version-numbers.md)
 
 ***
 
 * [Video recommendations](video-recommendations.md)
 
-## Implementation patterns
+## Patterns
 
-* [User interface](implementation-patterns/user-interface.md)
+* [User interface](patterns/user-interface.md)
 
-## Tools and utilities
+## Tools and utilities <a href="#tools" id="tools"></a>
 
-* [Coming soon!](tools-and-utilities/coming-soon.md)
+* [Coming soon!](tools/coming-soon.md)
 
-## Internal code reference
+## Code reference <a href="#code" id="code"></a>
 
-* [Coming soon!](internal-code-reference/coming-soon.md)
+* [Coming soon!](code/coming-soon.md)
