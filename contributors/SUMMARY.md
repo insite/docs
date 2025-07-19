@@ -31,6 +31,7 @@
 
 ## Coding conventions
 
+* [API conventions](coding-conventions/api-conventions.md)
 * [Database naming conventions](coding-conventions/database-naming-conventions.md)
 * [README files](coding-conventions/readme-files.md)
 * [Folder structure and project names](coding-conventions/folder-structure-and-project-names.md)
