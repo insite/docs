@@ -1,1 +1,0 @@
-Cases is a place for your organization to record and track customer concerns.

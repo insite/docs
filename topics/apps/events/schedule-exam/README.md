@@ -1,1 +1,0 @@
-Select the **Events** toolkit on the **Admin Home Page**.

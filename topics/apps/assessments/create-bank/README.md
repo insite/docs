@@ -1,2 +1,0 @@
-Question Banks are used to organize collections of related questions that are to be used together on an exam form. 
-They may be organized by competency, standard, topic, occupation, course, program or any grouping that best reflects your assessment needs.

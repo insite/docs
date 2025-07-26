@@ -1,1 +1,0 @@
-You can update multiple Standard Types by using the **Classify** function. From here you can update all the Standard Types for the Framework you have selected.
