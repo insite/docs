@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Help Center](README.md)
-
+* [Frequently asked questions](frequently-asked-questions.md)
 
 ## Assessments
 
@@ -13,7 +13,7 @@
   * [Choosing Question Types](assessments/create-bank/question-types.md)
   * [Download and Uploading Assessment Banks](assessments/create-bank/exam-json.md)
   * [Create Tables within Assessment Questions and Answers Options](assessments/create-bank/create-tables.md)
-  * [Downloading Assessment Sets (*.md)](assessments/create-bank/downloading-sets.md)
+  * [Downloading Assessment Sets (\*.md)](assessments/create-bank/downloading-sets.md)
   * [Upload Assessment Sets](assessments/create-bank/upload-assessment-sets.md)
   * [Set Question Settings, Rationale and Prerequisites/Triggers](assessments/create-bank/question-settings.md)
   * [How to Print a Question Bank/Assessment Form to PDF](assessments/create-bank/print-bank-pdf.md)
@@ -253,7 +253,7 @@
   * [Replacing a Survey Question in an existing Survey](surveys/question-configuration/replace-question.md)
   * [Changing Fonts and Colors](surveys/question-configuration/changing-fonts-and-colors.md)
 * [Creating survey forms](surveys/create-survey/README.md)
-  * [Download Survey in JSON (*.json) format](surveys/create-survey/download-surveys.md)
+  * [Download Survey in JSON (\*.json) format](surveys/create-survey/download-surveys.md)
 * [Configuring a survey form](surveys/configure-survey-details/README.md)
   * [Details Tab](surveys/configure-survey-details/details-tab.md)
   * [Searching for a survey](surveys/configure-survey-details/searching-surveys.md)
