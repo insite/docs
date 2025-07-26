@@ -1,13 +1,13 @@
 ---
 description: >-
-  Welcome to Shift iQ’s help center. We’ve compiled a list of common questions
-  and answers to help you find tips, insights, and troubleshooting advice.
+  Welcome to the help center. We've compiled a list of common questions and
+  answers to help you find tips, insights, and troubleshooting advice.
 ---
 
 # Help Center
 
 {% hint style="info" %}
-Can’t find what you’re looking for? [Get in touch](mailto:support@shiftiq.com) with our support team and we’ll get back to you!
+Can't find what you’re looking for? Contact our support team and we'll get back to you!
 {% endhint %}
 
 ### Account Management
