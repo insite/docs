@@ -1,0 +1,3 @@
+# Assessments
+
+The Assessments toolkit contains everything you need to assess your learners on any topic. It can be used to build everything from simple quizzes to high stakes exams tied to a competency framework. Results can be thoroughly analyzed with in-depth reporting and comparisons on question difficulty. Choose what level of feedback is offered to the learner after their attempt; ranging from no score given to detailed feedback on each question response and which competencies they've successfully proven.

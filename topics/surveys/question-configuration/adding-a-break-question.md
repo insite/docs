@@ -1,0 +1,3 @@
+# Adding a Break Question
+
+Break Question is used to branch the survey due to a certain response. For eg: If a respondent clicks No to a certain question. It might either redirect to a new question or share some text as feedback such as Unfortunately this survey is not for you.

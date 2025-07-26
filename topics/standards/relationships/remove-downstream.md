@@ -1,0 +1,3 @@
+# Remove downstream relationships
+
+In the Downstream tab of the Relationships ribbon, select the relationships you want to remove and click the Delete icon. **This will not delete the downstream Competency or Standard, ONLY the relationship between them.** You can remove downstream relationships one at a time or select multiple relationships to delete.

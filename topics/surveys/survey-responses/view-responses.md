@@ -1,0 +1,11 @@
+# View Responses
+
+On the Results tab, click on the Magnifying Glass (<i class="fas fa-search"></i>) at the front of any row to view that survey response. (The magnifying glass will not be available for any responses to surveys where confidentiality has been enabled.)
+
+Responses that are still in progress by a respondent will show as Unlocked in the Completed column; the response remains available for the respondent to continue editing for as long as the survey remains open. If for some reason an admin wishes to lock this response from editing, they can do so by clicking on the Lock button at the front of the row in the search results, or in when viewing the response itself. The respondent will no longer be able to edit their response.
+
+Responses that have been submitted by a respondent will show as Locked in the Completed column, and there will be a date and time showing when they submitted their response. If for some reason a respondent needs to revise their response, an admin can enable this by clicking on the unlock button. The respondent will now be able to resume their existing response, make changes as desired, and resubmit when ready.
+
+Admins are able to delete a survey response by clicking on the Trash Can icon (<i class="fas fa-trash-alt"></i>) at the front of any row.
+
+**Tip:** If you're looking at the admin view of a survey response and want to switch to the respondent view of the same response, just change **/ui/admin/surveys/responses/outline** to **/ui/survey/respond/review** in the URL and press enter. Be sure to leave the "**?session=**" and all the information after it in the URL. Note that unlocked responses
