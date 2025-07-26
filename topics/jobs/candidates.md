@@ -2,11 +2,12 @@
 
 ## Adding a new Candidate
 
-Please see <a href="/help/portal/contacts/adding-new-contacts" target="_blank">**Adding New Contacts**</a> for instructions on how to add a New Candidate.
+Please see [**Adding New Contacts**](../../help/portal/contacts/adding-new-contacts/) for instructions on how to add a New Candidate.
 
 ## Searching for Candidates
 
 Under the Criteria tab, add information to the different fields to define your search criteria:
+
 * Department (FAST / JobConnect)
 * Name
 * Email
@@ -27,28 +28,28 @@ After searching for the candidate you need to edit, under the Results tab, click
 You are able to edit the following information:
 
 * **Contact Tab:**
-	* Email
-	* Department (FAST / JobConnect)
-	* Current City
-	* Approved Date
-<br>
+  * Email
+  * Department (FAST / JobConnect)
+  * Current City
+  * Approved Date\
+
 * **Candidate Tab:**
-	* **Details Tab**
-		* Language
-		* LinkedIn URL
-		* Actively Seeking Status (Yes/No)
-		* Willing to Relocate Status (Yes/No)
-		* FAST Program Status (Yes/No)
-	* **Experience Tab**
-		* Add Candidate's work experience
-	* **Education Tab**
-		* Add Candidate's education
-<br>
+  * **Details Tab**
+    * Language
+    * LinkedIn URL
+    * Actively Seeking Status (Yes/No)
+    * Willing to Relocate Status (Yes/No)
+    * FAST Program Status (Yes/No)
+  * **Experience Tab**
+    * Add Candidate's work experience
+  * **Education Tab**
+    * Add Candidate's education\
+
 * **Comments Tab:**
-	* Click on the **Add Comment** button to add a commnet to the Candidate's profile. 
-<br>
+  * Click on the **Add Comment** button to add a commnet to the Candidate's profile.\
+
 * **Uploads Tab:**
-	* Review uploaded document for the Candidate. If and administrator wants to upload documents to a Candidate's profile, they can upload the document in the Candidate's contact record, under the Attachments panel.
+  * Review uploaded document for the Candidate. If and administrator wants to upload documents to a Candidate's profile, they can upload the document in the Candidate's contact record, under the Attachments panel.
 
 ## Download Search Results
 

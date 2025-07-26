@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Help Center](README.md)
-* [Frequently asked questions](frequently-asked-questions.md)
 * [Sandbox](sandbox.md)
 
 ## Assessments

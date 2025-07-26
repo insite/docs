@@ -1,16 +1,40 @@
 # Adding Videos and Hyperlinks
 
-<p><b>Embed videos</b><br>Upload your video to a Vimeo (or other cloud-based hosting account. Copy the imbed link directly from there and paste it into the content panel of the survey.&nbsp; The video will integrate seamlessly.</p>
-<p><b>Example:</b>&nbsp;&nbsp;</p><p>&lt;iframe src="https://player.vimeo.com/video/592802639?h=3f745001fa&amp;amp;badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479" width="640" height="564" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="About Shift iQ (CC)"&gt;&lt;/iframe&gt;</p>
-<p>The video will display in the content:</p>
-<iframe src="https://player.vimeo.com/video/592802639?h=3f745001fa&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="564" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" title="About Shift iQ (CC)"></iframe>
-<p><br><br><b>Insert links to internal files</b><br>1.	Upload the file to the <b>Files</b> toolkit<br>2.	Copy the download URL off the file and paste it into the content<br><br><b>Insert hyperlinks</b><br></p>
-<p>You are able to add web links or email addresses in the text of your content.</p>
-<p>When you select&nbsp;<span style="font-weight: 700;">Create Link</span>, the system will create the outline needed for the link&nbsp;<span style="font-weight: 700;">[](http://)</span>.&nbsp;Between the square brackets, add the text you want to be displayed. Copy and Paste or type the webpage you want the user to be directed to.&nbsp; Example of what the link will look like:&nbsp;&nbsp;<span style="font-weight: 700;">[InSite Information Systems](http://www.insite.com)</span>. In your page content, the link will display as&nbsp;<a href="http://www.insite.com/" target="_blank"><span style="font-weight: 700;">Insite Information Systems</span></a>. The&nbsp;user can click on the text and will be directed to the webpage you added.</p>
-<p>You are able to configure the link with an email address instead. You can either add a email address between the square brackets or text. Instead of adding a website, you remove the http:// and add&nbsp;<a href="mailto:support@insite.com." target="_blank"><span style="font-weight: 700;">mailto:add email address</span>.</a>&nbsp;The full link will be&nbsp;<span style="font-weight: 700;">[Click Here to Email](mailto:support@insite.com)</span>&nbsp;or [<span style="font-weight: 700;">support@insite.com](mailto:support@insite.com)</span>. The text will display as&nbsp;<a href="mailto:support@insite.com" target="_blank"><span style="font-weight: 700;">Click Here to Email</span></a>&nbsp;or&nbsp;<a href="mailto:support@insite.com" target="_blank"><span style="font-weight: 700;">support@insite.com</span></a></p>
-<h4 style="font-family: Calibri, &quot;Source Sans Pro&quot;, Helvetica, Arial; color: rgb(84, 84, 84);"><span style="color: inherit; font-family: inherit;">Open Link in New Browser Window:</span></h4>
-<p>If you require the link you are inserting to open on in a new browser window, you can us the following link:<br><span style="font-weight: 700;">&lt;a href="url or link to file" target="_blank"&gt;text to display&lt;/a&gt;</span></p>
-<p>An example of the full link will be:<br><span style="font-weight: 700;">&lt;a href="</span><span style="font-weight: 700;">http://www.insite.com</span><span style="font-weight: 700;">" target="_blank"&gt;InSite Information Systems</span><span style="font-weight: 700;">&lt;/a&gt;<br></span>The text will display as&nbsp;<a href="http://www.insite.com/" target="_blank" style="background-color: rgb(255, 255, 255);"><span style="font-weight: 700;">InSite Information Systems</span></a>&nbsp;and when you click on the text it will open the web page in a new browser window.</p>
-<p><br><a href="/ui/help/portal/sites/edit-site-contents/markdown" target="_blank"><b>Markdown</b></a><br>We recommend that content be entered in Markdown. This allows for consistent delivery across all varieties of hardware and software platforms.&nbsp; It also facilitates translation of the survey. You may use HTML tags when necessary, but try to limit their use.</p>
+Embed videos\
+Upload your video to a Vimeo (or other cloud-based hosting account. Copy the imbed link directly from there and paste it into the content panel of the survey.  The video will integrate seamlessly.
 
-(Also See:  <a href="/ui/help/portal/messages/authoring-messages/markdown-reference" target="_blank"><b>Markdown References</b></a>)
+Example: &#x20;
+
+\<iframe src="https://player.vimeo.com/video/592802639?h=3f745001fa\&amp;badge=0\&amp;autopause=0\&amp;player\_id=0\&amp;app\_id=58479" width="640" height="564" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="About Shift iQ (CC)">\</iframe>
+
+The video will display in the content:
+
+\
+\
+Insert links to internal files\
+1\. Upload the file to the Files toolkit\
+2\. Copy the download URL off the file and paste it into the content\
+\
+Insert hyperlinks\
+
+
+You are able to add web links or email addresses in the text of your content.
+
+When you select Create Link, the system will create the outline needed for the link \[]\(http://). Between the square brackets, add the text you want to be displayed. Copy and Paste or type the webpage you want the user to be directed to.  Example of what the link will look like:  \[InSite Information Systems]\(http://www.insite.com). In your page content, the link will display as [Insite Information Systems](http://www.insite.com/). The user can click on the text and will be directed to the webpage you added.
+
+You are able to configure the link with an email address instead. You can either add a email address between the square brackets or text. Instead of adding a website, you remove the http:// and add [mailto:add email address.](mailto:support@insite.com.) The full link will be \[Click Here to Email]\(mailto:support@insite.com) or \[support@insite.com]\(mailto:support@insite.com). The text will display as [Click Here to Email](mailto:support@insite.com) or [support@insite.com](mailto:support@insite.com)
+
+#### Open Link in New Browser Window:
+
+If you require the link you are inserting to open on in a new browser window, you can us the following link:\
+\<a href="url or link to file" target="\_blank">text to display\</a>
+
+An example of the full link will be:\
+\<a href="http://www.insite.com" target="\_blank">InSite Information Systems\</a>\
+The text will display as [InSite Information Systems](http://www.insite.com/) and when you click on the text it will open the web page in a new browser window.
+
+\
+[Markdown](../../../ui/help/portal/sites/edit-site-contents/markdown/)\
+We recommend that content be entered in Markdown. This allows for consistent delivery across all varieties of hardware and software platforms.  It also facilitates translation of the survey. You may use HTML tags when necessary, but try to limit their use.
+
+(Also See: [Markdown References](../../../ui/help/portal/messages/authoring-messages/markdown-reference/))
