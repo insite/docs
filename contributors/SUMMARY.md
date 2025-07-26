@@ -33,14 +33,12 @@
 
 * [API conventions](conventions/api-conventions.md)
 * [Database naming conventions](conventions/database-naming-conventions.md)
-* [README files](conventions/readme-files.md)
 * [Folder structure and project names](conventions/folder-structure-and-project-names.md)
+* [README files](conventions/readme-files.md)
+* [Integrated help](conventions/integrated-help.md)
 * [Task list comment tokens](conventions/task-list-comment-tokens.md)
 * [Version numbers](conventions/version-numbers.md)
-
-***
-
-* [Video recommendations](video-recommendations.md)
+* [Video recommendations](conventions/video-recommendations.md)
 
 ## Patterns
 
