@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Help Center](README.md)
+* [Toolkits](apps/README.md)
 
 ## Account Management
 
