@@ -35,14 +35,15 @@
 * [Database naming conventions](conventions/database-naming-conventions.md)
 * [Folder structure and project names](conventions/folder-structure-and-project-names.md)
 * [README files](conventions/readme-files.md)
-* [Integrated help](conventions/integrated-help.md)
 * [Task list comment tokens](conventions/task-list-comment-tokens.md)
 * [Version numbers](conventions/version-numbers.md)
 * [Video recommendations](conventions/video-recommendations.md)
 
 ## Patterns
 
-* [User interface](patterns/user-interface.md)
+* [UI Help](patterns/ui-help.md)
+* [UI Navigation](patterns/ui-navigation.md)
+* [UI Search](patterns/ui-search.md)
 
 ## Tools and utilities <a href="#tools" id="tools"></a>
 

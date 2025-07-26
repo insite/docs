@@ -4,9 +4,9 @@ description: >-
   through the user interface
 ---
 
-# Integrated help
+# UI Help
 
-## Tooltip Style Guide
+## Tooltip style guide
 
 Tooltips provide brief, contextual help for UI elements. They should be concise, scannable, and easy to understand.
 
