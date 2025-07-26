@@ -2,9 +2,10 @@
 
 * [Help Center](README.md)
 
+
 ## Assessments
 
-* [Overview](assessments/README.md)
+* [Overview](README.md)
 * [Creating Banks and Question Sets](assessments/create-bank/README.md)
   * [How to use the Assessment Toolkit](assessments/create-bank/how-to.md)
   * [Creating a new bank](assessments/create-bank/create-new-bank.md)
@@ -45,7 +46,7 @@
 
 ## Contacts
 
-* [Overview](contacts/README.md)
+* [Overview](README.md)
 * [Adding New Contacts](contacts/adding-new-contacts/README.md)
   * [Upload Contacts](contacts/adding-new-contacts/upload-contacts.md)
   * [User Self-Registration](contacts/adding-new-contacts/user-self-registration.md)
@@ -64,7 +65,7 @@
 
 ## Courses
 
-* [Overview](courses/README.md)
+* [Overview](README.md)
 * [Creating and Editing Courses](courses/create-course/README.md)
   * [How to Add and Remove Units, Modules and Lessons in a Course](courses/create-course/adding-lesson.md)
   * [Publishing a Course to your Learner Portal](courses/create-course/publish-course.md)
@@ -88,7 +89,7 @@
 
 ## Events
 
-* [Overview](events/README.md)
+* [Overview](README.md)
 * [Schedule a New Exam Event](events/schedule-exam/README.md)
   * [Create a New Exam Event](events/schedule-exam/create-a-new-exam-event.md)
 * [Schedule a New Class](events/schedule-new-class/README.md)
@@ -110,7 +111,7 @@
 
 ## Cases
 
-* [Overview](cases/README.md)
+* [Overview](README.md)
 * [Creating Cases](cases/creating-cases.md)
 * [Editing Cases](cases/edit-cases/README.md)
   * [Search for an Case](cases/edit-cases/search-case.md)
@@ -125,7 +126,7 @@
 
 ## Jobs
 
-* [Overview](jobs/README.md)
+* [Overview](README.md)
 * [Candidates](jobs/candidates.md)
 * [Employers](jobs/employers.md)
 * [Job Opportunities](jobs/job-opportunities.md)
@@ -133,7 +134,7 @@
 
 ## Messages
 
-* [Overview](messages/README.md)
+* [Overview](README.md)
 * [Sending mailouts](messages/sending-mailouts/README.md)
   * [Schedule Delivery](messages/sending-mailouts/schedule-delivery.md)
   * [Delivery Report](messages/sending-mailouts/delivery-report.md)
@@ -151,7 +152,7 @@
 
 ## Records
 
-* [Overview](records/README.md)
+* [Overview](README.md)
 * [Creating and Configuring Gradebooks](records/gradebooks/README.md)
   * [Creating a New Gradebook](records/gradebooks/new-gradebook.md)
   * [Editing Gradebook Settings](records/gradebooks/gradebook-settings.md)
@@ -183,7 +184,7 @@
 
 ## Sites
 
-* [Overview](sites/README.md)
+* [Overview](README.md)
 * [Creating Beautiful Web Sites and Learner Portals](sites/new-portal/README.md)
   * [Host and Edit a Public Website using Shift iQ](sites/new-portal/create-website.md)
   * [Have One or More Portals for Your Customers](sites/new-portal/create-portal.md)
@@ -208,7 +209,7 @@
 
 ## Standards
 
-* [Overview](standards/README.md)
+* [Overview](README.md)
 * [Creating Standards](standards/create-standards/README.md)
   * [Options for Adding Standards](standards/create-standards/add-standard.md)
   * [Manage Frameworks using the Outline View](standards/create-standards/manage-standards-outline.md)
@@ -239,7 +240,7 @@
 
 ## Surveys
 
-* [Overview](surveys/README.md)
+* [Overview](README.md)
 * [Configuring survey questions](surveys/question-configuration/README.md)
   * [Question Types](surveys/question-configuration/question-types.md)
   * [Likert Questions](surveys/question-configuration/likert-questions.md)

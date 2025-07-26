@@ -1,0 +1,3 @@
+# Overview
+
+Create engaging content for your learners. Courses can contain lessons, surveys, assessments, pictures, videos, SCORM packages and more. Additional or alternative content can be triggered based on permission settings.

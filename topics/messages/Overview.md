@@ -1,0 +1,3 @@
+# Overview
+
+Messages is your communications hub; here you can create and edit new messages and see mailout records for items that were already sent. Newsletters are for any correspondence you'd like to schedule and send to any Contacts or Groups in the system. Notifications & Alerts are sent automatically by the system based on some defined event. Invitations are used to invite users to complete a specific survey.

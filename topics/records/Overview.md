@@ -1,0 +1,3 @@
+# Overview
+
+Use records to log and track learner scores, outcomes, & achievements. Gradebooks can be hooked to a registered event like a class or exam, as well as to any number of course lessons, assessments or surveys. Achievements can be granted manually or automatically upon completion of specific prerequisites. Logbooks allow learners and their instructors to record and validate practical learning such as on-site experience.
