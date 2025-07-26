@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-* [Developer documentation](README.md)
+* [Developer Documentation](README.md)
 
 ***
 
