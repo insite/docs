@@ -10,7 +10,7 @@ Creating an Assessment Form involves a structured approach. Below, you’ll find
 * **Organize the Questions:** It’s helpful to organize questions into Sets based on the skills they assess.
 * **Tagging:** Tag questions with relevant keywords, such as competency code (e.g., A1, B2). This makes it easier to when building a specifications for your bank.
 
-### Step 2. [Create a Specification](../../../help/assessments/specifications-forms/)
+### Step 2. [Create a Specification](../specifications-forms/)
 
 * **Choose your Specification Type:**
   * **Dynamic:** A form with this specification does not have a fixed set of questions. If two learners start an attempt on this type of form, then each learner may be presented with a different set of questions and/or questions in a different sequence.
