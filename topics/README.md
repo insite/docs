@@ -8,7 +8,7 @@ description: >-
 # Help Center
 
 {% hint style="info" %}
-Can't find what you’re looking for? Contact our [support team](mailto:support@shiftiq.com) and we'll get back to you!
+Can't find what you’re looking for? Contact our [support team](mailto:support@shiftiq.com) and we'll get back to you.
 {% endhint %}
 
 ## Popular topics
