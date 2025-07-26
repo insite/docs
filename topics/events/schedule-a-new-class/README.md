@@ -1,2 +1,0 @@
-# Schedule a New Class
-
