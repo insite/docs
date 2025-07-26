@@ -2,7 +2,6 @@
 
 * [Help Center](README.md)
 
-
 ## Assessments
 
 * [Overview](README.md)
