@@ -1,0 +1,1 @@
+Delete a Standard using the Edit mode of the Outline view.

@@ -1,0 +1,12 @@
+Certificate data is of high importance and is intended to be long-lived. By using blockchain, the security of the produced certificates is guaranteed and certificates will live on the blockchain as long as blockchain exists. What's more, the process of certificate management becomes decentralized, trustless, secure, and immutable.
+
+In order to provide our users with the utmost transparency and security for keeping their valuable certificate data, Shift iQ has opted for Blockchain integration for certificate management. We have designed and developed our certificate manager system on top of the Ethereum network using smart contracts. A smart contract is a piece of logic, intended to automatically execute, control, enforce and verify or document events and actions according to the terms of a contract or an agreement. In another word, smart contracts are computer programs that enforce an agreement based on a contract without the need for a third party and they are running on all the nodes in the Ethereum network.
+
+While designing Shift iQ's blockchain-based certificate manager we provide our users with following advantages:
+
+* Decentralization: to prevent a single point of failure. Now our users can verify their certificates regardless of the Shift iQ servers' situation, the process of verification happens on chain and nothing can hinder it.
+* Immutability: our users' certificates are extremely important to us. Therefore, we wanted to make sure nothing can corrupt their certificates and change their stats, also they will exist on top of the blockchain as long the underlying blockchain itself exists.
+* Transparency: everyone participant on the Ethereum network can access transactions and monitor the system to prevent malicious activities.
+* Safety: the security of all the transactions on the blockchain is guaranteed by a set of cryptographic functions, and they are constantly verified by thousands and thousands of nodes running on the Ethereum p2p network.
+
+What's more, Shift iQ has opted to pay for all the costs of transactions regarding certificate publication on blockchain to make the process as painless as possible for the users. In this way, our users get all the benefits that come with Blockchain without any of the drawbacks.
