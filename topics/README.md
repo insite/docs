@@ -1,15 +1,22 @@
 ---
 description: >-
   Welcome to the help center. We've compiled a list of common questions and
-  answers to help you find tips, insights, and troubleshooting advice.
+  answers to help you find tips, insights, and troubleshooting advice. Ask
+  questions. Browse topics. Find answers!
 ---
 
 # Help Center
 
 {% hint style="info" %}
-Can't find what you’re looking for? Contact our support team and we'll get back to you!
+Can't find what you’re looking for? Contact our [support team](mailto:support@shiftiq.com) and we'll get back to you!
 {% endhint %}
 
-### Account Management
+### Popular topics
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Account Management</strong></td><td>Settings related to your organization or account</td><td><a href=".gitbook/assets/Account Management.svg">Account Management.svg</a></td></tr></tbody></table>
+* [Newsletters](messages/authoring-messages/create-new-message.md)
+* [User account self-registration](contacts/adding-new-contacts/user-self-registration.md)
+* [Class registration](events/overview.md)
+
+### Popular apps/toolkits
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Contacts</strong></td><td>Find help on how to add new users and groups, manage user accounts, and edit permission lists.</td><td><a href="contacts/overview.md">overview.md</a></td></tr><tr><td><strong>Assessments</strong></td><td>Find help on how to create question banks, set specifications, add questions to forms, and review and test assessments.</td><td><a href="assessments/overview.md">overview.md</a></td></tr><tr><td><strong>Surveys</strong></td><td>Find help on how to create, edit and configure surveys, view responses, and generate reports.</td><td><a href="surveys/overview.md">overview.md</a></td></tr><tr><td><strong>Messages</strong></td><td>Find help on how to create, edit and configure messages, format message contents and schedule mailouts.</td><td><a href="messages/overview.md">overview.md</a></td></tr><tr><td><strong>Courses</strong></td><td>Find help on how to create, edit and configure a course, add content, preview and publish a course.</td><td><a href="courses/overview.md">overview.md</a></td></tr><tr><td><strong>Standards</strong></td><td>Use standards to build detailed competency frameworks that can be tied to courses and assessments to drive adaptive competency-based training.</td><td><a href="standards/overview.md">overview.md</a></td></tr></tbody></table>
