@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Help Center](README.md)
-* [Sandbox](sandbox.md)
+* [Accessing your sandbox](sandbox.md)
 
 ## Assessments
 

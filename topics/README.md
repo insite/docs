@@ -1,14 +1,15 @@
 ---
 description: >-
-  Welcome to the help center. We've compiled a list of common questions and
-  answers to help you find tips, insights, and troubleshooting advice. Ask
-  questions. Browse topics. Find answers!
+  Welcome to the help center. We have compiled a list of common questions and
+  answers to help you find tips, insights, and troubleshooting advice. Browse
+  topics. Ask questions. Find answers.
+icon: life-ring
 ---
 
 # Help Center
 
 {% hint style="info" %}
-Can't find what you’re looking for? Contact our [support team](mailto:support@shiftiq.com) and we'll get back to you.
+Can't find what you’re looking for? Contact our team at <code class="expression">space.vars.support_email</code> and we'll get back to you.
 {% endhint %}
 
 ## Popular topics
