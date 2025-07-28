@@ -42,6 +42,7 @@
 ## Patterns
 
 * [UI Help](patterns/ui-help.md)
+* [UI Layout](patterns/ui-layout.md)
 * [UI Navigation](patterns/ui-navigation.md)
 * [UI Search](patterns/ui-search.md)
 
