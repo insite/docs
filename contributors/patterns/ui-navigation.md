@@ -52,3 +52,7 @@ Methods **GetParent** and **GetParentLinkParameters** are members of **BaseScree
             UnlockLink.NavigateUrl = new ReturnUrl($"session={queryString.Session}")
                 .GetRedirectUrl($"/admin/surveys2/responses/unlock?session={queryString.Session}");
 ```
+
+### Notes
+
+1. The approach is changed in Shift.UI project
