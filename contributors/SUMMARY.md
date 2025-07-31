@@ -48,7 +48,7 @@
 
 ## Tools and utilities <a href="#tools" id="tools"></a>
 
-* [Coming soon!](tools/coming-soon.md)
+* [React](tools/coming-soon.md)
 
 ## Code reference <a href="#code" id="code"></a>
 
