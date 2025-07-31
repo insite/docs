@@ -4,7 +4,7 @@ description: >-
   user-friendly experience
 ---
 
-# User interface
+# UI Search
 
 ## Introduction
 
@@ -27,8 +27,6 @@ For example, if you are building a combo box in React to find and select a grade
 <mark style="color:blue;">**progress/gradebooks/search**</mark>
 
 {% hint style="info" %}
-For details, refer to the [Developer Documentation](https://app.gitbook.com/s/yCodYcY9Svgs5pGsCpXh/getting-started/readme).
+For details, refer to the [Developer Documentation](broken-reference).
 {% endhint %}
-
-
 
