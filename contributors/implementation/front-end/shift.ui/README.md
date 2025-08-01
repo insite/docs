@@ -4,55 +4,194 @@ description: Documentation for our React UI development work is available here
 
 # React
 
-The article assumes that the reader has an understanding of React and JavaScript/Typescript.\
-The React app is implemented as SPA (single-page application)
+This guide provides comprehensive documentation for our React UI development workflow and architecture.
 
-#### The used tools and packages:
+## Prerequisites
 
-1. We use **Visual Studio Code** as an editor for the project: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)\
-   I strongly recommend to master shortcut keys, it will improve the quality of life significantly and you will like VSCode more than VS
-2. **NodeJS** is used by React compiler and therefore should be installed (the latest LTS version is preferable): [https://nodejs.org/en/download/prebuilt-installer/current](https://nodejs.org/en/download/prebuilt-installer/current)
-3. The code is written with **Typescript**.
-4. The application was created with **Vite** build tool with the option “**React** + **Typescript**”\
-   See details here: [https://vitejs.dev/guide/](https://vitejs.dev/guide/)
-5. Routing (i.e. navigation between pages) is managed by the **React Router** package.\
-   See details: [https://reactrouter.com/start/data/installation](https://reactrouter.com/start/data/installation)
-6. The Bootstrap components are implemented with **React Bootstrap**.\
-   See details: [https://react-bootstrap.netlify.app/docs/getting-started/introduction](https://react-bootstrap.netlify.app/docs/getting-started/introduction)
-7. Drag and Drop functionality is implemented using DND Kit package: [https://dndkit.com/](https://dndkit.com/)
-8. The testing framework is Jest: [https://jestjs.io/](https://jestjs.io/)
+This documentation assumes familiarity with React and JavaScript/TypeScript fundamentals. Our React application is implemented as a Single Page Application (SPA) using modern development practices and tools.
 
-#### The project structure:
+## Development Stack
 
-1. The project is located in [https://github.com/InSite/Code](https://github.com/InSite/Code) repo in the folder **/src/ui/Shift.UI**
-2. The folder **/src** contains the React app code:
-3. **/src/api** - contains the code to access Shift API (v2) and InSite API (v1)\
-   Note: v1 is used only in the local environment
-4. **/src/cache** - custom cache implementation
-5. **/src/contexts** - context components
-6. **/src/components** contains global components which are used on different pages
-7. **/src/helpers** - constants and utility functionality used in the project
-8. **/src/hooks** - global hooks used across the application
-9. **/src/layouts** - for now only AdminHomeLayout, which is based on AdminHome.master from InSite.UI project
-10. **/src/models** - contains global interfaces
-11. **/src/routes** - contains pages\
-    Each page has its own folder, for example, the page /client/admin/home is in the folder /src/routes/admin/home
-12. **/src/routes/\_shared** - custom components with business logic used on pages
-13. **/src/main.tsx** - is the React entry point
+### Core Tools
 
-#### How it works:
+**Visual Studio Code**
+- Primary code editor for the project
+- Download: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+- **Tip**: Master keyboard shortcuts to significantly improve development efficiency
 
-1. In the development mode the React app starts its own dev server via Vite at the address [**http://localhost:3000**](http://localhost:3000)\
-   In the production mode the React app is in the /source/InSite.UI/React subfolder bundled into a single JS file:
-2. When you navigate to the page it:\
-   \- Requests the information about the website in general (if it is not yet loaded) via Shift API method **/me/context**\
-   \- Load data specific to the entity, like loading the information about a specific user\
-   \- If the current session is not authenticated (i.e. when API method returns HTTP status 401 or 403) then React app redirects to the login page ([ASP.NET](http://asp.net) WebForms)
+**Node.js**
+- Required for React compilation and build processes
+- Install the latest LTS version: [https://nodejs.org/en/download/prebuilt-installer/current](https://nodejs.org/en/download/prebuilt-installer/current)
 
-#### How to start the React app:
+### Frontend Technologies
 
-1. Open the console (PowerShell, CMD or VSCode terminal)
-2. Navigate to the folder **/src/ui/Shift.UI**
-3. Run the command **npm install** to install all packages
-4. Run the command **npm run dev** to start the DEV server
-5. If you would like to build the production version then run **npm run build**, this will compile and optimize the React app and copy it to **/source/InSite.UI/React** folder
+**TypeScript**
+- Primary language for type-safe development
+- All application code is written in TypeScript
+
+**Vite Build Tool**
+- Modern build tool optimized for frontend development
+- Project created with "React + TypeScript" template
+- Documentation: [https://vitejs.dev/guide/](https://vitejs.dev/guide/)
+
+### Key Libraries
+
+**React Router**
+- Handles client-side routing and navigation between pages
+- Documentation: [https://reactrouter.com/start/data/installation](https://reactrouter.com/start/data/installation)
+
+**React Bootstrap**
+- Bootstrap component implementations for React
+- Provides consistent UI components and styling
+- Documentation: [https://react-bootstrap.netlify.app/docs/getting-started/introduction](https://react-bootstrap.netlify.app/docs/getting-started/introduction)
+
+**DND Kit**
+- Modern drag-and-drop functionality
+- Documentation: [https://dndkit.com/](https://dndkit.com/)
+
+**Jest Testing Framework**
+- Unit testing and test automation
+- Documentation: [https://jestjs.io/](https://jestjs.io/)
+
+## Project Architecture
+
+### Repository Location
+- **Repository**: [https://github.com/InSite/Code](https://github.com/InSite/Code)
+- **Project Path**: `/src/ui/Shift.UI`
+
+### Directory Structure
+
+The `/src` folder contains the complete React application with the following organization:
+
+```
+/src
+├── /api              # API integration layer
+├── /cache            # Custom caching implementation
+├── /contexts         # React context providers
+├── /components       # Reusable global components
+├── /helpers          # Constants and utility functions
+├── /hooks            # Custom React hooks
+├── /layouts          # Layout components
+├── /models           # TypeScript interfaces and types
+├── /routes           # Page components and routing
+└── main.tsx          # Application entry point
+```
+
+#### Key Directories Explained
+
+**`/src/api`**
+- Contains integration code for Shift API (v2) and InSite API (v1)
+- Note: v1 API is only used in local development environment
+
+**`/src/cache`**
+- Custom cache implementation for optimizing data retrieval and storage
+
+**`/src/contexts`**
+- React context components for global state management
+
+**`/src/components`**
+- Reusable UI components shared across multiple pages
+- Global components that maintain consistency throughout the application
+
+**`/src/helpers`**
+- Application constants, configuration values, and utility functions
+- Common functionality used across different parts of the application
+
+**`/src/hooks`**
+- Custom React hooks that encapsulate reusable stateful logic
+- Shared across multiple components for consistent behavior
+
+**`/src/layouts`**
+- Layout components that define page structure
+- Currently includes `AdminHomeLayout` based on `AdminHome.master` from InSite.UI
+
+**`/src/models`**
+- TypeScript interfaces and type definitions
+- Ensures type safety across the application
+
+**`/src/routes`**
+- Page components organized by route structure
+- Each page has its own dedicated folder (e.g., `/client/admin/home` → `/src/routes/admin/home`)
+
+**`/src/routes/_shared`**
+- Custom components containing business logic shared between pages
+- Reusable page-specific functionality
+
+## Application Flow
+
+### Development Environment
+- React development server runs on **http://localhost:3000** via Vite
+- Hot module replacement for efficient development workflow
+
+### Production Environment
+- Application is bundled into optimized JavaScript files
+- Deployed to `/source/InSite.UI/React` subfolder as a single JS bundle
+
+### Page Navigation Process
+
+When navigating to any page, the application follows this sequence:
+
+1. **Context Loading**: Requests general website information via Shift API endpoint `/me/context` (if not already cached)
+
+2. **Entity-Specific Data**: Loads data specific to the current page/entity (e.g., user information, content data)
+
+3. **Authentication Check**: Monitors API responses for authentication status
+   - HTTP 401/403 responses trigger automatic redirect to ASP.NET WebForms login page
+   - Ensures secure access to authenticated content
+
+## Getting Started
+
+### Initial Setup
+
+1. **Open Terminal**
+   - Use PowerShell, Command Prompt, or VSCode integrated terminal
+
+2. **Navigate to Project Directory**
+   ```bash
+   cd /src/ui/Shift.UI
+   ```
+
+3. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+
+### Development Commands
+
+**Start Development Server**
+```bash
+npm run dev
+```
+- Launches the development server with hot reload
+- Application available at http://localhost:3000
+
+**Build for Production**
+```bash
+npm run build
+```
+- Compiles and optimizes the React application
+- Outputs production-ready files to `/source/InSite.UI/React` folder
+- Creates minified, optimized bundles for deployment
+
+### Development Workflow
+
+1. Start the development server using `npm run dev`
+2. Make changes to your code - the server will automatically reload
+3. Test your changes in the browser at http://localhost:3000
+4. When ready for production, run `npm run build` to create optimized bundles
+
+## Best Practices
+
+- **Type Safety**: Leverage TypeScript for better code quality and developer experience
+- **Component Reusability**: Use the `/src/components` directory for shared UI elements
+- **Custom Hooks**: Extract reusable logic into custom hooks in `/src/hooks`
+- **API Integration**: Keep API calls organized in the `/src/api` directory
+- **Testing**: Write tests using Jest to ensure code reliability
+
+## Troubleshooting
+
+If you encounter issues:
+1. Ensure Node.js LTS version is installed
+2. Clear node_modules and reinstall: `rm -rf node_modules && npm install`
+3. Check that all required dependencies are properly installed
+4. Verify API endpoints are accessible and authentication is working
