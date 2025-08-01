@@ -1,10 +1,10 @@
 ---
 description: >-
-  Conventions for a consistent, unified approach to providing in-app guidance
-  through the user interface
+  Conventions for a consistent, unified approach to layout and style throughout
+  the user interface
 ---
 
-# Style guide
+# General UI style guide
 
 ## Tooltips
 

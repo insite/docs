@@ -42,7 +42,7 @@
 ## Patterns
 
 * [Front end](patterns/front-end/README.md)
-  * [Style guide](patterns/front-end/ui-help.md)
+  * [General UI style guide](patterns/front-end/ui-help.md)
   * [React](patterns/front-end/react/README.md)
     * [Search](patterns/front-end/react/ui-search.md)
   * [ASP.NET web forms](patterns/front-end/asp.net-web-forms/README.md)
