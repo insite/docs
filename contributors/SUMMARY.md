@@ -35,6 +35,7 @@
 * [Database naming conventions](conventions/database-naming-conventions.md)
 * [Folder structure and project names](conventions/folder-structure-and-project-names.md)
 * [README files](conventions/readme-files.md)
+* [Style guide](conventions/ui-help.md)
 * [Task list comment tokens](conventions/task-list-comment-tokens.md)
 * [Version numbers](conventions/version-numbers.md)
 * [Video recommendations](conventions/video-recommendations.md)
@@ -42,13 +43,12 @@
 ## Implementation
 
 * [Front end](implementation/front-end/README.md)
-  * [General style guide](implementation/front-end/ui-help.md)
-  * [ASP.NET web forms](implementation/front-end/asp.net-web-forms/README.md)
-    * [Navigation](implementation/front-end/asp.net-web-forms/ui-navigation.md)
-  * [React](implementation/front-end/react/README.md)
+  * [InSite.UI](implementation/front-end/insite.ui/README.md)
+    * [Navigation](implementation/front-end/insite.ui/ui-navigation.md)
+  * [Shift.UI](implementation/front-end/react/README.md)
     * [Search](implementation/front-end/react/ui-search.md)
 * [Back end](implementation/back-end/README.md)
-  * [Code generation](implementation/back-end/code-generation.md)
+  * [Shift.Service](implementation/back-end/shift.service.md)
 
 ## Tools and utilities <a href="#tools" id="tools"></a>
 
