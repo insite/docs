@@ -45,8 +45,8 @@
 * [Front end](implementation/front-end/README.md)
   * [InSite.UI](implementation/front-end/insite.ui/README.md)
     * [Navigation](implementation/front-end/insite.ui/ui-navigation.md)
-  * [Shift.UI](implementation/front-end/react/README.md)
-    * [Search](implementation/front-end/react/ui-search.md)
+  * [Shift.UI](implementation/front-end/shift.ui/README.md)
+    * [Search](implementation/front-end/shift.ui/ui-search.md)
 * [Back end](implementation/back-end/README.md)
   * [Shift.Service](implementation/back-end/shift.service.md)
 
