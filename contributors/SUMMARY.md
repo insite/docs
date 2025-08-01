@@ -45,6 +45,7 @@
 * [UI Layout](patterns/ui-layout.md)
 * [UI Navigation](patterns/ui-navigation.md)
 * [UI Search](patterns/ui-search.md)
+* [Back end code generation](patterns/back-end-code-generation.md)
 
 ## Tools and utilities <a href="#tools" id="tools"></a>
 
