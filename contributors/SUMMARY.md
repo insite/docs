@@ -25,9 +25,19 @@
 
 * [Coming soon!](architecture/coming-soon.md)
 
-## Domain models <a href="#domains" id="domains"></a>
+## Design <a href="#domains" id="domains"></a>
 
 * [Coming soon!](domains/coming-soon.md)
+
+## Implementation
+
+* [Front end](implementation/front-end/README.md)
+  * [InSite.UI](implementation/front-end/insite.ui/README.md)
+    * [Navigation](implementation/front-end/insite.ui/ui-navigation.md)
+  * [Shift.UI](implementation/front-end/react/README.md)
+    * [Search](implementation/front-end/react/ui-search.md)
+* [Back end](implementation/back-end/README.md)
+  * [Shift.Service](implementation/back-end/shift.service.md)
 
 ## Conventions
 
@@ -39,16 +49,6 @@
 * [Task list comment tokens](conventions/task-list-comment-tokens.md)
 * [Version numbers](conventions/version-numbers.md)
 * [Video recommendations](conventions/video-recommendations.md)
-
-## Implementation
-
-* [Front end](implementation/front-end/README.md)
-  * [InSite.UI](implementation/front-end/insite.ui/README.md)
-    * [Navigation](implementation/front-end/insite.ui/ui-navigation.md)
-  * [Shift.UI](implementation/front-end/react/README.md)
-    * [Search](implementation/front-end/react/ui-search.md)
-* [Back end](implementation/back-end/README.md)
-  * [Shift.Service](implementation/back-end/shift.service.md)
 
 ## Tools and utilities <a href="#tools" id="tools"></a>
 
