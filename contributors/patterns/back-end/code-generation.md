@@ -4,7 +4,7 @@ description: >-
   new set of API endpoints that bind to data in a specific database table
 ---
 
-# Back end code generation
+# Code generation
 
 ## Before you start
 
@@ -61,7 +61,7 @@ For example. copy File, FileActivity, and FileClaim folders&#x20;
 * from **Output/Contract/Content/Files**&#x20;
 * to **code/src/library/Shift.Sdk/Contract/Content/Files**
 
-<figure><img src="../.gitbook/assets/code-generation-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/code-generation-01.png" alt=""><figcaption></figcaption></figure>
 
 Build the solution to ensure no compiler errors.
 
@@ -78,7 +78,7 @@ For example, copy the Data folder
 * from **Output/Service/Content/Files**
 * to **code/src/library/Shift.Service/Conent/Files**
 
-<figure><img src="../.gitbook/assets/code-generation-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/code-generation-02.png" alt=""><figcaption></figcaption></figure>
 
 In the output folder, navigate to the Service/Orchecestration subfolder and open the TableDbContext class.
 
@@ -117,7 +117,7 @@ For example, copy the Data folder
 * from **Output/Api/Content/Files**
 * to **code/src/library/Shift.Api/Conent/Files**
 
-<figure><img src="../.gitbook/assets/code-generation-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/code-generation-03.png" alt=""><figcaption></figcaption></figure>
 
 Build the solution to ensure no compiler errors.
 
@@ -166,5 +166,5 @@ Open the Shift collection in Insomnia, and add requests to test and confirm the 
 
 For example:
 
-<figure><img src="../.gitbook/assets/code-generation-04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/code-generation-04.png" alt=""><figcaption></figcaption></figure>
 

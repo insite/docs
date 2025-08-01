@@ -1,10 +1,10 @@
 ---
 description: >-
-  Guidelines for implementing intuitive, consistent page layout throughout the
-  platform
+  Guidelines for implementing intuitive, consistent page layout for ASP.NET web
+  forms throughout the platform
 ---
 
-# UI Layout
+# ASP.NET web forms
 
 ## Page layouts
 

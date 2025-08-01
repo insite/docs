@@ -41,11 +41,14 @@
 
 ## Patterns
 
-* [UI Help](patterns/ui-help.md)
-* [UI Layout](patterns/ui-layout.md)
-* [UI Navigation](patterns/ui-navigation.md)
-* [UI Search](patterns/ui-search.md)
-* [Back end code generation](patterns/back-end-code-generation.md)
+* [Front end](patterns/front-end/README.md)
+  * [Style guide](patterns/front-end/ui-help.md)
+  * [React](patterns/front-end/react/README.md)
+    * [Search](patterns/front-end/react/ui-search.md)
+  * [ASP.NET web forms](patterns/front-end/asp.net-web-forms/README.md)
+    * [Navigation](patterns/front-end/asp.net-web-forms/ui-navigation.md)
+* [Back end](patterns/back-end/README.md)
+  * [Code generation](patterns/back-end/code-generation.md)
 
 ## Tools and utilities <a href="#tools" id="tools"></a>
 
