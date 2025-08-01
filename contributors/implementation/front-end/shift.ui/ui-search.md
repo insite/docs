@@ -11,7 +11,7 @@ I’ll be using Gradebook Search screen as an example
 1. Create an interface for the API Row model (ApiGradebookMatch) and API Query model (ApiSearchGradebooks)\
    <figure><img src="../../../.gitbook/assets/search-api-models.jpg" alt=""><figcaption></figcaption></figure>
 2. Add search and download methods to the controller object:
-   <figure><img src="../../../.gitbook/assets/search-api-methods.jpg" alt=""><figcaption></figcaption></figure>
+   <figure><img src="../../../.gitbook/assets/search-api-functions.jpg" alt=""><figcaption></figcaption></figure>
 
 3. Go to cacheKey.ts and add a new unique key to the union type CacheKey
 
