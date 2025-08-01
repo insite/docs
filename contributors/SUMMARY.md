@@ -39,20 +39,20 @@
 * [Version numbers](conventions/version-numbers.md)
 * [Video recommendations](conventions/video-recommendations.md)
 
-## Patterns
+## Implementation
 
-* [Front end](patterns/front-end/README.md)
-  * [General UI style guide](patterns/front-end/ui-help.md)
-  * [React](patterns/front-end/react/README.md)
-    * [Search](patterns/front-end/react/ui-search.md)
-  * [ASP.NET web forms](patterns/front-end/asp.net-web-forms/README.md)
-    * [Navigation](patterns/front-end/asp.net-web-forms/ui-navigation.md)
-* [Back end](patterns/back-end/README.md)
-  * [Code generation](patterns/back-end/code-generation.md)
+* [Front end](implementation/front-end/README.md)
+  * [General style guide](implementation/front-end/ui-help.md)
+  * [ASP.NET web forms](implementation/front-end/asp.net-web-forms/README.md)
+    * [Navigation](implementation/front-end/asp.net-web-forms/ui-navigation.md)
+  * [React](implementation/front-end/react/README.md)
+    * [Search](implementation/front-end/react/ui-search.md)
+* [Back end](implementation/back-end/README.md)
+  * [Code generation](implementation/back-end/code-generation.md)
 
 ## Tools and utilities <a href="#tools" id="tools"></a>
 
-* [React](tools/react.md)
+* [IDE](tools/ide.md)
 
 ## Code reference <a href="#code" id="code"></a>
 
