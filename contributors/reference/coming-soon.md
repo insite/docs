@@ -9,12 +9,10 @@ description: Integrating with the platform vs. building on the platform
 We make a clear distinction between the **Developer** API and the **Contributor** API, because this clarifies the fundamental difference in audience and purpose:&#x20;
 
 * Developer APIs focus on consumption and integration patterns, emphasizing stability, usability, and external use cases, while Contributor APIs document implementation details, internal architecture decisions, and modification workflows that enable effective contribution to the codebase.&#x20;
-* The **Developer** API is .
-* The **Contributor** API is .&#x20;
 
-Clearly, every software system has a contributor API, so it is unfortunate there is no standard industry term for this. The term "Contributor API" seems especially well-suited to open-source contexts where internal team members are indeed "contributors", and it aligns perfectly to well-established terminology related to collaboration in both public and private GitHub repositories.
+Clearly, every software system has a "Contributor API", so it is unfortunate there is no standard industry term for this. The term "Contributor API" seems especially well-suited to an open-source context where internal team members are indeed contributors, and it aligns perfectly to well-established terminology related to project collaboration in both public and private GitHub repositories.
 
-By adopting this convention, we make it immediately clear whether documentation is intended for those building _with_ our system versus those building _on_ our system. This helps to reduce confusion and ensures contributors can quickly locate the technical depth they need for internal development work.
+By adopting this convention, we make it immediately clear whether documentation is intended for those _integrating with_ our system versus those _building on_ our system. This helps reduce confusion and ensures contributors can easily locate the technical depth they need for internal development work.
 
 
 
