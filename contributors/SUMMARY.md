@@ -54,6 +54,6 @@
 
 * [IDE](tools/ide.md)
 
-## Code reference <a href="#code" id="code"></a>
+## Internal code reference <a href="#reference" id="reference"></a>
 
-* [Coming soon!](code/coming-soon.md)
+* [Contributor API](reference/coming-soon.md)
