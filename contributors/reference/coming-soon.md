@@ -6,13 +6,14 @@ description: Integrating with the platform vs. building on the platform
 
 ## Contributor API vs Developer API
 
-We make a clear distinction between the **Developer** API and the **Contributor** API, because this clarifies the fundamental difference in audience and purpose:&#x20;
+We make a clear distinction between the **Developer** API and the **Contributor** API, because it clarifies a fundamental difference in audience and purpose:&#x20;
 
-* Developer APIs focus on consumption and integration patterns, emphasizing stability, usability, and external use cases, while Contributor APIs document implementation details, internal architecture decisions, and modification workflows that enable effective contribution to the codebase.&#x20;
+* Developer APIs focus on consumption and integration patterns, emphasizing stability, usability, and external use cases
+* Contributor APIs document implementation details, internal architecture decisions, and modification workflows that enable effective contribution to the codebase.&#x20;
 
-Clearly, every software system has a "Contributor API", so it is unfortunate there is no standard industry term for this. The term "Contributor API" seems especially well-suited to an open-source context where internal team members are indeed contributors, and it aligns perfectly to well-established terminology related to project collaboration in both public and private GitHub repositories.
+Clearly, every software system has a "Contributor API", so it is unfortunate there is no standard industry term for this. The term "Contributor API" is especially well-suited to an open-source context where internal team members are indeed contributors, and the term aligns perfectly with established terminology for collaboration in both public and private GitHub repositories.
 
-By adopting this convention, we make it immediately clear whether documentation is intended for those _integrating with_ our system versus those _building on_ our system. This helps reduce confusion and ensures contributors can easily locate the technical depth they need for internal development work.
+By adopting this convention, we make it immediately clear whether documentation is intended for those _integrating with_ the system versus those _building on_ the system. In turn, this helps reduce confusion and ensures contributors can easily locate the technical depth they need for internal development work.
 
 
 
