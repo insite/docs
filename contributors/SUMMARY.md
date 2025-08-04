@@ -38,6 +38,7 @@
     * [Search](implementation/front-end/shift.ui/ui-search.md)
 * [Back end](implementation/back-end/README.md)
   * [Shift.Service](implementation/back-end/shift.service.md)
+* [Internal code reference](implementation/reference.md)
 
 ## Conventions
 
@@ -53,7 +54,3 @@
 ## Tools and utilities <a href="#tools" id="tools"></a>
 
 * [IDE](tools/ide.md)
-
-## Internal code reference <a href="#reference" id="reference"></a>
-
-* [Contributor API](reference/coming-soon.md)
