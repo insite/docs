@@ -46,7 +46,7 @@
 
 ## Resources
 
-* [.NET versions](dotnet-versions.md)
+* [.NET](dotnet-versions.md)
 
 ***
 
