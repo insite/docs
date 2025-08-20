@@ -115,7 +115,7 @@ DateTimeOffset parsed = DateTimeOffset.Parse(serialized);
 
 Check out this service in the API:
 
-<figure><img src=".gitbook/assets/v2-04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/v2-04.png" alt=""><figcaption></figcaption></figure>
 
 You can practice with your own input values to see exactly how they are parsed and interpreted by the server. For example:
 

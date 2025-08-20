@@ -47,12 +47,10 @@
 ## Resources
 
 * [.NET](dotnet-versions.md)
-
-***
-
-* [Date and time values](date-and-time-values.md)
+* [Date and time values](resources/date-and-time-values.md)
 
 ## Integrations
 
 * [Safe Exam Browser](integrations/safe-exam-browser.md)
 * [Single Sign-On](integrations/single-sign-on.md)
+* [Power BI](integrations/power-bi.md)
