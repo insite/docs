@@ -68,7 +68,9 @@ Here is an example for reference:
 
 <figure><img src="../.gitbook/assets/power-bi-4.png" alt=""><figcaption></figcaption></figure>
 
-Click "OK", and your data source is ready to use!
+## That's it!
+
+Click "OK", and your data source is ready to use.
 
 <figure><img src="../.gitbook/assets/power-bi-5.png" alt=""><figcaption></figcaption></figure>
 
