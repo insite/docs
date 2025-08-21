@@ -82,8 +82,8 @@ There are more than twenty API libraries available in the platform, with hundred
 
 ### Need help?
 
-Of course, if you get stuck, we have a professional services team with deep knowledge of the platform — and many years of experience building integrations between systems, including large-scale data migrations. Our team is always available to provide consulting services to other developers and integrators who are building their own integrations, migrations, and extensions.
+Of course, if you get stuck, we have a professional services team with deep knowledge of the platform — and many years of experience building integrations between systems, including large-scale data migrations. The team is always excited about working with other developers and integrators who are building their own integrations, migrations, and extensions. You can leverage our team by through a simple consulting services agreement, which can be short-term or long-term. Generally, we recommend starting with a part-time resource (half-time or quarter-time) for a period between one and six months.
 
-We can also recommend third-party integration partners, if you'd prefer to work with someone who has an orientation and perspective on the platform that is more externally focused.
+We can also recommend third-party integration partners, if you'd prefer to work with someone who has an orientation and perspective on the platform that is very specifically geared to an external focus.
 
 Contact us any time to discuss either of these options.
