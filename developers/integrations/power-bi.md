@@ -80,12 +80,12 @@ Spend some time exploring the API libraries, and experiment with your Power BI i
 There are more than twenty API libraries available in the platform, with hundreds of available queries. You can explore them here: [navigating-the-api.md](../api-v2/navigating-the-api.md "mention")
 {% endhint %}
 
-### Need some technical help?
+### Need technical help?
 
-Of course, if you get stuck, we have a professional services team with deep knowledge of the platform — and many years of experience building integrations between systems, including large-scale data migrations. Our team is always excited about working with other developers and integrators who are building their own integrations, migrations, and extensions.&#x20;
+Of course, if you get stuck, we have a professional services team with deep knowledge of the platform, and many years of experience building integrations between systems — including large-scale data migrations. Our team is always excited about working with other developers and integrators who are building their own integrations, migrations, and extensions.&#x20;
 
 {% hint style="info" %}
-You can leverage our team through a simple consulting services agreement, which can be short-term or long-term. If you are just getting started, then as a general guideline we recommend starting with a part-time resource (half-time or quarter-time) for a period between one and six months.
+You can leverage our team through a simple consulting services agreement, which can be short-term or long-term. If you're just getting started, then we usually recommend a part-time resource (half-time or quarter-time) for a period between one and six months.
 {% endhint %}
 
 We can also recommend third-party integration partners, if you'd prefer to work with someone who has an orientation and perspective on the platform that is very specifically geared with an external focus.
