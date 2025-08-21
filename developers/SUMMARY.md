@@ -3,10 +3,7 @@
 ## Getting Started
 
 * [Developer Documentation](README.md)
-
-***
-
-* [Queries and commands](queries-and-commands.md)
+* [Queries and commands](getting-started/queries-and-commands.md)
 
 ## API - v1
 
@@ -38,11 +35,8 @@
           kind: openapi
           spec: api-v2
     ```
-
-***
-
-* [Request and response formats](request-and-response-formats.md)
-* [Rate limits and throttling](rate-limits-and-throttling.md)
+* [Request and response formats](api-v2/request-and-response-formats.md)
+* [Rate limits and throttling](api-v2/rate-limits-and-throttling.md)
 
 ## Resources
 
@@ -51,6 +45,6 @@
 
 ## Integrations
 
+* [Power BI](integrations/power-bi.md)
 * [Safe Exam Browser](integrations/safe-exam-browser.md)
 * [Single Sign-On](integrations/single-sign-on.md)
-* [Power BI](integrations/power-bi.md)

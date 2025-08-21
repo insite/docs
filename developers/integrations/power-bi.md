@@ -20,22 +20,22 @@ This means you'll use Bearer token authentication to prove that Power BI has per
 **How it works with Power BI:**
 
 1. You sign in as a Shift iQ developer, integrator, or administrator, and generate your own private access token.
-2. When you set up your data connection in Power BI, you'll enter this token in the authentication settings.
+2. When configure a data connection in Power BI, you'll enter this token in the authentication settings.
 3. Power BI will then use your token to identify itself to the API each time it needs to refresh your data.
 
 ## Step 1: Make sure your developer account is enabled
 
 If you are working with the API for the first time, then always start in the Development environment.&#x20;
 
-Sign in and visit the My Profile page. If you account is enabled for development and integration with the API then you'll see a Developer Settings panel here. It looks something like this:
+Sign in and visit the My Profile page. If your account is enabled for development and integration work with the API then you'll see a Developer Settings panel on this page.
 
 <figure><img src="../.gitbook/assets/power-bi-1 (1).png" alt=""><figcaption></figcaption></figure>
 
-If you do not see a Developer Settings panel then contact your LMS administrator to have this enabled for your account.
+If you don't see a Developer Settings panel then contact your LMS administrator to have this enabled for your account.
 
 ## Step 2: Generate an access token from your client secret
 
-To generate an access token, visit the My Profile page. In the Developer Settings section, click the key icon. The system creates a token that you can copy to your clipboard with a single mouse-click.
+Visit the My Profile page and click the key beside the API Access Token label in the Developer Settings section. The system will create a token that you can copy to your clipboard with a single mouse-click.
 
 <figure><img src="../.gitbook/assets/power-bi-2.png" alt=""><figcaption></figcaption></figure>
 
@@ -43,26 +43,24 @@ To generate an access token, visit the My Profile page. In the Developer Setting
 
 Start the Power BI Desktop app on your computer and create a new report.&#x20;
 
-When you are prompted for a data source, select "Get data from another source".&#x20;
-
-In the "Get Data" dialog box, select "Web".
+When you are prompted for a data source, select "Get data from another source". In the "Get Data" dialog box, select "Web".
 
 <figure><img src="../.gitbook/assets/power-bi-3.png" alt=""><figcaption></figcaption></figure>
 
-In the "From Web" dialog box, select "Advanced" and input the settings for your URL parts and your HTTP request header.
+In the "From Web" dialog box, select "Advanced" and input the settings for the URL parts and the HTTP request header.
 
 #### URL parts
 
-You can input the entire fully qualified URL for an API endpoint as a single URL part, or you can separate the URL into logical "parts" so it is easier to read and understand. Our team prefers the latter, but of course this is optional. In the example below, you'll see:
+You can input the entire, fully-qualified URL for an API endpoint as a single URL part (in one of the available text boxes), or you can separate the URL into logical pieces so it is easier to read and understand. Our team prefers the latter, but of course this is optional. In the example below, you'll see:
 
-* In the first part we identify the base URL for the server where the API is hosted. This is copied directly from your Developer Settings.
-* In the second part we identify the specific query that we want to send.
-* In the third part we specify any additional options or input parameters for the query.
+* In the first part I identify the base URL for the server where the API is hosted. This is copied directly from the Developer Settings panel of my profile.
+* In the second part I identify the specific request that I want to send.
+* In the third part I specify additional options and/or input parameters for my query.
 
 #### HTTP request header
 
-* In the first text box, enter the parameter name "Authorization".
-* In the second text box, enter the parameter value. This is the word "Bearer", followed by a blank space, followed by your access token.
+* The parameter name is "Authorization".
+* The parameter value is the word "Bearer", followed by a blank space, followed by my access token.
 
 Here is an example for reference:
 
@@ -70,13 +68,13 @@ Here is an example for reference:
 
 ## That's it!
 
-Click "OK", and your data source is ready to use.
+Click "OK", and the data source is ready to use in Power BI.
 
 <figure><img src="../.gitbook/assets/power-bi-5.png" alt=""><figcaption></figcaption></figure>
 
 ## Next steps: explore and experiment
 
-Spend some time exploring the API libraries, and experimenting with your Power BI integration. The development environment is intended for this purpose, so you can test and debug your reports without any impact on your organization's live, production environment.
+Spend some time exploring the API libraries, and experiment with your Power BI integration. The development environment is intended for this purpose, so you can test and debug your Power BI reports without any impact on your organization's live, production environment.
 
 {% hint style="info" %}
 There are more than twenty API libraries available in the platform, with hundreds of available queries. You can explore them here: [navigating-the-api.md](../api-v2/navigating-the-api.md "mention")
