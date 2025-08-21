@@ -76,14 +76,18 @@ Click "OK", and the data source is ready to use in Power BI.
 
 Spend some time exploring the API libraries, and experiment with your Power BI integration. The development environment is intended for this purpose, so you can test and debug your Power BI reports without any impact on your organization's live, production environment.
 
-{% hint style="info" %}
+{% hint style="success" %}
 There are more than twenty API libraries available in the platform, with hundreds of available queries. You can explore them here: [navigating-the-api.md](../api-v2/navigating-the-api.md "mention")
 {% endhint %}
 
-### Need help?
+### Need some technical help?
 
-Of course, if you get stuck, we have a professional services team with deep knowledge of the platform — and many years of experience building integrations between systems, including large-scale data migrations. The team is always excited about working with other developers and integrators who are building their own integrations, migrations, and extensions. You can leverage our team by through a simple consulting services agreement, which can be short-term or long-term. Generally, we recommend starting with a part-time resource (half-time or quarter-time) for a period between one and six months.
+Of course, if you get stuck, we have a professional services team with deep knowledge of the platform — and many years of experience building integrations between systems, including large-scale data migrations. Our team is always excited about working with other developers and integrators who are building their own integrations, migrations, and extensions.&#x20;
 
-We can also recommend third-party integration partners, if you'd prefer to work with someone who has an orientation and perspective on the platform that is very specifically geared to an external focus.
+{% hint style="info" %}
+You can leverage our team through a simple consulting services agreement, which can be short-term or long-term. If you are just getting started, then as a general guideline we recommend starting with a part-time resource (half-time or quarter-time) for a period between one and six months.
+{% endhint %}
+
+We can also recommend third-party integration partners, if you'd prefer to work with someone who has an orientation and perspective on the platform that is very specifically geared with an external focus.
 
 Contact us any time to discuss either of these options.
