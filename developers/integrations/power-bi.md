@@ -68,6 +68,22 @@ Here is an example for reference:
 
 <figure><img src="../.gitbook/assets/power-bi-4.png" alt=""><figcaption></figcaption></figure>
 
-Click "OK", and your data source is ready to use.
+Click "OK", and your data source is ready to use!
 
 <figure><img src="../.gitbook/assets/power-bi-5.png" alt=""><figcaption></figcaption></figure>
+
+## Next steps: explore and experiment
+
+Spend some time exploring the API libraries, and experimenting with your Power BI integration. The development environment is intended for this purpose, so you can test and debug your reports without any impact on your organization's live, production environment.
+
+{% hint style="info" %}
+There are more than twenty API libraries available in the platform, with hundreds of available queries. You can explore them here: [navigating-the-api.md](../api-v2/navigating-the-api.md "mention")
+{% endhint %}
+
+### Need help?
+
+Of course, if you get stuck, we have a professional services team with deep knowledge of the platform and many years of experience building integrations with the platform, including large-scale data migrations to and from the platform. Our team is always available to provide consulting services to your team.&#x20;
+
+We can also recommend  third-party integration partners if you'd prefer to work with someone who has a perspective on the platform that is more externally oriented.
+
+Contact your administrator to discuss either of these options.
