@@ -37,7 +37,7 @@
   * [Shift.UI](implementation/front-end/shift.ui/README.md)
     * [Search](implementation/front-end/shift.ui/ui-search.md)
 * [Back end](implementation/back-end/README.md)
-  * [Adding a new API endpoint](implementation/back-end/shift.service.md)
+  * [Add a new set of API endpoints](implementation/back-end/add-a-new-set-of-api-endpoints.md)
 * [Internal code reference](implementation/reference.md)
 
 ## Conventions
