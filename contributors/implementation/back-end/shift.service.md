@@ -125,11 +125,31 @@ For example, copy the Data folder
 
 Build the solution to ensure no compiler errors.
 
-### Optional: Rename Identifier suffixes to Id in model property names.&#x20;
+## Optional steps
+
+### Implement default functionality for Reader:BuildQueryable
+
+The generated code provides some guidance and advice, but the details are for you to decide. Typical improvements might include:
+
+* [ ] Force the organization identifier in the criteria to match the client context. This ensures the caller receives only items owned by their organization.
+* [ ] Specify a default sort order. The caller is not required to specify the sort order as an input parameter, therefore a default is recommended.
+* [ ] Add, modify, or remove the example `Where` clauses.
+
+For example:
+
+<figure><img src="../../.gitbook/assets/back-end-04.png" alt=""><figcaption></figcaption></figure>
+
+### Remove organization identifier properties from models
+
+Every API request is authenticated with an access key that identifies the user and the organization submitting the request. Therefore, the organization identifier is not needed in an API response, because it is redundant to the client.
+
+<figure><img src="../../.gitbook/assets/back-end-03.png" alt=""><figcaption></figcaption></figure>
+
+### Rename Identifier suffixes to Id in model property names
 
 For example, rename `FileModel.FileIdentifier` to `FileModel.FileId`
 
-### Optional: Add navigation properties.
+### Add navigation properties
 
 For example, there is a one-to-many relation from TFileEntity to TFileActivity, and a one-to-many relation from TFileEntity to TFileClaim, therefore add collection properties to TFileEntity:
 
