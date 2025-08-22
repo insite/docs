@@ -88,6 +88,6 @@ Of course, if you get stuck, we have a professional services team with deep know
 You can leverage our team through a simple consulting services agreement, which can be short-term or long-term. If you're just getting started, then we usually recommend a part-time resource (half-time or quarter-time) for a period between one and six months.
 {% endhint %}
 
-We can also recommend third-party integration partners, if you'd prefer to work with someone who has an orientation and perspective on the platform that is very specifically geared with an external focus.
+We can also recommend third-party integration partners, if you'd prefer to work with someone who has an orientation and perspective on the platform that is more externally focused.
 
 Contact us any time to discuss either of these options.
