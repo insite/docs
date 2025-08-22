@@ -1,10 +1,10 @@
 ---
 description: >-
-  Follow this process to generate contract, service and controller classes for a
-  new set of API endpoints that bind to data in a specific database table
+  Follow this process to generate contract, service, and controller classes for
+  a new set of API endpoints that bind to data in a specific database table
 ---
 
-# Code generation
+# Adding a new API endpoint
 
 ## Before you start
 
@@ -15,6 +15,8 @@ Before you start, navigate to `ui/admin/metadata/entities/search` in your local 
 > If no entity is defined for the database table then you need to define a new entity by inserting a new row in **metadata.TEntity**.
 
 When you find the entity definition, make special note of the Component, Subcomponent, and Entity Name.
+
+<figure><img src="../../.gitbook/assets/back-end-01.png" alt=""><figcaption></figcaption></figure>
 
 ### Prepare the code generator
 
@@ -40,17 +42,19 @@ Make special note of the output folder. This is the directory in your local file
 
 Run the code generator. On a large database (like Shift), execution time may be a minute or two.
 
-Open Windows file explorer and navigate to the output folder. You should see 3 subfolders:&#x20;
+Open your file explorer and navigate to the output folder. You should see 3 subfolders:&#x20;
 
 * **Api**: Controller classes for the API
 * **Contract**: Query and command classes, request and response classes, DTO classes
 * **Service**: Classes to read and write database entities, and adapters for entity/model conversion
 
+<figure><img src="../../.gitbook/assets/back-end-02.png" alt=""><figcaption></figcaption></figure>
+
 ## Integrate the new classes
 
 ### Contract code
 
-Contract code targets .NET Standard 2.0.
+Contract code targets .NET Standard 2.0. This maximizes its reusability, allowing it to be referenced from .NET Framework libraries and/or .NET Core libraries.
 
 Start with Contract classes. In the output folder, open the Contract subfolder and find the component, subcomponent, and entity that you want to integrate into your project.&#x20;
 
