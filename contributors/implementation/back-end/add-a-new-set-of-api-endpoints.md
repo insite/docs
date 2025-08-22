@@ -4,7 +4,7 @@ description: >-
   a new set of API endpoints that bind to data in a specific database table
 ---
 
-# Adding a new API endpoint
+# Add a new set of API endpoints
 
 ## Before you start
 
@@ -126,6 +126,8 @@ For example, copy the Data folder
 Build the solution to ensure no compiler errors.
 
 ## Optional steps
+
+There are a few additional optional steps you should consider. These are not required, but they are recommended.
 
 ### Implement default functionality for Reader:BuildQueryable
 
