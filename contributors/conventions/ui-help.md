@@ -4,7 +4,7 @@ description: >-
   the user interface
 ---
 
-# General UI style guide
+# Style guide
 
 ## Tooltips
 
@@ -31,6 +31,14 @@ Tooltips provide brief, contextual help for UI elements. They should be concise,
 
 * Use sentence case (capitalize the first word).
 * Use active voice when possible.
+
+**Icons:**
+
+* Including an icon is optional.
+* When you include an icon in a tooltip, follow a consistent semantic hierarchy:
+  * <i class="fa-circle-question">:circle-question:</i> question mark for help/documentation
+  * <i class="fa-circle-info">:circle-info:</i> info for basic information
+  * <i class="fa-lightbulb-on">:lightbulb-on:</i> lightbulb for insights and quick tips
 
 **Examples:**
 
