@@ -214,6 +214,7 @@
   * [Options for Adding Standards](standards/create-standards/add-standard.md)
   * [Manage Frameworks using the Outline View](standards/create-standards/manage-standards-outline.md)
   * [Framework settings and details](standards/create-standards/framework-settings.md)
+  * [Upload Standards using Markdown](standards/create-standards/upload-standards-using-markdown.md)
 * [Managing and Editing Standards](standards/edit-standards/README.md)
   * [Manually enter alternate language text](standards/edit-standards/alternate-language.md)
   * [Numbering a Single Standard](standards/edit-standards/number-single-standard.md)
