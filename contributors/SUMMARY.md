@@ -46,7 +46,7 @@
 * [Database naming conventions](conventions/database-naming-conventions.md)
 * [Folder structure and project names](conventions/folder-structure-and-project-names.md)
 * [README files](conventions/readme-files.md)
-* [Style guide](conventions/ui-help.md)
+* [Style guide](conventions/style-guide.md)
 * [Task list comment tokens](conventions/task-list-comment-tokens.md)
 * [Version numbers](conventions/version-numbers.md)
 * [Video recommendations](conventions/video-recommendations.md)
