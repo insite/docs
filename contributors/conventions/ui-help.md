@@ -6,6 +6,32 @@ description: >-
 
 # Style guide
 
+## Overview
+
+As a general rule, we follow the principles and practices in Google's Material Design style guide. Any time you are uncertain about how to proceed with a style decision, please refer to to it for guidance.
+
+The official reference is here: \[Material Design style guide]\([https://m3.material.io/foundations/content-design/style-guide/ux-writing-best-practices](https://m3.material.io/foundations/content-design/style-guide/ux-writing-best-practices))
+
+## Buttons
+
+On web pages and web forms, buttons should be placed at the bottom of the form, aligned to the left margin.
+
+In a list of buttons, those that perform affirmative actions should be left-most, and dismissive actions should be right-most, with utility and/or destructive actions in between.
+
+Affirmative (Primary) → Utility → Destructive → Dismissive
+
+> Buttons that perform destructive actions, such as Delete, may be placed separate from all other actions, if/as needed.
+
+For example, if an edit form contains Save, Copy, Delete, and Cancel buttons, the correct sequence is:
+
+**Save | Copy | Delete | Cancel**
+
+Notice:
+
+* **Save** (affirmative action) goes on the left
+* **Cancel** (dismissive action) goes on the right
+* **Copy** and **Delete** are placed between the affirmative and dismissive actions
+
 ## Tooltips
 
 Tooltips provide brief, contextual help for UI elements. They should be concise, scannable, and easy to understand.
