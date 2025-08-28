@@ -10,27 +10,72 @@ description: >-
 
 As a general rule, we follow the principles and practices in Google's Material Design style guide. Any time you are uncertain about how to proceed with a style decision, please refer to to it for guidance.
 
-The official reference is here: \[Material Design style guide]\([https://m3.material.io/foundations/content-design/style-guide/ux-writing-best-practices](https://m3.material.io/foundations/content-design/style-guide/ux-writing-best-practices))
+The official reference is here: [Material Design style guide](https://m3.material.io/foundations/content-design/style-guide/ux-writing-best-practices)
+
+## Tabs
+
+The sequence of the tabs on a form should follow this basic rule:
+
+Primary/essential content → Secondary content → Advanced/optional content
+
+Tabs should represent a logical information architecture, and should use progressive disclosure (don't overwhelm with too much detail on the first tab).
+
+For example:
+
+* Basic Info (required, foundational)
+* Advanced Settings (optional, builds on basic)
+* Permissions (contextual, depends on other settings)
+* Review (summary, final step)
 
 ## Buttons
 
-On web pages and web forms, buttons should be placed at the bottom of the form, aligned to the left margin.
+### Placement
 
-In a list of buttons, those that perform affirmative actions should be left-most, and dismissive actions should be right-most, with utility and/or destructive actions in between.
+Button placement depends on the specific context and type of action. **Bottom placement** is preferred for:
 
-Affirmative (Primary) → Utility → Destructive → Dismissive
+* **Form submission buttons** (Save, Submit, Continue) - users expect these at the bottom after completing the form
+* **Wizard/stepper navigation** (Next, Previous, Finish)
+* **Modal dialogs** - actions typically appear at the bottom
+* **Mobile interfaces** - bottom placement is more thumb-friendly
 
-> Buttons that perform destructive actions, such as Delete, may be placed separate from all other actions, if/as needed.
+**Top placement** is preferred for:
 
-For example, if an edit form contains Save, Copy, Delete, and Cancel buttons, the correct sequence is:
+* **Page-level actions** (Create New, Add Item, Export)
+* **Toolbar actions** (Edit, Delete, Share) that apply to the entire page or selected content
+* **Navigation actions** that don't require form completion
+* **Destructive actions** that you want to separate from form submission buttons
 
-**Save | Copy | Delete | Cancel**
+Material Design principles specify:
 
-Notice:
+* **Forms**: Primary actions should be at the bottom, following the natural completion flow
+* **Content pages**: Actions can be at the top in app bars or floating action buttons
+* **Mobile**: Consider reachability - bottom placement is often more accessible
 
-* **Save** (affirmative action) goes on the left
-* **Cancel** (dismissive action) goes on the right
-* **Copy** and **Delete** are placed between the affirmative and dismissive actions
+### Alignment and Sequence
+
+On web forms, buttons should be placed at the bottom of the page, aligned to the left margin. The correct sequence (from left to right) is:
+
+1. **Save** (primary action - leftmost)
+2. **Cancel** (dismissive action - next to primary)
+3. **Duplicate** (secondary action)
+4. **View References** (secondary action)
+5. **Delete** (destructive action - rightmost or separated)
+
+The key principle here is:
+
+* **Primary actions go first** (leftmost) in the natural reading flow
+* **Dismissive actions** (e.g., Cancel) typically appear next to the primary action
+* **Destructive actions** (e.g., Delete) are placed last or visually separated
+
+This follows the logic that users read left-to-right and encounter the most important action first. The "Save then Cancel" pairing at the beginning creates a clear primary action hierarchy.
+
+When it is possible to do so, buttons that perform destructive actions should be separated entirely. For example, a Delete button should be placed in a different area of the form, rather than mixing it with form submission buttons.
+
+## Confirmations
+
+The prompt for confirmation of a destructive action should look like this:
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Tooltips
 
@@ -71,3 +116,14 @@ Tooltips provide brief, contextual help for UI elements. They should be concise,
 * ❌ "this text will be shown under the achievement title."
 * ✅ "This text appears under the achievement title."
 * ✅ "Appears under the achievement title"
+
+## Grids
+
+Action icons in data tables and grids should be placed in the **right-most column**.
+
+This follows the natural reading flow (left-to-right in most languages) where users first scan the data content and then encounter the actions they can take on that data. There are some exceptions:
+
+* **Selection controls** (like checkboxes) are typically placed in the left-most column
+* In some cases, a single primary action icon might be placed on the left if it is the most important element for that row
+
+The right-aligned approach for action icons is part of Material Design's broader principle of creating a clear visual hierarchy and intuitive user flow in a data-dense interface element.

@@ -37,7 +37,7 @@ The Release number in a message submitted to Sentry includes only the first 3 se
 
 This improves the readability and management of Sentry issues. Also, it enables us to mark an issue “Resolved until next release”, which fits with our daily automated deployments to Development and Sandbox.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Here is a code sample to show how this is achieved:
 

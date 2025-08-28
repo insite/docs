@@ -54,3 +54,4 @@
 ## Tools and utilities <a href="#tools" id="tools"></a>
 
 * [IDE](tools/ide.md)
+* [SQL Server Reporting Services](tools/sql-server-reporting-services.md)
