@@ -85,12 +85,42 @@ Should the name of a view follow the naming convention for a query?
 
 ## SQL Server versus PostgreSQL
 
-The naming conventions above are intended for SQL Server databases, and are **not** a good fit for PostgreSQL databases.
+The naming conventions above are intended for SQL Server databases, and are **not** a good fit for PostgreSQL databases because PostgreSQL automatically applies lowercase to object names.&#x20;
 
-PostgreSQL automatically applies lowercase to object names, therefore upper case letters are **strongly discouraged**.&#x20;
+Therefore, upper case letters are **strongly discouraged**. For details, refer to this article: [Do not use upper case table or column names in PostgreSQL](https://wiki.postgresql.org/wiki/Don't_Do_This#Don.27t_use_upper_case_table_or_column_names).
 
-For details, refer to this article: [Do not use upper case table or column names in PostgreSQL](https://wiki.postgresql.org/wiki/Don't_Do_This#Don.27t_use_upper_case_table_or_column_names).
+Snake case is **strongly recommended** for all object names in PostgreSQL databases.
 
-Snake case is **strongly recommended** for object names in PostgreSQL databases.
+When you use PostgreSQL, follow the de-facto standards.
 
-A separate list of conventions will be documented here when time permits.
+**Timestamps (date + time):**
+
+* `created_at` and `updated_at` - by far the most popular, especially in web applications and ORMs
+* `created_on` and `updated_on` - alternative that some prefer
+* `created_when` and `updated_when` - grammatically logical but rarely used in open-source projects
+
+**Date-only columns:**
+
+* `created_date`, `start_date`, `end_date`
+* `birth_date`, `due_date`, etc.
+
+**Time-only columns:**
+
+* `created_time`, `start_time`, `end_time`
+
+User identity columns:
+
+* `created_by` and `updated_by` - storing the user ID (foreign key)
+* `created_by_id` and `updated_by_id` - more explicit about storing an ID
+* `creator_id` and `updater_id` - noun-based approach
+* `created_by_user_id` and `updated_by_user_id` - very explicit but verbose
+
+The pattern `created_by` and `updated_by` is overwhelmingly the most popular in open-source projects, with the assumed understanding that "by" is an alias for "id".
+
+`updated_at` is significantly more popular than `modified_at`, though both are grammatically correct. This is mainly a semantic preference, because developers tend to think of database operations as:
+
+* **CREATE** → `created_at`
+* **UPDATE** → `updated_at`
+* **DELETE** → `deleted_at` (for soft deletes)
+
+This maps directly to CRUD operations, making `updated_at` feel more natural in a database context.
