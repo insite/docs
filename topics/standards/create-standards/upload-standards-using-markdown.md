@@ -2,7 +2,7 @@
 
 When uploading your Competency Framework using Markdown, the structure of the file must follow a specific heading hierarchy, depending on the number of tiers in your framework.
 
-If your framework has 3 levels, just make sure it's structured as **Framework > Area > Competency**, and if your framework has 4 levels then make sure it's structured as **Framework > Area > Competency > Competency.**
+If your framework has 3 levels, just make sure it's structured as **Framework > Area > Competency**, and if your framework has 4 levels then make sure it's structured as **Framework > Area > Competency > Competency. TEST**
 
 To include codes in your competency framework (for easier reference, tracking, or integration), simply add a letter or number in front of each Area or Competency.
 
