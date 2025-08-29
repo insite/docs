@@ -2,6 +2,6 @@
 
 VS Code
 
-Visual Studio
+Visual Studio 2022
 
 Insomnia
