@@ -47,4 +47,5 @@
 
 * [Power BI](integrations/power-bi.md)
 * [Safe Exam Browser](integrations/safe-exam-browser.md)
+* [SCORM](integrations/scorm.md)
 * [Single Sign-On](integrations/single-sign-on.md)
