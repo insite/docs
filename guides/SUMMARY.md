@@ -7,3 +7,7 @@
 * [Learner experience](walkthroughs/learner-experience.md)
 * [Instructor experience](walkthroughs/instructor-experience.md)
 * [Administrator experience](walkthroughs/administrator-experience.md)
+
+## SCORM
+
+* [Glossary](scorm/glossary.md)
