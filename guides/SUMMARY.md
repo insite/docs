@@ -11,3 +11,4 @@
 ## SCORM
 
 * [Glossary](scorm/glossary.md)
+* [Versions](scorm/versions.md)
