@@ -135,4 +135,21 @@ Example: a card with an **Upload** button. (Placement for this is still under di
 
 <img width="1152" height="838" alt="image" src="https://github.com/user-attachments/assets/5d1bed96-76c0-4881-9ada-4ff70ec32883" />
 
+# Admin Portal
 
+## Create
+
+## Modify
+
+(Some documentation/description is needed here, of course.)
+
+## Nested Tabs
+
+The topic was discussed here: [DEV-5903: Upgrade UI\Desktops\Admin\Courses2\Manage.aspx from B3 to B5
+Closed](https://insite.atlassian.net/browse/DEV-5903)
+  
+
+If the form has nested tabs then:
+
+1. The main/parent card should have shadowed borders
+2. Internal panel(s) should be wrapped into cards with non-shadowed borders
