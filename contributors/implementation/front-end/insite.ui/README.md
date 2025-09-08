@@ -102,7 +102,10 @@ An outline page displays combined information for a specific *Toolkit Object*.
 
 **Examples:**
 
+**Examples:**
+
 | | |
+|---|---|
 | ![Class Outline — top-left action buttons](https://github.com/user-attachments/assets/45c1c5bc-06f8-439f-bdf8-86358a5cbb47) | ![Outline — 2020 ISO Policies with top-left action buttons](https://github.com/user-attachments/assets/9deaf45e-5aa3-405e-9148-004ccb7d8b58) |
 
 
@@ -115,15 +118,11 @@ Some cards may gather and display data in a *Search Results* way. These cards us
 - Include additional **Action Buttons** (e.g., Downloading, Adding to results) on the **top right**.  
 - Item rows may include action links/buttons such as **View/Edit/Delete**, placed on the **right side** of the item row.
 
-**Examples:**
+| | |
+|---|---|
+| <img width="1903" height="454" alt="image" src="https://github.com/user-attachments/assets/d95f1704-389d-4cb5-bf5e-43d732e5ccaa" /> | <img width="1891" height="643" alt="image" src="https://github.com/user-attachments/assets/01c38731-5b97-42fe-b96e-55072cac5157" /> |
+| <img width="947" height="367" alt="image" src="https://github.com/user-attachments/assets/115bb8b8-6202-4b9d-803d-8b20e90a4828" /> | <img width="1891" height="425" alt="image" src="https://github.com/user-attachments/assets/a6bc7eb8-04df-4603-aae4-4fa333097174" /> |
 
-*(to be added)*
-
-**Exceptions:**
-
-*(to be added)*
-
----
 
 ## Cards with Inputs
 
@@ -134,8 +133,6 @@ Example: a card with an **Upload** button. (Placement for this is still under di
 
 **Examples:**
 
-*(to be added)*
+<img width="1152" height="838" alt="image" src="https://github.com/user-attachments/assets/5d1bed96-76c0-4881-9ada-4ff70ec32883" />
 
-**Exceptions:**
 
-*(to be added)*
