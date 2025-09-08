@@ -57,3 +57,91 @@ Interface layouts should be optimized for conversion while providing sufficient 
 ### Form layout to delete an entity
 
 (Updated content is pending.)
+
+# Admin Portal
+
+- [Admin Portal](#admin-portal)
+  - [Simple Input Screens](#simple-input-screens)
+  - [Outline Pages](#outline-pages)
+  - [Cards with Search Results](#cards-with-search-results)
+  - [Cards with Inputs](#cards-with-inputs)
+
+On this page we focus on describing a set of guidelines on how to place buttons on different screens in different *boxes* from the admin site.
+
+> **Note**  
+> This is just a **Draft**. Let us all collaborate on achieving the best possible outcome and create the best standards together for button placement.
+
+---
+
+## Simple Input Screens
+
+**Description:**
+
+Every normal input screen like **Create**, **Edit**, **Change/Update (from Outline)** or **Delete** can be done using this approach:  
+- Input fields are implemented in different cards with additional titles and description (if necessary).  
+- Main action buttons for **Saving/Updating** or **Canceling** should be placed in the **bottom left**.
+
+⚠️ If screens are longer and buttons don’t fit, try to make the buttons **sticky at the bottom of the screen**.  
+[Reference: Position sticky button bar (bottom)](https://codepen.io/jaakritso/pen/zMXRaw)
+
+**Examples:**
+
+*(to be added)*
+
+**Exceptions:**
+
+*(to be added)*
+
+---
+
+## Outline Pages
+
+**Description:**
+
+An outline page displays combined information for a specific *Toolkit Object*.  
+- The practice so far: keep all **outline object control buttons** on the **top left**.  
+- The entirety of the information is locked within one card and separated with grouping dividers.
+
+**Examples:**
+
+*(to be added)*
+
+**Exceptions:**
+
+*(to be added)*
+
+---
+
+## Cards with Search Results
+
+**Description:**
+
+Some cards may gather and display data in a *Search Results* way. These cards usually:  
+- Have a **Card Title** or **Filter** on the **top left**.  
+- Include additional **Action Buttons** (e.g., Downloading, Adding to results) on the **top right**.  
+- Item rows may include action links/buttons such as **View/Edit/Delete**, placed on the **right side** of the item row.
+
+**Examples:**
+
+*(to be added)*
+
+**Exceptions:**
+
+*(to be added)*
+
+---
+
+## Cards with Inputs
+
+**Description:**
+
+Some cards, in addition to regular **Save/Update/Delete** actions, may have extra actions such as adding data to a *Toolkit Object*.  
+Example: a card with an **Upload** button. (Placement for this is still under discussion.)
+
+**Examples:**
+
+*(to be added)*
+
+**Exceptions:**
+
+*(to be added)*
