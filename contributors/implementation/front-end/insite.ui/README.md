@@ -103,7 +103,6 @@ An outline page displays combined information for a specific *Toolkit Object*.
 **Examples:**
 
 | | |
-|---|---|
 | ![Class Outline — top-left action buttons](https://github.com/user-attachments/assets/45c1c5bc-06f8-439f-bdf8-86358a5cbb47) | ![Outline — 2020 ISO Policies with top-left action buttons](https://github.com/user-attachments/assets/9deaf45e-5aa3-405e-9148-004ccb7d8b58) |
 
 
