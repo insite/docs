@@ -139,9 +139,13 @@ Example: a card with an **Upload** button. (Placement for this is still under di
 
 ## Create
 
+<img width="1862" height="930" alt="image" src="https://github.com/user-attachments/assets/92d4dd29-ec0e-4d7e-8e0d-b3e9a0a51781" />
+
 ## Modify
 
 (Some documentation/description is needed here, of course.)
+
+<img width="1538" height="923" alt="image" src="https://github.com/user-attachments/assets/a25f68f1-b9e0-4d96-8a6e-7526477e7a5a" />
 
 ## Nested Tabs
 
@@ -153,3 +157,5 @@ If the form has nested tabs then:
 
 1. The main/parent card should have shadowed borders
 2. Internal panel(s) should be wrapped into cards with non-shadowed borders
+
+<img width="1021" height="755" alt="image" src="https://github.com/user-attachments/assets/2045d766-4253-4c81-8fed-93737d8b1c69" />
