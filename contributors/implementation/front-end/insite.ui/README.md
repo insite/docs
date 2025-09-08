@@ -86,10 +86,10 @@ Every normal input screen like **Create**, **Edit**, **Change/Update (from Outli
 
 **Examples:**
 
-<img width="1285" height="898" alt="image" src="https://github.com/user-attachments/assets/54583a6f-9a36-4a9e-9a3a-b1607c4f8c29" />
-<img width="1262" height="889" alt="image" src="https://github.com/user-attachments/assets/3947dbb0-9449-4abd-b84e-bda3e912ba41" />
-<img width="979" height="664" alt="image" src="https://github.com/user-attachments/assets/af93fba0-142d-484c-87bf-251f60eb87dd" />
-<img width="859" height="659" alt="image" src="https://github.com/user-attachments/assets/c597d148-d60e-497e-b652-3eecffd289dc" />
+| | |
+|---|---|
+| ![Edit Seat — bottom-left Save/Cancel](https://github.com/user-attachments/assets/54583a6f-9a36-4a9e-9a3a-b1607c4f8c29) | ![Schedule a New Class — bottom-left Save/Cancel](https://github.com/user-attachments/assets/3947dbb0-9449-4abd-b84e-bda3e912ba41) |
+| ![Describe Class — bottom-left Save/Cancel](https://github.com/user-attachments/assets/af93fba0-142d-484c-87bf-251f60eb87dd) | ![Delete Person — bottom-left Delete/Cancel](https://github.com/user-attachments/assets/c597d148-d60e-497e-b652-3eecffd289dc) |
 
 
 
