@@ -92,13 +92,6 @@ Every normal input screen like **Create**, **Edit**, **Change/Update (from Outli
 | ![Describe Class — bottom-left Save/Cancel](https://github.com/user-attachments/assets/af93fba0-142d-484c-87bf-251f60eb87dd) | ![Delete Person — bottom-left Delete/Cancel](https://github.com/user-attachments/assets/c597d148-d60e-497e-b652-3eecffd289dc) |
 
 
-
-**Exceptions:**
-
-*(to be added)*
-
----
-
 ## Outline Pages
 
 **Description:**
@@ -109,13 +102,10 @@ An outline page displays combined information for a specific *Toolkit Object*.
 
 **Examples:**
 
-*(to be added)*
+| | |
+|---|---|
+| ![Class Outline — top-left action buttons](https://github.com/user-attachments/assets/45c1c5bc-06f8-439f-bdf8-86358a5cbb47) | ![Outline — 2020 ISO Policies with top-left action buttons](https://github.com/user-attachments/assets/9deaf45e-5aa3-405e-9148-004ccb7d8b58) |
 
-**Exceptions:**
-
-*(to be added)*
-
----
 
 ## Cards with Search Results
 
