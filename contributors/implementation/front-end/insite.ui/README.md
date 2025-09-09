@@ -159,3 +159,7 @@ If the form has nested tabs then:
 2. Internal panel(s) should be wrapped into cards with non-shadowed borders
 
 <img width="1021" height="755" alt="image" src="https://github.com/user-attachments/assets/2045d766-4253-4c81-8fed-93737d8b1c69" />
+
+## Delete
+
+For delete checkbox we need to use 
