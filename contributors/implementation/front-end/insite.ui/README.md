@@ -40,25 +40,7 @@ Interface layouts should be optimized for conversion while providing sufficient 
 {% endtab %}
 {% endtabs %}
 
-## Admin page layout guidelines
-
-### Button placement
-
-(Updated content is pending.)
-
-### Form layout to create a new entity
-
-(Updated content is pending.)
-
-### Form layout to modify an existing entity
-
-(Updated content is pending.)
-
-### Form layout to delete an entity
-
-(Updated content is pending.)
-
-# Admin Portal
+# Admin page layout guidelines
 
 - [Admin Portal](#admin-portal)
   - [Simple Input Screens](#simple-input-screens)
