@@ -1,9 +1,13 @@
 # Table of contents
 
+## September 2025
+
+* [Sep 10: Version 25.5 is live!](README.md)
+
 ## July 2025
 
-* [July 16: Version 25.4 is live!](README.md)
-* [July 9: Version 25.4 is in pre-release](<README (2).md>)
+* [July 16: Version 25.4 is live!](<README (2).md>)
+* [July 9: Version 25.4 is in pre-release](<README (2) (1).md>)
 
 ## June 2025
 

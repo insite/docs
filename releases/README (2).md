@@ -1,12 +1,12 @@
 ---
-description: Version 25.4 will be deployed next week on July 16 at 7:00 PM Pacific Time
+description: Version 25.4 was released to the Production environment today
 ---
 
-# July 9: Version 25.4
+# July 16: Version 25.4 is live!
 
-This next update introduces a series of small but meaningful improvements that reflect ongoing enhancements to the platform, along with feedback we’ve received from customers. Each change is designed to improve visibility, reduce unnecessary steps, and give you more control across key workflows.
+This next update introduces a series of meaningful improvements that reflect ongoing enhancements to the platform, along with feedback we've received from customers. Each change is designed to improve visibility, reduce unnecessary steps, and give you more control across key workflows.
 
-Here's a quick look at what’s new:
+Here's a quick look at what's new:
 
 * New sort and export options on group membership lists
 * Streamlined workflows for registrations and memberships
@@ -15,20 +15,12 @@ Here's a quick look at what’s new:
 * Updated tracking and reporting in Logbooks
 * Better visibility for standalone assessments on the Learner Dashboard
 
-These updates support more efficient administration and make key features easier to use across the platform.&#x20;
+These updates support more efficient administration and make key features easier to use across the platform.
 
-### **Next release**
+### **Quick-fix releases** <a href="#quick-fix-releases" id="quick-fix-releases"></a>
 
-Shift iQ version 25.5 is scheduled for release on September 10.
+Additional quick fixes are deployed on Wednesday nights at 7:00 PM Pacific Time as needed.
 
-### **Quick-fix releases**
+### **Next release** <a href="#next-release" id="next-release"></a>
 
-Additional quick fixes are deployed on Wednesday nights at 7pm PT as needed.
-
-### **Questions or feedback?**
-
-Contact your Shift iQ support team -- we're here to help!
-
-Phone: 1 (888) 435‑0981 x2\
-Email: support@shiftiq.com\
-[Support Portal](https://insite.atlassian.net/servicedesk/customer/portal)
+**Version 25.5** is scheduled for release on **September 10**.
