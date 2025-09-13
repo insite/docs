@@ -6,4 +6,4 @@
 
 ## Announcements
 
-* [Upcoming version 25.5](announcements/upcoming-version-25.5.md)
+* [Version 25.5 is live](announcements/version-25.5-is-live.md)
