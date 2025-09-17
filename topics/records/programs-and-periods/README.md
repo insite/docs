@@ -2,35 +2,35 @@
 description: Creating and managing learning programs
 ---
 
-# Programs and periods
+# Learning paths and programs
 
-### Overview
+## Overview
 
 Learning Programs allow you to bundle multiple training activities (courses, assessments, surveys) into structured learning paths. This guide will walk you through creating, configuring, and publishing programs that your employees can access through the learning portal.
 
 ***
 
-### Creating a New Program
+## Creating a new program
 
-#### Step-by-Step Instructions
+### Step-by-step instructions
 
 1. Open the **Records** toolkit and then click on the **Programs** tile under the Programs and Periods heading.
 2. Click on the **Add New Program** link at the top of the page.
-3. **Fill in Required Information:**
-   * **Add a Code for the Program** (Required) - Enter a unique identifier
-   * **Add a Name for the Program** (Required) - Enter a clear, descriptive name
-   * **Add a Description for the Program** (Optional) - Add additional details
+3. Fill in the required information:
+   * Add a **Code** for the Program (**required**) - Enter a unique identifier
+   * Add a **Name** for the Program (**required**) - Enter a clear, descriptive name
+   * Add a **Description** for the Program (**optional**) - Add additional details
 4. Click the **Save** button
 
 > **💡 Tip**: Use clear, consistent naming conventions for program codes to make them easy to find and manage later.
 
 ***
 
-### Adding Program Achievements
+## Adding program achievements
 
-An Achievement can be granted to a learner once they have completed a Program.
+An Achievement can be granted to a learner when they have successfully completed a Program.
 
-#### Setting Up Program Achievement
+### Setting up a program achievement
 
 1. **Access the Program Outline Page**
    * Navigate to the Program Outline page for your program
@@ -39,35 +39,35 @@ An Achievement can be granted to a learner once they have completed a Program.
    * Select the achievement in the **Achievement** field in the Recognition card
    * If the Achievement you want to add is not on the list, the achievement still needs to be created. Refer to [define-achievement.md](../achievements/define-achievement.md "mention")
 3. **Create New Achievement** (if needed):
-   * **Add the Achievement Name** - What learners will see when they earn it
-   * **Add Achievement Type** - Select the appropriate category
-   * **Select Certificate Layout** if you want to grant learners a certificate at the end of the Program
-   * Click on the **Add Achievement** button
+   * Add the **Achievement Name** - What learners will see when they earn it
+   * Add **Achievement Type** - Select the appropriate category
+   * Select **Certificate Layout** if you want to grant learners a certificate at the end of the Program
+   * Click the **Add Achievement** button
 
 ***
 
-### Adding Tasks to Your Program
+## Adding tasks to your program
 
 On the Program Outline page, in the **Tasks** card, administrators can add the different tasks that will form part of the Program.
 
-#### How to Add Tasks
+### How to add tasks
 
 1. Click on the **Edit Tasks** button in the Tasks card
 2. Add each task by selecting the checkbox next to the task
 3. Click the **Save** button once all tasks have been selected
 
-#### Available Task Types
+There are many different task types available:
 
 **Assessments**
 
 * Only **Published Assessment Forms** in Assessment Banks can be selected
-* When selecting the checkbox next to the Assessment Bank, a list of all the Published Assessment Forms in that bank will be available for selection
-* Select the checkbox next to each Assessment Form that needs to be included in the Program
-* **Multiple Assessment Forms can be added to one Program**
+* When selecting the checkbox next to the **Assessment Bank**, a list of all the Published Assessment Forms in that bank will be available for selection
+* Select the checkbox next to each **Assessment Form** that needs to be included in the Program
+* Multiple Assessment Forms can be added to one Program
 
 **Standalone Achievements**
 
-* **Please Note**: Adding a Standalone Achievement will not include its related activity
+* _Please note:_ Adding a Standalone Achievement will not include its related activity.
 * If the Achievement you want to add to the Program is not listed, the achievement still needs to be created. For details, refer to [define-achievement.md](../achievements/define-achievement.md "mention")
 
 **Courses**
@@ -82,13 +82,15 @@ On the Program Outline page, in the **Tasks** card, administrators can add the d
 
 * Available for selection when adding tasks to programs
 
+After you have added all your tasks to the program, click the **Save** button.
+
 ***
 
-### Adding Program Summary
+## Adding a program summary
 
 In the **Content** tab on the Program Outline page, administrators can add a Summary for the program that will be displayed on the Portal.
 
-#### How to Add Summary
+### How to add a summary
 
 1. Navigate to the Program Outline page
 2. Click on the **Content** tab
@@ -97,28 +99,11 @@ In the **Content** tab on the Program Outline page, administrators can add a Sum
 
 ***
 
-### Enrolling Learners
+## Publishing your program
 
-Learners need to be enrolled in a Program before they will be able to see any of the associated program Tasks.
+After the Program is created, you need to **Publish** the Program to the **Portal** for users to access.
 
-#### Enrollment Process
-
-1. **Access Enrollments**
-   * On the Program Outline page, go to the **Enrollments** tab
-   * Click on the **Add Learners** button
-2. **Add Participants**
-   * **Search for the Learner or Group** that you want to enroll in the Program
-   * Once selected, click on the **Add** button
-3. **Confirmation**
-   * The Learner or Group that was selected will be enrolled into the Program and can access the Program on the Portal
-
-***
-
-### Publishing Your Program
-
-After the Program is created, you need to Publish the Program to the Portal for users to access.
-
-#### Adding Program Icon or Image
+### Adding a program icon or image
 
 **Program Icon**:
 
@@ -131,7 +116,7 @@ After the Program is created, you need to Publish the Program to the Portal for 
 
 <figure><img src="../../.gitbook/assets/{34096A6A-CC7C-497D-B3A8-2974D27D600D}.png" alt=""><figcaption></figcaption></figure>
 
-#### Publish Program Steps
+### Publishing the program to the learning portal
 
 1. **Configure Portal Settings**:
    * In the **Web Portal** field, select your Portal URL
@@ -141,13 +126,13 @@ After the Program is created, you need to Publish the Program to the Portal for 
    * The Program is now Published to the portal
    * Click the **Save** button
 
-#### Task Ordering
+### Task ordering
 
 Administrators can determine in what order the selected Program Tasks appear on the portal to learners.
 
-**How to Set Task Order**:
+How to set the task ordering:
 
-1. Under the **Publication** tab, click on the **Task Ordering** tab
+1. Under the **Publication** tab, click the **Task Ordering** tab
 2. Review the order of the tasks in the Program
 3. If you need to change the order, click on the **Reorder** button
 4. **Drag and drop** each task in the required order
@@ -155,11 +140,11 @@ Administrators can determine in what order the selected Program Tasks appear on 
 
 ***
 
-### Setting Up Notifications
+## Setting up email notifications
 
-Administrators can setup **Progress Stalled** and **Progress Completed** notifications.
+Administrators can configure **Progress Stalled** and **Progress Completed** notifications.
 
-#### Progress Stalled Notifications
+### Progress Stalled Notifications
 
 Stalled notifications can be setup to send reminders to Learners and Administrators to complete the Program they started.
 
@@ -181,7 +166,7 @@ Stalled notifications can be setup to send reminders to Learners and Administrat
 
 * This is the maximum number of reminder notifications to send to a learner who is stalled
 
-#### Progress Completed Notifications
+### Progress Completed Notifications
 
 Once a learner has completed a Program, notifications can be sent to the Learner and Administrator to advise that they have completed the Program.
 
@@ -201,11 +186,28 @@ Once a learner has completed a Program, notifications can be sent to the Learner
 
 #### Saving Notifications
 
-Once the notifications have been added, click the **Save** button.
+After notifications have been added, click the **Save** button.
 
 ***
 
-### Tracking Program Achievements
+## Enrolling learners
+
+Learners need to be enrolled in a Program before they will be able to see any of the associated program Tasks.
+
+### &#x20;Enrollment Process
+
+1. **Access Enrollments**
+   * On the Program Outline page, go to the **Enrollments** tab
+   * Click on the **Add Learners** button
+2. **Add Participants**
+   * **Search for the Learner or Group** that you want to enroll in the Program
+   * Once selected, click on the **Add** button
+3. **Confirmation**
+   * The Learner or Group that was selected will be enrolled into the Program and can access the Program on the Portal
+
+***
+
+## Tracking learner program achievements
 
 Under the **Achievements** tab, administrators will be able to see all learners that completed the Program and that were granted the Program Achievement.
 
@@ -224,7 +226,7 @@ This information is useful for:
 
 ***
 
-### Important Notes
+## Important notes and reminders
 
 * **Assessment Requirements**: Only Published Assessment Forms in Assessment Banks can be selected for programs
 * **Course Requirements**: Only Courses with a Gradebook attached will be available to select
@@ -234,4 +236,4 @@ This information is useful for:
 
 ***
 
-_For additional support with program creation, contact your system administrator or refer to the detailed help documentation._
+_For additional support creating programs, contact your system administrator or browse the_ [_help center_](../../)_._
