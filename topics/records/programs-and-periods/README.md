@@ -192,9 +192,7 @@ After notifications have been added, click the **Save** button.
 
 ## Enrolling learners
 
-Learners need to be enrolled in a Program before they will be able to see any of the associated program Tasks.
-
-### &#x20;Enrollment Process
+Learners need to be enrolled in a Program before they will be able to see any of the associated program Tasks. Here are the basic steps in the enrollment process:
 
 1. **Access Enrollments**
    * On the Program Outline page, go to the **Enrollments** tab
