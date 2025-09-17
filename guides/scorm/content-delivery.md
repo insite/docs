@@ -30,7 +30,7 @@ Shift iQ integrates seamlessly with SCORM Cloud, so you can deliver courses in t
 
 #### Moodle
 
-[Moodle](https://app.gitbook.com/u/Ra1NhjWiQlODrSZ0nQfH71vCBwn2) is one of the world's most popular open-source Learning Management Systems, serving millions of learners across educational institutions, businesses, and organizations globally. As a SCORM-compliant LMS, Moodle provides robust [support for SCORM packages](https://docs.moodle.org/500/en/SCORM_activity), allowing users to upload and deploy SCORM content created with any authoring tool. The platform handles SCORM 1.2 and SCORM 2004 standards, automatically tracking learner progress, completion status, and assessment scores within its gradebook system.&#x20;
+[Moodle](https://moodle.org/) is one of the world's most popular open-source Learning Management Systems, serving millions of learners across educational institutions, businesses, and organizations globally. As a SCORM-compliant LMS, Moodle provides robust [support for SCORM packages](https://docs.moodle.org/500/en/SCORM_activity), allowing users to upload and deploy SCORM content created with any authoring tool. The platform handles SCORM 1.2 and SCORM 2004 standards, automatically tracking learner progress, completion status, and assessment scores within its gradebook system.&#x20;
 
 If your organization is already using Moodle to manage and host your library of SCORM packages, then you can leverage the integration between Shift iQ and Moodle to deliver your SCORM content in either LMS. Some organizations use Moodle only to manage their library of SCORM content, and then use the Shift iQ LMS to deliver the content to learners and track their progress.
 
