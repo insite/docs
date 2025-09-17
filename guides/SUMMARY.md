@@ -10,5 +10,6 @@
 
 ## SCORM
 
+* [Content delivery](scorm/content-delivery.md)
 * [Glossary](scorm/glossary.md)
 * [Versions](scorm/versions.md)
