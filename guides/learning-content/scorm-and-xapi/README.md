@@ -2,7 +2,7 @@
 description: Seamless delivery of training content packaged using the SCORM standard
 ---
 
-# Content delivery
+# SCORM and xAPI
 
 ### What is SCORM?
 
@@ -22,7 +22,7 @@ There are many different platforms available to manage and host your library of 
 
 #### SCORM Cloud
 
-Rustici Software is a leading provider of eLearning technology solutions, best known for creating [SCORM Cloud](../), which is a web-based service for SCORM content testing, delivery, and management. SCORM Cloud allows organizations and developers to test their courses for SCORM compliance, host content with (or without) their own LMS infrastructure, and integrate SCORM tracking capabilities into existing systems through a robust API.&#x20;
+Rustici Software is a leading provider of eLearning technology solutions, best known for creating [SCORM Cloud](../../), which is a web-based service for SCORM content testing, delivery, and management. SCORM Cloud allows organizations and developers to test their courses for SCORM compliance, host content with (or without) their own LMS infrastructure, and integrate SCORM tracking capabilities into existing systems through a robust API.&#x20;
 
 SCORM Cloud is an excellent testing ground for course developers who want to ensure their content works properly before deployment, and a hosting solution for organizations that need to deliver SCORM content without building their own implementation of the SCORM standard.&#x20;
 
