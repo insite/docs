@@ -40,10 +40,4 @@ If your organization is already using Moodle to manage and host your library of 
 
 The Shift LMS integrates seamlessly with Scoop. Thanks to its Single Sign On feature with your Shift iQ login credentials, adding a SCORM package to a learning activity in a Shift iQ course takes only a few mouse-clicks.
 
-If you're not sure what platform to choose, then our team recommends starting with Scoop. It is the quickest and easiest to get started, and it's open-source so you are never locked in. If you discover you need something more, or something different, then migration to another platform is not difficult.
-
-\
-
-
-
-
+If you're not sure what platform to choose, then our team recommends starting with Scoop. It is the quickest and easiest to get started, and it's open-source so you are never locked in. If you discover you need something more, or something different, then migration to another platform isn't difficult. (In fact, you'll find the team of Scoop developers and contributors are happy to help with migration to other platforms.)
