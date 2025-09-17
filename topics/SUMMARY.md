@@ -168,7 +168,7 @@
   * [Manually Granting Achievements](records/achievements/manually-grant-achievement.md)
   * [Achievement Layouts for Printed Certificates](records/achievements/achievement-layouts.md)
   * [Searching and Editing Achievements](records/achievements/search-edit-achievements.md)
-* [Programs and Periods](records/programs-and-periods/README.md)
+* [Programs and periods](records/programs-and-periods/README.md)
   * [Purpose of Programs and How to Create Them](records/programs-and-periods/create-program.md)
   * [Editing and Managing Programs](records/programs-and-periods/edit-program.md)
   * [Creating and Managing Gradebook Periods](records/programs-and-periods/gradebook-periods.md)
