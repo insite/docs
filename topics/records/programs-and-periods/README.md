@@ -1,8 +1,8 @@
+---
+description: Creating and managing learning programs
+---
+
 # Programs and periods
-
-## Creating and Managing Learning Programs
-
-_A complete guide for HR managers and instructors_
 
 ### Overview
 
@@ -37,7 +37,7 @@ An Achievement can be granted to a learner once they have completed a Program.
    * Look for the **Recognition** card
 2. **Add the Achievement**
    * Select the achievement in the **Achievement** field in the Recognition card
-   * If the Achievement you want to add is not on the list, click on the **plus icon (➕)** next to the Achievement field
+   * If the Achievement you want to add is not on the list, the achievement still needs to be created. Refer to [define-achievement.md](../achievements/define-achievement.md "mention")
 3. **Create New Achievement** (if needed):
    * **Add the Achievement Name** - What learners will see when they earn it
    * **Add Achievement Type** - Select the appropriate category
@@ -68,7 +68,7 @@ On the Program Outline page, in the **Tasks** card, administrators can add the d
 **Standalone Achievements**
 
 * **Please Note**: Adding a Standalone Achievement will not include its related activity
-* If the Achievement you want to add to the Program is not listed, the achievement still needs to be created (See Create new Achievement)
+* If the Achievement you want to add to the Program is not listed, the achievement still needs to be created. For details, refer to [define-achievement.md](../achievements/define-achievement.md "mention")
 
 **Courses**
 
@@ -122,12 +122,14 @@ After the Program is created, you need to Publish the Program to the Portal for 
 
 **Program Icon**:
 
-* Add the **Font Awesome Icon HTML code** in the Program Icon field
+* Add the [**Font Awesome Icon**](https://fontawesome.com/icons) HTML code in the Program Icon field
 
 **Program Image**:
 
 * Click on the **magnifying glass (🔍) icon** next to the Upload New Program Image field
 * Select the image you want to use for the portal tile
+
+<figure><img src="../../.gitbook/assets/{34096A6A-CC7C-497D-B3A8-2974D27D600D}.png" alt=""><figcaption></figcaption></figure>
 
 #### Publish Program Steps
 
