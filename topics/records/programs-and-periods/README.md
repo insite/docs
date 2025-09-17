@@ -207,7 +207,7 @@ Learners need to be enrolled in a Program before they will be able to see any of
 
 ***
 
-## Tracking learner program achievements
+## Tracking learner progress
 
 Under the **Achievements** tab, administrators will be able to see all learners that completed the Program and that were granted the Program Achievement.
 
