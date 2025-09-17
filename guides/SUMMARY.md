@@ -2,14 +2,18 @@
 
 * [Guides](README.md)
 
-## Walkthroughs
+## Workflows and approvals
 
-* [Learner experience](walkthroughs/learner-experience.md)
-* [Instructor experience](walkthroughs/instructor-experience.md)
-* [Administrator experience](walkthroughs/administrator-experience.md)
+* [Using cases for training approval](workflows-and-approvals/using-cases-for-training-approval.md)
+
+## Demonstrations
+
+* [Learner experience](demonstrations/learner-experience.md)
+* [Instructor experience](demonstrations/instructor-experience.md)
+* [Administrator experience](demonstrations/administrator-experience.md)
 
 ## SCORM
 
-* [Content delivery](scorm/content-delivery.md)
+* [Overview](scorm/overview.md)
 * [Glossary](scorm/glossary.md)
 * [Versions](scorm/versions.md)
