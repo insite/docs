@@ -75,6 +75,7 @@
   * [Changing font color of the Course](courses/create-course/changing-font-color.md)
   * [Adding Privacy Settings to a Course](courses/create-course/course-privacy-settings.md)
   * [Adding a Course Image](courses/create-course/adding-course-image.md)
+  * [Add a Course to a Catalog](courses/create-course/add-a-course-to-a-catalog.md)
 * [Adding and Editing Lesson Content](courses/add-content/README.md)
   * [Add Course Content](courses/add-content/add-course-content.md)
   * [Adding Images](courses/add-content/adding-images.md)
