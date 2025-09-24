@@ -11,6 +11,7 @@
 ## Learning content
 
 * [SCORM and xAPI](learning-content/scorm-and-xapi/README.md)
+  * [Adding SCORM content to a course](learning-content/scorm-and-xapi/adding-scorm-content-to-a-course.md)
   * [Glossary](learning-content/scorm-and-xapi/glossary.md)
   * [Versions](learning-content/scorm-and-xapi/versions.md)
 
