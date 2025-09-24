@@ -28,11 +28,11 @@ Upload your SCORM package.
 
 Click the button to choose a file on your computer, and click the button to add your SCORM package to your library.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 The system will generate a SCORM package identifier for you automatically. It converts the name of your file to lowercase, and replaces non-alphanumeric characters to hyphens. This ensures the identifier is web-friendly. Copy this to your clipboard.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 4
 
@@ -44,5 +44,7 @@ Paste the SCORM package identifier into the field labelled "SCORM Package ID".
 
 Save your changes, preview the course in Shift, and click the Launch button to confirm your content is displayed.
 
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
