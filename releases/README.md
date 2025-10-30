@@ -1,6 +1,5 @@
 ---
 description: Version 25.6 was released to the Production environment today
-hidden: true
 ---
 
 # Oct 29: Version 25.6 is live!
