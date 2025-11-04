@@ -1,8 +1,12 @@
 # Table of contents
 
+## November 2025
+
+* [Nov 4: Release schedule for 2026](README.md)
+
 ## October 2025
 
-* [Oct 29: Version 25.6 is live!](README.md)
+* [Oct 29: Version 25.6 is live!](<README (4).md>)
 
 ## September 2025
 
