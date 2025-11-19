@@ -36,6 +36,8 @@
   * [Edit Assessment Questions](assessments/editing-forms/edit-questions.md)
   * [Manually Analyze Assessment Attempts](assessments/editing-forms/analyze-exam-attempts.md)
   * [Working with Images in Assessments](assessments/editing-forms/editing-images.md)
+  * [Creating a New Version of a Question](assessments/editing-forms/creating-a-new-version-of-a-question.md)
+  * [How to Add/Remove Questions from a Assessment Form](assessments/editing-forms/how-to-add-remove-questions-from-a-assessment-form.md)
 * [Safe Exam Browser (SEB)](assessments/safe-exam-browser/README.md)
   * [Organization Checklist for SEB errors](assessments/safe-exam-browser/seb-error-checklist.md)
 * [Moving Assessment Banks (and retain Competency mapping)](assessments/moving-assessment-banks.md)
