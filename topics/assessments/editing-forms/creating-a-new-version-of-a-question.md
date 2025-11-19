@@ -11,7 +11,7 @@ After creating questions for a bank, you may need to update or revise the questi
 
 After you updated the new version of that question:
 
-* If a form has a **Specification Type = Static**, the question will _not_ update automatically across the forms where it’s used. You’ll need to manually remove the old question and add the updated one. See [How to Add/Remove Questions from a Assessment Form](creating-a-new-version-of-a-question.md)
+* If a form has a **Specification Type = Static**, the question will _not_ update automatically across the forms where it’s used. You’ll need to manually remove the old question and add the updated one. See [How to Add/Remove Questions from a Assessment Form](how-to-add-remove-questions-from-a-assessment-form.md)
 * If a form has a **Specification Type = Dynamic**, the question _is_ automatically updated everywhere it’s used, and those updates become immediately available to learners.
 
 
