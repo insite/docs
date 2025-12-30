@@ -1,6 +1,6 @@
 # Creating a New Gradebook
 
-Create a Gradebook from an Assessment Form:
+**Create a Gradebook from an Assessment Form:**
 
 1. On the **Admin Home** page, click **Assessments Toolkit**, then select the **Banks** tile
 2. Using the **Criteria** tab, search for the Bank that contains the Form you want to use.
