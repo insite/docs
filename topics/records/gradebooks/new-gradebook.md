@@ -1,6 +1,6 @@
 # Creating a New Gradebook
 
-**How to create a Gradebook;**
+**How to create a Gradebook:**
 
 1. On the **Admin Home** page, click the **Records Toolkit**, then select the **Gradebooks** tile.
 2. Click the **Add New Gradebook** link at the top of the page.
