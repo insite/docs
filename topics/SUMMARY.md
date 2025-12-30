@@ -169,7 +169,7 @@
   * [Create New Achievement Template](records/achievements/define-achievement.md)
   * [Editing Achievement Templates](records/achievements/edit-achievement-template.md)
   * [Manually Granting Achievements](records/achievements/manually-grant-achievement.md)
-  * [Achievement Layouts for Printed Certificates](records/achievements/achievement-layouts.md)
+  * [Printed Certification Layouts for Achievements](records/achievements/achievement-layouts.md)
   * [Searching and Editing Achievements](records/achievements/search-edit-achievements.md)
 * [Learning paths and programs](records/programs-and-periods/README.md)
   * [Purpose of Programs and How to Create Them](records/programs-and-periods/create-program.md)
