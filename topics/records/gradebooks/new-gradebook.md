@@ -22,7 +22,8 @@
 4. Click the **Course Setup** tab, then select the **Records** tab.
 5. Select **Create Gradebook**, then click **Save**.
 6. The system automatically creates the Gradebook and corresponding Grade Items.
-7. Grade Items are created as follows:
+7. The system also automatically creates the Achievement for the Course.&#x20;
+8. Grade Items are created as follows:
    1. **Unit** → Category
    2. **Module** → Category
    3. **Lesson** → Score
@@ -32,9 +33,24 @@
       4. Points&#x20;
       5. Score %
 
+
+
+**Create a Gradebook from a Class:**
+
+1. On the **Admin Home** page, select the **Events Toolkit**, then click the **Classes** tile.
+2. Using the **Criteria** tab, search for the Class you want to create a Gradebook for.
+3. In the **Results** tab, click the **Class Title** to open it.
+4. Select the **Gradebooks** tab, then click **New Gradebook**.
+5. Enter the **Gradebook Title** and select the associated **Achievement**.
+6. Click **Save**.
+7. Under the **Gradebooks** tab, click the **Gradebook Title** to open it.
+8. Select the **Grade Items** tab and add the Grade Items required for the Class.
+
+
+
 from scratch
 
-from a class
+
 
 
 
