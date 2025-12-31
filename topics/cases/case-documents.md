@@ -30,8 +30,7 @@ A status of **Reviewed** and **Approved** can be added to the upload by selectin
 * **Public** - The document is visible to anyone that has access to the **Workflows** toolkit
 * **Private** - The document is only visible to the user and/or group that was assigned permission.
 
-Click the **Save** button.\
-
+Click the **Save** button.<br>
 
 ### Request a Document
 

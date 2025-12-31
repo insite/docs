@@ -10,8 +10,7 @@ If you’d prefer to keep the user records, just change the **First name**, **La
 2. On the **Memberships** tab, remove them from all group memberships they have. Click **Save**.
 3. On the **System Access** tab, **Sign In** sub-tab, uncheck the **System Access** box, any Roles they are still in, and their acceptance of the **Terms and Conditions**. Set their **Archive Status** to Archived. Click **Save**.
 
-You are also able to delete contact records, but this is only recommended for test users that are no longer needed. Prior to deleting these users, we recommend deleting any of the user's records such as Survey responses, Assessment attempts, Invoices, Registrations, Gradebooks, Achievements, etc.; any test data that is also no longer needed. If the contact is deleted without do this, some records will remain but will appear as having been completed by an unknown user.\
-
+You are also able to delete contact records, but this is only recommended for test users that are no longer needed. Prior to deleting these users, we recommend deleting any of the user's records such as Survey responses, Assessment attempts, Invoices, Registrations, Gradebooks, Achievements, etc.; any test data that is also no longer needed. If the contact is deleted without do this, some records will remain but will appear as having been completed by an unknown user.<br>
 
 ## Archive Multiple Contacts
 
@@ -41,4 +40,4 @@ Choose the fields into which you want to upload your contact data. There are **r
 * LastName
 * Archived Status
 
-Select **Upload and Save Changes**\
+Select **Upload and Save Changes**<br>

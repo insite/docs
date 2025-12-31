@@ -2,8 +2,7 @@
 
 ### Please note: Deleting a Folder, Page or Block is a permanent change that cannot be undone. The web page and any Contained Pages will be deleted from all forms, queries, and reports.
 
-\
-
+<br>
 
 ## Deleting Folders or Pages
 
@@ -13,8 +12,7 @@ On the **Page Setup** tab, click the **Delete** button. You will be redirected t
 
 Select the "**Delete this page and all its contents and contained pages**" checkbox and click the **Delete** button to completly delete the Folder/Page.
 
-\
-
+<br>
 
 ## Deleting a Block
 

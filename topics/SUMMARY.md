@@ -127,14 +127,6 @@
   * [Adding Comments](cases/case-comments/adding-comments.md)
   * [Editing and Deleting Comments](cases/case-comments/editing-comments.md)
 
-## Jobs
-
-* [Overview](jobs/overview.md)
-* [Candidates](jobs/candidates.md)
-* [Employers](jobs/employers.md)
-* [Job Opportunities](jobs/job-opportunities.md)
-* [Job Applications](jobs/job-applications.md)
-
 ## Messages
 
 * [Overview](messages/overview.md)

@@ -5,8 +5,7 @@ Under the **Registration** tab, Administrators are able to manually **Add Regist
 * **Adding Registrants**
   * Under the **Registration** tab, click on the **Add Registration(s)** button.
   * Select the **Seat** for the registrant, enter the **Registration Fee** amount, select **Billing Customer** and **Employer** if Employer or a third party is paying for the seat.
-  * Select the user you want to add to the Class and click **Add** button.\
-
+  * Select the user you want to add to the Class and click **Add** button.<br>
 * **Edit Registration**
   * Click on the Pencil icon next to the users registration.
   * On the **Edit Registration** page, you are able to update the following information:
@@ -18,12 +17,11 @@ Under the **Registration** tab, Administrators are able to manually **Add Regist
     * Registration Fee amount
     * Billing Customer
     * Employer
-  * Click **Save** after changes were made to the users registration.\
-
+  * Click **Save** after changes were made to the users registration.<br>
 * **Download Reports**
   * Reports available for Classes:
     * Registration Report (\*.pdf / \*.xlsx)
     * Detailed Registration Report (\*.pdf / \*.xlsx)
     * Attendee List (\*.pdf / \*.xlsx)
     * Scores Report (\*.pdf / \*.xlsx)
-    * Most Improved Report (\*.xlsx)\
+    * Most Improved Report (\*.xlsx)<br>

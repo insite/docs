@@ -10,8 +10,7 @@ Under the **Page Content > Subpages** panel, click on the **New Page** button.
 
 Under **Page Type** select **Folder** or **Page** Add a **Title** for the **Page Type** you selected
 
-Click **Save** to open the newly created item and begin editing it's contents.\
-
+Click **Save** to open the newly created item and begin editing it's contents.<br>
 
 ## Changing the Page Setup settings
 
@@ -24,8 +23,7 @@ Click the **Save** button.
 **Important Note: Do not select Block from the dropdown menu. You are not able to change a Folder/Page to a Block OR change a Block to a Folder/Page.**
 
 \
-\
-
+<br>
 
 ## Creating Blocks on a Page
 
@@ -44,11 +42,10 @@ Click **Save**
 **Important Note: A Block should only be created within a Page. If a Block is created within a Folder it will not display the content.**
 
 \
-\
-
+<br>
 
 ## Notes on Proper Hierarchy for Sites
 
 A Page can be created within a Folder (**Folder -> Page** <i class="fa-check">:check:</i>) Blocks can be created within a Page (**Page -> Block** <i class="fa-check">:check:</i>) A Page can be created within a Folder and a Block can be created within a Page (**Folder -> Page -> Block** <i class="fa-check">:check:</i>) Folders can be created within a Folder, and contain Pages and Blocks (**Folder -> Folder -> Page -> Blocks** <i class="fa-check">:check:</i>)
 
-Blocks can **not** be created within a Folder (**Folder -> Block** <i class="fa-times">:times:</i>) A Page should **not** be created within another Page (**Page -> Page** <i class="fa-times">:times:</i>), as users will not be able to easily navigate deeply nested site pages.\
+Blocks can **not** be created within a Folder (**Folder -> Block** <i class="fa-times">:times:</i>) A Page should **not** be created within another Page (**Page -> Page** <i class="fa-times">:times:</i>), as users will not be able to easily navigate deeply nested site pages.<br>

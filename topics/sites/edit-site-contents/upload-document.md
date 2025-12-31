@@ -9,4 +9,4 @@ When you added the document to the content, it will display in a URL format:\
 
 On the portal or web site it will display as a link that users can click on ([assessment-features-handout.pdf](https://e02.insite.com/files/sites/global/upload-document/assessment-features-handout.pdf)) and this will open the document you uploaded.
 
-File types supported: .doc, .docx, .ppt, .pptx, .xls, .xlsx, .txt and .pdf\
+File types supported: .doc, .docx, .ppt, .pptx, .xls, .xlsx, .txt and .pdf<br>

@@ -11,7 +11,6 @@ e.g. !\[agriculture-1.jpg]\(https://e02.insite.com/files/sites/global/adding-ima
 
 In the Course you will be able to see the picture you uploaded.
 
-![](https://e02.insite.com/files/sites/global/adding-images-or-videos/agriculture-1.jpg)\
+![](https://e02.insite.com/files/sites/global/adding-images-or-videos/agriculture-1.jpg)<br>
 
-
-File types supported: .png, .gif, .jpg, .jpeg\
+File types supported: .png, .gif, .jpg, .jpeg<br>

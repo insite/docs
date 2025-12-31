@@ -12,12 +12,9 @@ Select **Limit Responses per Respondent**, **Allow Anonymous Responses** and **C
   * Limited - Allows respondents to answer the survey only once, but also allows identification of respondent. The Start Survey button goes away once a respondent has taken the survey once. To allow them to take it again, you must either:
     * Turn off the Limit response option
     * Delete the respondent’s answers
-  * Not Limited - Allows respondents to answer the survey an unlimited amount of times, and also allow anonymous responses.\
-
-* **Allow Anonymous Responses** Allow users to answer the survey without identifying themselves and without signing in. Please Note: Allow Anonymous Responses is only availble if **Not Limited** is selected under **Limit Responses per Respondent** settings\
-
-* **Confidentiality for Respondents** Enable this setting if you do not want to disclose confidential/personal information about survey respondents to survey administrators.\
-
+  * Not Limited - Allows respondents to answer the survey an unlimited amount of times, and also allow anonymous responses.<br>
+* **Allow Anonymous Responses** Allow users to answer the survey without identifying themselves and without signing in. Please Note: Allow Anonymous Responses is only availble if **Not Limited** is selected under **Limit Responses per Respondent** settings<br>
+* **Confidentiality for Respondents** Enable this setting if you do not want to disclose confidential/personal information about survey respondents to survey administrators.<br>
 
 Click the **Save** button.
 

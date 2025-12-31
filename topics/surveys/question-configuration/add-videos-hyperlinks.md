@@ -15,8 +15,7 @@ Insert links to internal files\
 1\. Upload the file to the Files toolkit\
 2\. Copy the download URL off the file and paste it into the content\
 \
-Insert hyperlinks\
-
+Insert hyperlinks<br>
 
 You are able to add web links or email addresses in the text of your content.
 

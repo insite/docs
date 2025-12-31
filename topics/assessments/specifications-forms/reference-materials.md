@@ -24,8 +24,7 @@ Documents: <i class="fa-download">:download:</i>Acronyms: <i class="fa-table">:t
   * Target Online Dimensions (pixels)
   * Target Paper Dimensions (pixels)
   * Palette (Color/Black and White)
-* Click the **Save** button\
-
+* Click the **Save** button<br>
 
 #### Adding the File to the From:
 

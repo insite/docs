@@ -23,8 +23,7 @@ From the portal start the exam and review the following to ensure they are as de
 
 * Scores are disclosed as desired.
 * Additional attempts for the exam are available as desired.
-* If Assessment Attempt is locked after the allocated time has run out.\
-
+* If Assessment Attempt is locked after the allocated time has run out.<br>
 
 #### Pre-Publish the Form:
 

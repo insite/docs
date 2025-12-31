@@ -7,8 +7,7 @@
 * Add a **Code** for the Program. (**Required**)
 * Add a **Name** for the Program (**Required**)
 * Add a **Description** for the Program (**Optional**)
-* Click the **Save** button\
-
+* Click the **Save** button<br>
 
 ### Add Program Achievement
 
@@ -19,8 +18,7 @@ On the **Program Outline** page, add the **Achievement** for the program by sele
 * Add the **Achievement Name**
 * Add **Achievement Type**
 * Select **Certificate Layout** if you want to grant learners a certificate at the end of the Program.
-* Click on the **Add Achievement** button.\
-
+* Click on the **Add Achievement** button.<br>
 
 ### Add Tasks to the Progam
 
@@ -39,13 +37,11 @@ Tasks that can be added to a Program:
 * **Logbooks**
 * **Surveys**
 
-Once all tasks has been selected, click the **Save** button.\
-
+Once all tasks has been selected, click the **Save** button.<br>
 
 ### Add Summary for the Program
 
-In the **Content** tab on the the **Program Outline** page, administrators can add a **Summary** for the program that will be displayed on the Portal.\
-
+In the **Content** tab on the the **Program Outline** page, administrators can add a **Summary** for the program that will be displayed on the Portal.<br>
 
 ### Adding Learners to a Program
 
@@ -55,13 +51,11 @@ Learners need to be enrolled in a Program before they will be able to see any of
 * Search for the **Learner** or **Group** that you want to enroll in the Program.
 * Once selected, click on the **Add** button.
 
-The **Learner** or **Group** that was seleced will be enrolled into the Program and can access the Program on the Portal.\
-
+The **Learner** or **Group** that was seleced will be enrolled into the Program and can access the Program on the Portal.<br>
 
 ### Program Achievement
 
-Under the **Achievements** tab, administrators will be able to see all learners that completed the Program and that was granted the **Program Achievement**.\
-
+Under the **Achievements** tab, administrators will be able to see all learners that completed the Program and that was granted the **Program Achievement**.<br>
 
 ### Publish a Program
 
@@ -75,10 +69,8 @@ Under the **Achievements** tab, administrators will be able to see all learners 
     * Select the **Web Folder** where the Program need to be published to.
     * Click on the plus icon (<i class="fa-plus-circle">:plus-circle:</i>) next to the **Web Page** field to create the page URL.
     * The Program is now **Published** to the portal.
-    * Click the **Save** button.\
-
-* **Task Ordering** Administrators can determine in what order the selected Progam Tasks appear on the portal to learners. Under the **Publication** tab, click on the **Task Ordering** tab. Review the order of the tasks in the Program. If you need to change the order, click on the **Reorder** button, then drag and drop each task in the required order. Click the **Save** button once completed.\
-
+    * Click the **Save** button.<br>
+* **Task Ordering** Administrators can determine in what order the selected Progam Tasks appear on the portal to learners. Under the **Publication** tab, click on the **Task Ordering** tab. Review the order of the tasks in the Program. If you need to change the order, click on the **Reorder** button, then drag and drop each task in the required order. Click the **Save** button once completed.<br>
 
 ### Program Notifications
 
@@ -88,8 +80,7 @@ Administrators can setup **Progress Stalled** and **Progress Completed** notific
   * **Send to Learner:** The stalled notification is sent to the **Learner** once they started the Program, but no progress has been made after a set amount of days.
   * **Send to Administrator:** The stalled notification is sent to an **Administrator** to advise that a learner started the Program, but no progress has been recorded after a set amount of days.
   * **Days Without Task Completion:** This is the number of days a learner can go without completing a task before the program is considered stalled.
-  * **Reminder Limit:** This is the maximum number of reminder notifications to send to a learner who is stalled.\
-
+  * **Reminder Limit:** This is the maximum number of reminder notifications to send to a learner who is stalled.<br>
 * **Progress Completed** Once a learner has completed a Program, notifications can be sent to the **Learner** and **Administrator** to advise that they have completed the Program. The following notifications can be created:
   * **Send to Learner:** Add the notification you want to send to the **Learner** once they have completed the Program.
   * **Send to Administrator:** Add a notification if you want to let an **Administrator** know when a **Learner** has completed the Program.

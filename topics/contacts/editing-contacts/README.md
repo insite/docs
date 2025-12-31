@@ -12,8 +12,7 @@ This screen contains all of the information related to each contact in Shift iQ.
 
 **Report:** To get record of contacts detailed data
 
-(Note that some of the options below are only available to admins with Write and Delete access.)\
-
+(Note that some of the options below are only available to admins with Write and Delete access.)<br>
 
 #### Phone Number Auto-Configuration parameters
 

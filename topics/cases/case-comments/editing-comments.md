@@ -8,8 +8,7 @@ Click on the pencil icon (<i class="fa-pencil-alt">:pencil-alt:</i>) next to the
 
 Edit the comement or other fields you want to update.
 
-Click the **Save** button.\
-
+Click the **Save** button.<br>
 
 ### Deleting an Existing Comment
 

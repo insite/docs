@@ -12,4 +12,4 @@ Once Assessment bank is selected, click on the **Question** tab.
 
 Click on the Download button and select **# Shift iQ Markdown Outline (\*.md)**
 
-The **Markdonw (\*.md)** file will be downloaded to the **Download** folder on your computer.\
+The **Markdonw (\*.md)** file will be downloaded to the **Download** folder on your computer.<br>

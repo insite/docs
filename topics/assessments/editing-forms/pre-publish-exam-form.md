@@ -7,8 +7,7 @@ Pre-Publishing an Assessment:
 * In the **Question Bank**, select the **Forms** tab.
 * If you have multiple Assessment Forms for the same Assessment Bank, select the From you want to Pre-Publish from the dropdown list at the top of the Form page.
 * Click on **Action** button and select **Prepublish**.
-* On the **Pre-Publish** page, you will see a URL on the right side, under the **Start an exam attempt** heading. Click on the URL to start your attempt.\
-
+* On the **Pre-Publish** page, you will see a URL on the right side, under the **Start an exam attempt** heading. Click on the URL to start your attempt.<br>
 
 #### Important Notes:
 

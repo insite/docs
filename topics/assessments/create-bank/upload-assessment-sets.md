@@ -24,8 +24,7 @@ Click on the **Upload** icon (<i class="fa-upload">:upload:</i>) to your \*.txt 
 
 After uploading your file, you will see a preview of the questions being uploaded. If it is not the correct question you uploaded, click the **Clear Questions** button to select another file. To save your upload, click the **Save** button.
 
-_Note: When uploading questions only Question Type = Multiple Choice can be created._\
-
+_Note: When uploading questions only Question Type = Multiple Choice can be created._<br>
 
 ## Uploading Assessment Sets using LXR Merge
 
@@ -49,4 +48,4 @@ In the **Upload Shift iQ Markdown** field click on the **Folder** icon (<i class
 
 Click on the **Upload** icon (<i class="fa-upload">:upload:</i>) upload your \*.lxrmerge file.
 
-After uploading your file, you will see a preview of the questions being uploaded. If it is not the correct question you uploaded, click the **Clear Questions** button to select another file. To save your upload, click the **Save** button.\
+After uploading your file, you will see a preview of the questions being uploaded. If it is not the correct question you uploaded, click the **Clear Questions** button to select another file. To save your upload, click the **Save** button.<br>

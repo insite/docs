@@ -18,8 +18,7 @@ Click the **Add New Achievement** link at the top of the page.
   * Fixed Date: Add the date the Achievement expires
   * Relative Date: Set the duration the Achievment is valid for
     * Months
-    * Years\
-
+    * Years<br>
 
 #### Option 2:
 
@@ -29,4 +28,4 @@ Under the **Achievements** heading, click on the **Achievement Template** counte
 
 Select any **Title** on the Achievement Templates search page.
 
-Click the **New** button on the top right side of the page. Proceed as directed above.\
+Click the **New** button on the top right side of the page. Proceed as directed above.<br>

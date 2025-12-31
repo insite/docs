@@ -7,8 +7,7 @@ Insert links to internal files\
 1\. Upload the file to the Files toolkit\
 2\. Copy the download URL off the file and paste it into the content\
 \
-Insert hyperlinks\
-
+Insert hyperlinks<br>
 
 You are able to add web links or email addresses in the text of your content.
 
@@ -27,7 +26,6 @@ The text will display as [Shift iQ](http://www.shiftiq.com/) and when you click 
 
 \
 [Markdown](../../../ui/help/portal/sites/edit-site-contents/markdown/)\
-We recommend that content be entered in Markdown. This allows for consistent delivery across all varieties of hardware and software platforms.  It also facilitates translation of the survey. You may use HTML tags when necessary, but try to limit their use. \
-
+We recommend that content be entered in Markdown. This allows for consistent delivery across all varieties of hardware and software platforms.  It also facilitates translation of the survey. You may use HTML tags when necessary, but try to limit their use. <br>
 
 (Also See: [Markdown References](../../../ui/help/portal/messages/authoring-messages/markdown-reference/))

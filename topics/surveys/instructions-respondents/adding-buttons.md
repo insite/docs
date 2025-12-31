@@ -6,4 +6,4 @@ E.g.\
 Thank you for completing the Carpenter Self-Assessment! \
 &#xNAN;_\<a href="/ui/portal/courses/outline?course=INSERT COURSE ASSET NUMBER" class="btn btn-success">ADD TEXT FOR BUTTON  HERE\</a>_\
 Click the Continue button to review your completed application. To return to your Home Page, click on the NBCC logo at the top left.\
-![](https://e02.insite.com/files/sites/global/adding-home-return-to-course-buttons-at-end-of-survey/survey.png)\
+![](https://e02.insite.com/files/sites/global/adding-home-return-to-course-buttons-at-end-of-survey/survey.png)<br>

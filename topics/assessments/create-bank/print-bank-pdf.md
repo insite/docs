@@ -20,8 +20,7 @@ At the bottom of the Print Form page, there are 3 print options available:
   * All Images
   * Addendum Images
 * **Print Form (internal)** - A PDF download containing all the Questions in the Bank, including administrator comments.
-* **Print Form (compact)** - A PDF download containing all the answers to the Questions in the Bank.\
-
+* **Print Form (compact)** - A PDF download containing all the answers to the Questions in the Bank.<br>
 
 ## How to Print an Assessment Form to PDF
 

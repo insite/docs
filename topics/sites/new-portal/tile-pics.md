@@ -2,8 +2,7 @@
 
 ## Adding Portal Tile Pictures
 
-Under the Page Content tab of the Site folder you want to add a picture to, select the ImageURL tab (if there is no ImageURL tab, please e-mail [support@shiftiq.com](mailto:support@shiftiq.com))\
-
+Under the Page Content tab of the Site folder you want to add a picture to, select the ImageURL tab (if there is no ImageURL tab, please e-mail [support@shiftiq.com](mailto:support@shiftiq.com))<br>
 
 Drag and drop the image you want set as the portal tile image into the content screen. Note that it is best to ensure all of the pictures you want to use on your portal are the same dimensions, and are sized to be no larger than 800 pixels wide and/or 800 pixels high.
 
@@ -16,8 +15,7 @@ Edit the URL link to only show /files/sites/insite/example/insite.jpg and select
 
 ## Adding Portal Tile Icons
 
-If you'd prefer to use fa-fa icons, rather than pictures, you can do so on the Page Setup tab; Settings sub-tab and then click on the Pencil icon   next to the Icon field under the Content heading. \
-
+If you'd prefer to use fa-fa icons, rather than pictures, you can do so on the Page Setup tab; Settings sub-tab and then click on the Pencil icon   next to the Icon field under the Content heading. <br>
 
 On the Update Content card, add the icon code in the Icon field. Icon codes can be found on websites like [_Font Awesome_](https://fontawesome.com/v5/search)_._
 
@@ -27,10 +25,8 @@ Click the Save button to save your changes.
 
 When going back to the portal, you will see the Icon you added on the tile.
 
-\
+<br>
 
+![](https://e02.insite.com/files/web/bc03a342-fc83-4fe9-946c-af900134fadd/icon-2.png)<br>
 
-![](https://e02.insite.com/files/web/bc03a342-fc83-4fe9-946c-af900134fadd/icon-2.png)\
-
-
-\
+<br>

@@ -12,8 +12,7 @@ Please note Placeholders should not be used in **Alerts**, please [**contact**](
 * {Social-Media-Links} - Display Organization's social media links (Please [**contact**](mailto:support@shiftiq.com) your Shift iQ representative to assist with the initial setup) ![placeholders.png](https://e02.insite.com/files/sites/global/message-placeholders/placeholders.png)
 * {Contact-Information} - Display Organizations's contact information (Please [**contact**](mailto:support@shiftiq.com) your Shift iQ representative to assist with the initial setup) ![placeholders-1.png](https://e02.insite.com/files/sites/global/message-placeholders/placeholders-1.png)
 
-\
-
+<br>
 
 **Message Variables (For Survey Workflow Notifications ONLY):**
 
@@ -62,8 +61,7 @@ Please note Placeholders should not be used in **Alerts**, please [**contact**](
 
 {Sender-Logo} and {Social-Media-Links} - These Placeholders do not work in Survey Workflow Notifications if attached to **Response Started (Administrator)**.
 
-\
-
+<br>
 
 ### NEWSLETTER Placeholders:
 
@@ -75,8 +73,7 @@ Please note Placeholders should not be used in **Alerts**, please [**contact**](
 * {Social-Media-Links} - Display Organization's social media links (Please [**contact**](mailto:support@shiftiq.com) your Shift iQ representative to assist with the initial setup) ![placeholders.png](https://e02.insite.com/files/sites/global/message-placeholders/placeholders.png)
 * {Contact-Information} - Display Organizations's contact information (Please [**contact**](mailto:support@shiftiq.com) your Shift iQ representative to assist with the initial setup) ![placeholders-1.png](https://e02.insite.com/files/sites/global/message-placeholders/placeholders-1.png)
 
-\
-
+<br>
 
 ### INVITATION Placeholders:
 

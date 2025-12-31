@@ -17,15 +17,11 @@ In the Settings Panel when editing a question, below Option Layout, select Table
 Style Options:
 
 * no-left-pad
-* no-right-pad\
-
-* small-right-pad\
-
-* small-left-pad\
-
+* no-right-pad<br>
+* small-right-pad<br>
+* small-left-pad<br>
 * x-wide\
-  \
-
+  <br>
 
 ![](https://e02.insite.com/files/sites/e02/create-tables/assessment-questions-table-4.png)\
 \
@@ -34,8 +30,7 @@ The Answer Options will display as follow:\
 ![](https://e02.insite.com/files/sites/e02/create-tables/assessment-questions-table-5.png)\
 \
 \
-Names can be added to the columns in the Answer Options by adding the headings in the Name field under Option Layout.\
-
+Names can be added to the columns in the Answer Options by adding the headings in the Name field under Option Layout.<br>
 
 \
 It will display the headings as follow:\
@@ -47,4 +42,4 @@ To create wider columns, add the Style option x-wide\
 \
 It will display the columns as follow:\
 \
-\
+<br>

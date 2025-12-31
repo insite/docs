@@ -13,8 +13,7 @@ On the **Schedule a New Class** page:
 * Schedule the Class **Start and End Date/Time** (The start and end date and time for this class event.)
 * Add the Location of the Class by selecting the **Venue** (See [**Adding New Group**](../../../ui/help/portal/contacts/group-management/adding-new-group/) if the required **Venue** is not on the list)
 * Add a **Class Summary**
-* Select **Save**\
-
+* Select **Save**<br>
 
 **Note:** A class can also be created by duplicating an existing class, or by uploading a JSON file.
 
@@ -29,8 +28,7 @@ On the **Schedule a New Class** page:
 * Under **Class Title**, add the new title for the duplicated Class.
 * Select if you want to copy the Gradebook as well by selecting **Yes** or **No** below **Copy Gradebook**.
 * Update the **Start and End Date/Time** for the **Class**.
-* Select **Save**\
-
+* Select **Save**<br>
 
 ### Option 2: While Editing an existing class, click on the Duplicate button
 
@@ -38,8 +36,7 @@ On the **Schedule a New Class** page:
 * Under **Class Title**, add the new title for the duplicated Class.
 * Select if you want to copy the Gradebook as well by selecting **Yes** or **No** below **Copy Gradebook**.
 * Update the **Start and End Date/Time** for the **Class**.
-* Select **Save**\
-
+* Select **Save**<br>
 
 ## Downloading and Uploading a JSON file
 

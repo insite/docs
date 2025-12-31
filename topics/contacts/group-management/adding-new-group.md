@@ -25,8 +25,7 @@ Additional fields that can be edited after **Group** has been created:
 
 After creating the **Group Type: Employer, District or Venue**, navigate to the **Address** panel in the group and add the **Physical, Shipping and Billing Address** (if required by Organization).
 
-Click **Save** when address has been added.\
-
+Click **Save** when address has been added.<br>
 
 ## Adding People to a Group
 
@@ -37,15 +36,13 @@ You can add people by searching for the people you want to add or in bulk by add
 * **Searching for People:** You can search for people to add to the group by **Contact Name** or **Email**. After searching for the person you want to add, click the checkbox next to the person's name and then click on the **Add** button. If there is more than one person in your search results that you want to add, you are able to select multiple checkboxes.
 * **Bulk:** Select **By Email Address List** from the dropdown list under the **Add People to Group** heading. Copy and paste the email addresses of users that you want to add to the group and click on the **Add** button.
 
-_Please note, these users need to already have a contact record in the system to be added to the group._\
-
+_Please note, these users need to already have a contact record in the system to be added to the group._<br>
 
 ## Allow User Self-Registration
 
 To allow **User Self Registration**, after creating the group, go into the **Group** and under the **Group** tab select the checkbox next to **Allow users to subscribe/unsubscribe themslevles**. By selecting the checkbox, the system adds a toggle for the group on the new user registration screen. Users are able to select the group when creating their new account on the [**New User** registration page.](../../../ui/lobby/register)
 
-![self-register.png](https://e02.insite.com/files/sites/global/portal-permissions/self-register.png)\
-
+![self-register.png](https://e02.insite.com/files/sites/global/portal-permissions/self-register.png)<br>
 
 ## How to Create a link for New User Registration page with slider pre-selected
 

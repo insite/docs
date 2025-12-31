@@ -11,10 +11,8 @@ e.g. !\[agriculture-1.jpg]\(https://organization.insite.com/files/sites/global/a
 
 On your portal or web site you will be able to see the picture you uploaded.
 
-![](https://e02.insite.com/files/sites/global/adding-images-or-videos/agriculture-1.jpg)\
+![](https://e02.insite.com/files/sites/global/adding-images-or-videos/agriculture-1.jpg)<br>
 
+<br>
 
-\
-
-
-File types supported: .png, .gif, .jpg, .jpeg\
+File types supported: .png, .gif, .jpg, .jpeg<br>

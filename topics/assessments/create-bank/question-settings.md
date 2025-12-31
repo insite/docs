@@ -3,8 +3,7 @@
 ### Question Settings
 
 \
-\
-
+<br>
 
 #### <i class="fa-sliders-h">:sliders-h:</i>Settings
 
@@ -43,8 +42,7 @@ For reporting purposes, administrator can add different Settings to an Assessmen
 * **Competency** - The competency evaluated by this question.
 
 **Tags** - If Competency Tags are available, you can assign these tags to the Assessment Questions.\
-\
-
+<br>
 
 #### <i class="fa-books">:books:</i>Question Rationale
 
@@ -53,8 +51,7 @@ Administrators can add Rationale to Question Options. Rational can be added for:
 * **All Answers** - Provide feedback to a candidate regardless of the answer submitted.
 * **Correct Answers** - Provide feedback to a candidate who answers the question **correctly**.
 * **Incorrect Answers** - Provide feedback to a candidate who answers the question **incorrectly**.
-* **Description** - Provide a description of the purpose or key feature of this question.\
-
+* **Description** - Provide a description of the purpose or key feature of this question.<br>
 
 \
 \#### <i class="fa-bolt">:bolt:</i>Question Prerequisites/Triggers
@@ -70,13 +67,11 @@ Under the **Unlocks Course Activity** heading:
 * Select the lesson you want to unlock based on the Correct/Incorrct answer the learner provided.
 
 Click **Save**\
-\
-
+<br>
 
 #### <i class="fa-comments">:comments:</i>Question Comments
 
 \
-\
-
+<br>
 
 #### <i class="fa-scroll">:scroll:</i>Glossary Terms

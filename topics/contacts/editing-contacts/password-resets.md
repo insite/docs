@@ -2,11 +2,9 @@
 
 ## There are 2 methods of resetting a user's password:
 
-\
+<br>
 
-
-**Method 1 - User resets their own** Users can also reset their own passwords by clicking the **Reset my password** button on the initial login window. The system will ask them to enter the email address associated with their account and click **Continue**. It will then send them a link to a **Reset Password** screen where they can set their own new password.\
-
+**Method 1 - User resets their own** Users can also reset their own passwords by clicking the **Reset my password** button on the initial login window. The system will ask them to enter the email address associated with their account and click **Continue**. It will then send them a link to a **Reset Password** screen where they can set their own new password.<br>
 
 **Method 2 - Admin resets Password on behalf of user** From the Admin Home page, search for the user you would like to reset the password for ([**Searching Contacts**](../../../ui/help/portal/contacts/searching-contacts/)).
 

@@ -31,8 +31,7 @@ Text copied out of Microsoft word is renowned for having special characters that
 
 &#x20; If you’re copying text out of Word, we recommend replacing all special characters.\
 Common replacements:\
-\
-
+<br>
 
 | Special Character  | Markdown Equivalent  |
 | ------------------ | -------------------- |
@@ -55,8 +54,7 @@ Common replacements:\
 | <p>.<br></p>                 | <p>\.<br></p>                  |
 | <p>!<br></p>                 | <p>!<br></p>                   |
 
-\
-
+<br>
 
 | <p>Special Character<br></p> | <p>Markdown Equivalent<br></p> |
 | ---------------------------- | ------------------------------ |

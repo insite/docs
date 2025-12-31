@@ -13,4 +13,4 @@ Under the **Content** tab, you are able to add or edit the following Class detai
   * Accommodation
   * Additional Information
   * Cancellation and Refund
-  * Registration Completion\
+  * Registration Completion<br>

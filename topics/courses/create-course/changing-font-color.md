@@ -6,11 +6,9 @@ How to change the content font color for an entire Course:
 * Under the Style tab, add the following text in the Cascading Style Sheet (CSS) Rules field:\
   \
   \<style type='text/css'>.lesson { color: black; }\</style>\
-  \
-
+  <br>
 * You can change the color by typing the color name (e.g. black, red, blue) or adding the HTML color code (e.g. #060606, #F90F0F, #0F0FF9) behind color:\
-  Example:   color: blue / color: #060606\
-
+  Example:   color: blue / color: #060606<br>
 * Click Save.
 
 ![](https://e02.insite.com/files/sites/global/change-font-color/coursefontcolor.png)\

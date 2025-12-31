@@ -13,8 +13,7 @@
   * Add existing contacts to a message as a group
   * Create new contacts directly from this form
   * Bulk upload contacts directly to a message
-* After adding the **Subscribers** scheduled the mailout for the **Date** and **Time** you want it to send out. This can be done by clicking on the **Schedule Mailout** button under the **Mailouts** or **Messages Setup** tabs.\
-
+* After adding the **Subscribers** scheduled the mailout for the **Date** and **Time** you want it to send out. This can be done by clicking on the **Schedule Mailout** button under the **Mailouts** or **Messages Setup** tabs.<br>
 
 ### Create an Invitation from the Messages Toolkit
 
@@ -32,8 +31,7 @@
 * Set Workflow Notifications to notify your administrator when the Survey response started and completed. A notification can also be sent to the Respondent once the survey response is completed.
 * Schedule current and future mailouts through the Messages toolkit. When a survey invitation is sent, it will exclude the recipients who have already answered the survey.
 
-Even if you have multiple recipients, you can choose to send to only one using the paper airplane icon on the Subscribers/Recipients panel.\
-
+Even if you have multiple recipients, you can choose to send to only one using the paper airplane icon on the Subscribers/Recipients panel.<br>
 
 ### Removing recipients from a Survey Invitation
 
@@ -43,9 +41,8 @@ View and edit survey subscribers/respondents through the Messages toolkit, not t
 * Under the **Subscriber** tab and click on the Trash Can icon (<i class="fa-trash-alt">:trash-alt:</i>) next to the subscribers name.
 * Confirm you want to remove the subscriber by clicking on the\*\* Delete\*\* button.
 
-**Note:** When a survey invitation is sent, it will exclude the recipients who have already answered the survey.\
-
+**Note:** When a survey invitation is sent, it will exclude the recipients who have already answered the survey.<br>
 
 ### Send a reminder by scheduling a mailout
 
-You can use a survey invitation to send reminders by scheduling a mailout. Reminders are only sent to people who have not yet completed a response to the survey. People on the Subscriber list are excluded if they have completed the survey. Prior to scheduling a reminder mailout, we recommend that you edit the subject and contents of the invitation to indicate that it is a reminder, not a new invitation.\
+You can use a survey invitation to send reminders by scheduling a mailout. Reminders are only sent to people who have not yet completed a response to the survey. People on the Subscriber list are excluded if they have completed the survey. Prior to scheduling a reminder mailout, we recommend that you edit the subject and contents of the invitation to indicate that it is a reminder, not a new invitation.<br>

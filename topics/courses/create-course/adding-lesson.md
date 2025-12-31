@@ -40,8 +40,7 @@ Select the **Activity Type** you want to add in the New Lesson
     * Click **Save** button.
 * New Interaction
   * Add Interaction Name
-  * Click **Save** button.\
-
+  * Click **Save** button.<br>
 
 ## Adding a New Module to a course
 
@@ -49,8 +48,7 @@ Click on the **Plus** icon next to **New Module** and select the what **Activity
 
 Add the **Module Name** and the required information for the **Activity Type** you selected.
 
-Click the **Save** button.\
-
+Click the **Save** button.<br>
 
 ## Adding a New Unit to a course
 
@@ -60,4 +58,4 @@ Click on the **Plus** icon next to **New Unit** and select the what **Activity T
 
 Add the **Unit Name**, **Module Name** and the required information for the **Activity Type** you selected.
 
-Click the **Save** button.\
+Click the **Save** button.<br>
