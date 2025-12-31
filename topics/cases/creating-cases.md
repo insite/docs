@@ -10,7 +10,7 @@ Select **New Case** link at the top of the page to create an new Case. **Note:**
 
 The following fields are **required** to be completed:
 
-* **Case Type** - The type of issue determines the steps in the workflow to manage it. The **Case Type** need to be setup by **Shift iQ Support**, please email [**support@shiftiq.com**](mailto:support@shiftiq.com) to add your Issue Types.
+* **Case Type** - The type of issue determines the steps in the workflow to manage it. (The **Case Type** need to be setup by **Shift iQ Support**, please email [**support@shiftiq.com**](mailto:support@shiftiq.com) to add your Issue Types.)
 * **Case Summary** - A brief summary of the issue.
 * **Case Administrator** - Internal office staff/administrator who is responsible for managing the case
 * **Member** - The person upon whose behalf the case is raised.
@@ -27,8 +27,7 @@ Click **Save**.
 
 Once your case is created, you can attach any supporting documents by clicking on the **Attachments** tab. (see [**Upload or Request a Document**](../../ui/help/portal/issues/issue-documents/upload-document/))
 
-Add additional comments by clicking on **Post Comment** under the **Comments** tab\
-
+Add additional comments by clicking on **Post Comment** under the **Comments** tab<br>
 
 ### Create an Case using Surveys:
 
@@ -43,7 +42,7 @@ Click in the **Open a new case when a response to this survey is completed** che
 Each **Survey Response** that is submitted by a user will create an **Case**, so an Administrator can select what type of **Case** should be created and who it needs to be assigned to. The following fields must be completed:
 
 * **Case Type** - The **Case Type** need to be setup by **Shift iQ Support**, please email [**support@shiftiq.com**](mailto:support@shiftiq.com) to add your Case Types.
-* **Case Status** - The current status of the Case. The status options need to be setup by **Shift iQ Support**, please email [**support@shiftiq.com**](mailto:support@shiftiq.com) to add your **Issue Status** options.
+* **Case Status** - The current status of the Case. (The status options need to be setup by **Shift iQ Support**, please email [**support@shiftiq.com**](mailto:support@shiftiq.com) to add your **Issue Status** options.)
 * **Case Administrator** - Internal office staff/administrator who is responsible for managing the Case
 * **Current Owner** - The person to whom responsibility is currently assigned.
 
