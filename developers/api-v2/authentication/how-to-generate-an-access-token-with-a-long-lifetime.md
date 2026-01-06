@@ -15,7 +15,7 @@ POST /v2/{partition}/security/tokens/generate
 | `Secret`   | string  | Your API client secret    |
 | `Lifetime` | integer | Token lifetime in seconds |
 
-#### Common Lifetime Values
+#### Common lifetime values
 
 | Duration | Seconds  |
 | -------- | -------- |
@@ -53,6 +53,16 @@ A successful request returns a JSON object containing your access token:
     "Lifetime": "31,536,000 seconds (~52 weeks)"
 }
 ```
+
+#### Secret expiry and token lifetime
+
+A client secret expires 90 days after it is created. However, the lifetime of a generated access token is independent of the secret's expiry.
+
+* A valid secret can generate an access token with a lifetime between 1 minute and 1 year.
+* Once generated, an access token remains valid for its full lifetime even if the secret expires afterward.
+* An expired secret cannot be used to generate new access tokens.
+
+For example, you can use a secret to generate a one-year token on day 89. The secret expires the next day, but the token continues to work for the full year.
 
 #### Security considerations
 
