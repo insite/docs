@@ -23,7 +23,8 @@
 ## API - v2
 
 * [Introduction](api-v2/introduction.md)
-* [Authentication](api-v2/authentication.md)
+* [Authentication](api-v2/authentication/README.md)
+  * [How to generate an access token with a long lifetime](api-v2/authentication/how-to-generate-an-access-token-with-a-long-lifetime.md)
 * [Endpoints](api-v2/navigating-the-api.md)
   * ```yaml
     props:
