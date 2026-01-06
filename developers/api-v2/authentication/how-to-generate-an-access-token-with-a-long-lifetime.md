@@ -49,7 +49,7 @@ A successful request returns a JSON object containing your access token:
 {
     "AccessToken": "eyJhbGciOiJIUzI1NiIs...",
     "TokenType": "Bearer",
-	  "ExpiresIn": 31536000,
+    "ExpiresIn": 31536000,
     "Lifetime": "31,536,000 seconds (~52 weeks)"
 }
 ```
