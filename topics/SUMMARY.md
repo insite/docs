@@ -106,6 +106,7 @@
   * [Class Settings](events/schedule-new-class/class-settings.md)
   * [Publish Class Registration](events/schedule-new-class/publish-class-registration.md)
   * [Adding Class Registration Tile on Portal Page](events/schedule-new-class/add-registration-tile.md)
+  * [Class Statuses](events/schedule-new-class/class-statuses.md)
 * [Using Classes for Exam setup](events/classes-for-exams/README.md)
   * [Assign Assessments](events/classes-for-exams/assign-assessments.md)
   * [Login Credentials for Exam](events/classes-for-exams/login-credentials-for-exam.md)
