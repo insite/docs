@@ -6,11 +6,12 @@ Please note Placeholders should not be used in **Alerts**, please [**contact**](
 
 ### NOTIFICATION Placeholders:
 
-* {RecipientEmail} - Email address of person receiving Notification
-* {RecipientName} - First and Last Name of person receiving Notification
-* {Sender-Logo} - Display logo of Organization (Please [**contact**](mailto:support@shiftiq.com) your Shift iQ representative to assist with the initial setup) ![insite-logo-orange-no-systems-40px-high-72ppi.png](https://e02.insite.com/files/sites/global/message-placeholders/insite-logo-orange-no-systems-40px-high-72ppi.png)
-* {Social-Media-Links} - Display Organization's social media links (Please [**contact**](mailto:support@shiftiq.com) your Shift iQ representative to assist with the initial setup) ![placeholders.png](https://e02.insite.com/files/sites/global/message-placeholders/placeholders.png)
-* {Contact-Information} - Display Organizations's contact information (Please [**contact**](mailto:support@shiftiq.com) your Shift iQ representative to assist with the initial setup) ![placeholders-1.png](https://e02.insite.com/files/sites/global/message-placeholders/placeholders-1.png)
+* $RecipientFirstName - First Name of person receiving Newsletter
+* $RecipientLastName - Last Name of person receiving Newsletter
+* $RecipientEmail - Email address of person receiving Newsletter
+* $RecipientPersonCode - Person Code of person receiving Newsletter
+* $Social-Media-Links - Display Organization's social media links (Please [**contact**](mailto:support@shiftiq.com) your Shift iQ representative to assist with the initial setup) ![placeholders.png](https://e02.insite.com/files/sites/global/message-placeholders/placeholders.png)
+* $Unsubscribe-Link
 
 <br>
 
@@ -59,13 +60,7 @@ Please note Placeholders should not be used in **Alerts**, please [**contact**](
 * $EditPersonUrl (link to the contact record)
 * $Reason (started or ended membership)
 
-{Sender-Logo} and {Social-Media-Links} - These Placeholders do not work in Survey Workflow Notifications if attached to **Response Started (Administrator)**.
-
-\
-$RecipientEmail\
-$RecipientFirstName\
-$RecipientLastName\
-$RecipientPersonCode
+{Sender-Logo} and {Social-Media-Links} - These Placeholders do not work in Survey Workflow Notifications if attached to **Response Started (Administrator)**.<br>
 
 ### NEWSLETTER Placeholders:
 
@@ -80,10 +75,9 @@ $RecipientPersonCode
 
 ### INVITATION Placeholders:
 
-* {Recipient-First-Name} - First Name of person receiving the Invitation
-* {Recipient-Last-Name} - Last Name of person receiving the Invitation
-* {RecipientName} - First and Last Name of person receiving the Invitation
-* {RecipientEmail} - Email address of person receiving the Invitation
-* {Sender-Logo} - Display logo of Organization (Please [**contact**](mailto:support@shiftiq.com) your Shift iQ representative to assist with the initial setup) ![insite-logo-orange-no-systems-40px-high-72ppi.png](https://e02.insite.com/files/sites/global/message-placeholders/insite-logo-orange-no-systems-40px-high-72ppi.png)
-* {Social-Media-Links} - Display Organization's social media links (Please [**contact**](mailto:support@shiftiq.com) your Shift iQ representative to assist with the initial setup) ![placeholders.png](https://e02.insite.com/files/sites/global/message-placeholders/placeholders.png)
-* {Contact-Information} - Display Organizations's contact information (Please [**contact**](mailto:support@shiftiq.com) your Shift iQ representative to assist with the initial setup) ![placeholders-1.png](https://e02.insite.com/files/sites/global/message-placeholders/placeholders-1.png)
+* $RecipientFirstName - First Name of person receiving Newsletter
+* $RecipientLastName - Last Name of person receiving Newsletter
+* $RecipientEmail - Email address of person receiving Newsletter
+* $RecipientPersonCode - Person Code of person receiving Newsletter
+* $Social-Media-Links - Display Organization's social media links (Please [**contact**](mailto:support@shiftiq.com) your Shift iQ representative to assist with the initial setup) ![placeholders.png](https://e02.insite.com/files/sites/global/message-placeholders/placeholders.png)
+* $Unsubscribe-Link
