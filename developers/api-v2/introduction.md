@@ -7,12 +7,12 @@ icon: bullseye-arrow
 
 # Introduction
 
-Version 2 of the API is a much more advanced and more comprehensive programming interface, providing developers and integrators with access to every part of every subsystem throughout the platform.&#x20;
+Version 2 of the API is a more comprehensive programming interface, providing developers and integrators with access to every part of every subsystem throughout the platform.&#x20;
 
 {% hint style="warning" %}
 **Version 2 is a Beta release and is therefore subject to change.**&#x20;
 
-We'll post updates as they become available. If you'd like join our beta program, then please contact our service and support team to have your developer account enabled. We'd love to get your help and feedback!
+We'll post updates as they become available. If you'd like join our beta program, then please contact our service and support team to have your developer account enabled. We'd love to get your feedback.
 {% endhint %}
 
 ## Authentication
