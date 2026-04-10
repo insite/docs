@@ -35,7 +35,7 @@ Click here for the full Terms of Use.
 
 
 ***
-# ui/portal/eula
+ui/portal/eula
 
 # Terms of Use
 

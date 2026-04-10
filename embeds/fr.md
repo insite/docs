@@ -35,7 +35,7 @@ Cliquez ici pour consulter [les conditions d'utilisation complètes](/ui/lobby/e
 
 
 ***
-# ui/portal/eula
+ui/portal/eula
 
 # Conditions d'utilisation
 

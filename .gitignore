@@ -1,0 +1,50 @@
+# AI Agents
+.claude/
+
+# Application Settings
+[Aa]pp[Ss]ettings.[Ll]ocal.json
+
+# Build Outputs
+/Build/**/[Pp]ackages/*
+/Build/**/[Pp]ublished/*
+/Build/**/[Rr]eleases/*
+/Build/**/*.nupkg
+/Build/**/*.zip
+dist/
+
+# Temporary Files
+**/_TEMP/
+[Tt]emp/
+tmp/
+
+# Packages
+/Packages
+
+# React UI and Node.js
+/source/InSite.UI/React
+node_modules
+
+# Static Resources
+**/_user-variables-local*.scss
+/Source/Polaris.UI/Assets
+/Source/Polaris.UI/node_modules
+
+# Visual Studio and VS Code
+*.[Cc]ache
+*.log
+*.obj
+*.pdb
+*.rdl.data
+*.rsuser
+*.user
+.claude/
+.idea/
+.vs/
+.vscode/
+[Bb]in/
+[Dd]ebug/
+[Oo]bj/
+[Rr]elease/
+x64/
+x86/
+**/_user-variables-local*.scss
