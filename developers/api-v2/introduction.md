@@ -19,7 +19,7 @@ We'll post updates as they become available. If you'd like join our beta program
 
 Your developer API key is available on the My Profile page for your account.&#x20;
 
-Simply sign in and click here:
+Login, click your name at the top right, and click **My Profile**:
 
 <figure><img src="../.gitbook/assets/v2-01.png" alt=""><figcaption></figcaption></figure>
 
