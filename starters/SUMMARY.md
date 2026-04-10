@@ -6,4 +6,4 @@
 
 ## Announcements
 
-* [Version 25.6 is live](announcements/version-25.6-is-live.md)
+* [Version 26.1 is live](announcements/version-26.1-is-live.md)
