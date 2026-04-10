@@ -1,21 +1,26 @@
+---
+description: Generate API access tokens that last longer than the default 24 hours
+icon: clock
+---
+
 # How to generate an access token with a long lifetime
 
 By default, API access tokens expire after 24 hours. For automated processes, scheduled tasks, or long-running integrations, you can generate a token with an extended lifetime by invoking a specific endpoint with your API Client Secret.
 
-#### Endpoint
+## Endpoint
 
 ```
 POST /v2/{partition}/security/tokens/generate
 ```
 
-#### Request Body
+## Request Body
 
 | Property   | Type    | Description               |
 | ---------- | ------- | ------------------------- |
 | `Secret`   | string  | Your API client secret    |
 | `Lifetime` | integer | Token lifetime in seconds |
 
-#### Common lifetime values
+## Common lifetime values
 
 | Duration | Seconds  |
 | -------- | -------- |
@@ -24,7 +29,20 @@ POST /v2/{partition}/security/tokens/generate
 | 30 days  | 2592000  |
 | 1 year   | 31536000 |
 
-#### Example (PowerShell)
+## Examples
+
+#### curl (Linux / macOS)
+
+```bash
+curl -X POST "https://sandbox-hub.shiftiq.com/v2/e99/security/tokens/generate" \
+    -H "Content-Type: application/json" \
+    -d '{
+        "Secret": "your-api-client-secret",
+        "Lifetime": 31536000
+    }'
+```
+
+#### PowerShell (Windows)
 
 ```powershell
 $url = "https://sandbox-hub.shiftiq.com/v2/e99/security/tokens/generate"
@@ -41,7 +59,7 @@ curl.exe -X POST $url `
     -d $json
 ```
 
-#### Response
+## Response
 
 A successful request returns a JSON object containing your access token:
 
@@ -54,7 +72,9 @@ A successful request returns a JSON object containing your access token:
 }
 ```
 
-#### Secret expiry and token lifetime
+If the secret is invalid or expired, the endpoint returns `401 Unauthorized`. If the requested lifetime is out of the allowed range (1 minute to 1 year), the endpoint returns `400 Bad Request`.
+
+## Secret expiry and token lifetime
 
 A client secret expires 90 days after it is created. However, the lifetime of a generated access token is independent of the secret's expiry.
 
@@ -64,8 +84,9 @@ A client secret expires 90 days after it is created. However, the lifetime of a 
 
 For example, you can use a secret to generate a one-year token on day 89. The secret expires the next day, but the token continues to work for the full year.
 
-#### Security considerations
+## Security considerations
 
+* A generated token inherits the full permissions of the user account that created it — treat it with the same care as your account credentials
 * Remember to store long-lived tokens securely
 * Use the shortest lifetime that meets your requirements
 * Rotate tokens periodically, even before they expire

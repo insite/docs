@@ -19,7 +19,11 @@ We'll post updates as they become available. If you'd like to join our beta prog
 
 For details on API keys, bearer tokens, and other authentication methods, see [Authentication](authentication/).
 
+<<<<<<< HEAD
 Your developer API key and Base URL are available on the My Profile page under Developer Settings. Please note the Base URL is not identical for all organizations; confirm your settings match before sending API requests from your application.
+=======
+Login, click your name at the top right, and click **My Profile**:
+>>>>>>> a79231eeaf81b8e914cfd8643177ed4c1e85f06e
 
 <figure><img src="../.gitbook/assets/v2-01.png" alt=""><figcaption></figcaption></figure>
 
