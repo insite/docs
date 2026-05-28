@@ -3,15 +3,11 @@
 ## Getting Started
 
 * [Contributor Documentation](README.md)
-* [Components](getting-started/components/README.md)
-  * [Utility Components](getting-started/components/utility-components/README.md)
-    * [Metadata](getting-started/components/utility-components/metadata.md)
-    * [Setup](getting-started/components/utility-components/setup/README.md)
-      * [Colours](getting-started/components/utility-components/setup/colours.md)
 
 ## Toolkits
 
 * [Toolkits](toolkits/README.md)
+  * [Metadata](toolkits/metadata.md)
   * [Records](toolkits/records/README.md)
     * [Certificate Layouts](toolkits/records/certificate-layouts/README.md)
       * [Global tenant file upload](toolkits/records/certificate-layouts/global-tenant-file-upload.md)
@@ -34,6 +30,8 @@
     * [Permissions](toolkits/security/permissions.md)
     * [Permissions (Proposed Improvement)](toolkits/security/permissions-proposed-improvement.md)
     * [Organization Collections](toolkits/security/organization-collections.md)
+  * [Setup](toolkits/setup/README.md)
+    * [Colours](toolkits/setup/colours.md)
   * [Sites](toolkits/sites/README.md)
     * [SkillsCheck: publishing a course or product to skillscheck.ca](toolkits/sites/skillscheck-publishing-course-product.md)
   * [Standards](toolkits/standards/README.md)

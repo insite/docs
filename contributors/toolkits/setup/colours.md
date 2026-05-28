@@ -1,3 +1,7 @@
+---
+description: "Here are the colour codes we use in our UI:"
+---
+
 # Colours
 
 ### Bootstrap 5 <a href="#colours-bootstrap5" id="colours-bootstrap5"></a>
@@ -27,4 +31,3 @@ Here are the colour codes for the Shift iQ brand:
 \#577786
 
 ### Preview <a href="#colours-preview" id="colours-preview"></a>
-

@@ -1,12 +1,16 @@
+---
+description: "Execute these 3 scripts to setup ASP.NET session state. They are located in the InSite repository under:"
+---
+
 # Metadata
 
 ## Database Setup <a href="#metadata-databasesetup" id="metadata-databasesetup"></a>
 
 ### One-Time Initial Setup <a href="#metadata-one-timeinitialsetup" id="metadata-one-timeinitialsetup"></a>
 
-Execute these 3 scripts to setup ASP.NET session state:
+Execute these 3 scripts to setup ASP.NET session state. They are located in the InSite repository under:
 
-* `C:\\Base\\Repos\\InSite\\Infrastructure\\Scripts\\Database\\Session State`
+* `<InSiteRepoRoot>\Infrastructure\Scripts\Database\Session State`
 
 1. `Setup-SessionState-1.sql` is executed in SQL Server Management Studio
 2. `Setup-SessionState-2.ps1` is executed on a PowerShell command prompt
@@ -16,9 +20,9 @@ Using SQL Server Management Studio create a new login named `IIS APPPOOL\\InSite
 
 ### Restore Database Backup <a href="#metadata-restoredatabasebackup" id="metadata-restoredatabasebackup"></a>
 
-An anonymized backup copy of the database is located here:
+An anonymized backup copy of the database is located in your local backups folder, for example:
 
-* C:\Base\Data\Databases\Backups\Local.bak
+* `<LocalBackupsFolder>\Local.bak`
 
 You can use Microsoft SQL Server Management Studio to restore the database.
 
@@ -28,17 +32,23 @@ Alternatively, you can execute a script from PowerShell or from a Windows comman
 
 Note: If you have already added the PowerShell profile from Local Skip this part.
 
-#### PowerShell Command Prompt (Dan) <a href="#metadata-powershellcommandprompt-dan" id="metadata-powershellcommandprompt-dan"></a>
+#### PowerShell setup <a href="#metadata-powershellcommandprompt" id="metadata-powershellcommandprompt"></a>
 
-Edit your PowerShell profile so it includes an alias for the InSite Maintenance console application, and so it includes functions to restore the database from a backup, switch between master and develop databases, execute SQL upgrade scripts.
+Edit your PowerShell profile so it includes an alias for the InSite Maintenance console application, plus functions to restore the database from a backup, switch between master and develop databases, and execute SQL upgrade scripts.
 
-```
-Set-Alias -Value "C:\\Base\\Repos\\InSite\\Code\\Apps\\Source\\InSite.Maintenance\\bin\\Debug\\InSite.Maintenance.exe" -Name "insite"
+Substitute `<InSiteRepoRoot>` and `<LocalBackupsFolder>` for the absolute paths on your machine.
 
-function Sql-Restore { insite restore-databases -b C:\\Base\\Data\\Databases\\Backups }
+```powershell
+$MaintenanceExe = "<InSiteRepoRoot>\Code\Apps\Source\InSite.Maintenance\bin\Debug\InSite.Maintenance.exe"
+$UpgradeScripts = "<InSiteRepoRoot>\Code\Apps\Source\InSite.Maintenance\Scripts\Upgrades"
+$BackupsFolder  = "<LocalBackupsFolder>"
+
+Set-Alias -Value $MaintenanceExe -Name "insite"
+
+function Sql-Restore { insite restore-databases -b $BackupsFolder }
 function Sql-Switch  { insite switch-databases }
-function Sql-Mark    { insite mark-scripts      -p C:\\Base\\Repos\\InSite\\Code\\Apps\\Source\\InSite.Maintenance\\Scripts\\Upgrades }
-function Sql-Upgrade { insite upgrade-scripts   -p C:\\Base\\Repos\\InSite\\Code\\Apps\\Source\\InSite.Maintenance\\Scripts\\Upgrades }
+function Sql-Mark    { insite mark-scripts    -p $UpgradeScripts }
+function Sql-Upgrade { insite upgrade-scripts -p $UpgradeScripts }
 ```
 
 From a PowerShell command prompt, you can restore two copies of the SQL Server database backup file with this command:
@@ -49,40 +59,42 @@ To switch between **master** and **develop** copies of the database:
 
 * `Sql-Switch`
 
-#### Windows Command Prompt (Aleksey) <a href="#metadata-windowscommandprompt-aleksey" id="metadata-windowscommandprompt-aleksey"></a>
+#### Windows command-prompt setup <a href="#metadata-windowscommandprompt" id="metadata-windowscommandprompt"></a>
+
+If you prefer the Windows command prompt over PowerShell, create four CMD files. In each one, substitute `<InSiteRepoRoot>` and `<LocalBackupsFolder>` for the absolute paths on your machine.
 
 1. Create four CMD files:
-   * Upgrade.cmd. This command should be used to run SQL upgrade scripts
-   * Mark.cmd. This command should be used to mark SQL upgrade scripts as executed in case the script file(s) already was applied during development.
-   * Switch.cmd. Switch from one environment to another, for example, from **dev** to **hotfix**.
-   * Restore.cmd. Restore the database backup.
-2. Example of **Upgrade.cmd**
+   * **Upgrade.cmd** — runs SQL upgrade scripts.
+   * **Mark.cmd** — marks SQL upgrade scripts as executed (use when the script file was already applied during development).
+   * **Switch.cmd** — switches from one environment to another (for example, **dev** to **hotfix**).
+   * **Restore.cmd** — restores the database backup.
+2. Example of **Upgrade.cmd**:
 
-```
-C:\\Base\\Repos\\InSite\\Code\\Apps\\Source\\InSite.Maintenance\\bin\\Debug\\InSite.Maintenance.exe upgrade-scripts -p D:\\Projects\\InSite\\Repos\\Code\\Apps\\Source\\InSite.Maintenance\\Scripts\\Upgrades
+```cmd
+"<InSiteRepoRoot>\Code\Apps\Source\InSite.Maintenance\bin\Debug\InSite.Maintenance.exe" upgrade-scripts -p "<InSiteRepoRoot>\Code\Apps\Source\InSite.Maintenance\Scripts\Upgrades"
 pause
 ```
 
-Where **-p** specifies where upgrade scripts located
+Where **-p** specifies the folder that contains the upgrade scripts.
 
-1. Example of **Mark.cmd**
+1. Example of **Mark.cmd**:
 
-```
-C:\\Base\\Repos\\InSite\\Code\\Apps\\Source\\InSite.Maintenance\\bin\\Debug\\InSite.Maintenance.exe mark-scripts -p C:\\Base\\Repos\\InSite\\Code\\Apps\\Source\\InSite.Maintenance\\Scripts\\Upgrades
+```cmd
+"<InSiteRepoRoot>\Code\Apps\Source\InSite.Maintenance\bin\Debug\InSite.Maintenance.exe" mark-scripts -p "<InSiteRepoRoot>\Code\Apps\Source\InSite.Maintenance\Scripts\Upgrades"
 pause
 ```
 
-1. Example of **Switch.cmd**
+1. Example of **Switch.cmd**:
 
-```
-C:\\Base\\Repos\\InSite\\Code\\Apps\\Source\\InSite.Maintenance\\bin\\Debug\\InSite.Maintenance.exe switch-databases
+```cmd
+"<InSiteRepoRoot>\Code\Apps\Source\InSite.Maintenance\bin\Debug\InSite.Maintenance.exe" switch-databases
 pause
 ```
 
-1. Example of **Restore.cmd**
+1. Example of **Restore.cmd**:
 
-```
-C:\\Base\\Repos\\InSite\\Code\\Apps\\Source\\InSite.Maintenance\\bin\\Debug\\InSite.Maintenance.exe restore-databases -b C:\\Base\\Data\\Databases\\Backups
+```cmd
+"<InSiteRepoRoot>\Code\Apps\Source\InSite.Maintenance\bin\Debug\InSite.Maintenance.exe" restore-databases -b "<LocalBackupsFolder>"
 pause
 ```
 
@@ -96,7 +108,7 @@ You can add parameter **-c true** so that the utility restores the database only
 3. Make sure `InSite_develop` is your default database.
 4. Open a new Query in SQL Server Management Studio and run below scripts.
 
-```
+```text
 USE master;
 GO
 EXEC sp_configure 'clr enabled' ,1
@@ -115,7 +127,7 @@ GO
 1. Run **Sql-Upgrade** or **Upgrade.cmd** to apply all the latest upgrade scripts.
 2. Run below queries to create a default user.
 
-```
+```text
 use InSite
 go
 
@@ -153,9 +165,9 @@ For this purpose run **Sql-Mark**
 
 #### Scenario 3. <a href="#metadata-scenario3" id="metadata-scenario3"></a>
 
-Dan just provided the latest backups and I need to restore them.
+The infrastructure team just provided the latest backups and I need to restore them.
 
-For this purpose run **Sql-Restore**
+For this purpose run **Sql-Restore**.
 
 #### Scenario 4. <a href="#metadata-scenario4" id="metadata-scenario4"></a>
 
