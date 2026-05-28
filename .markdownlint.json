@@ -1,0 +1,25 @@
+{
+  "default": true,
+
+  "MD003": { "style": "atx" },
+  "MD004": { "style": "asterisk" },
+  "MD007": { "indent": 2 },
+  "MD010": { "code_blocks": false },
+  "MD026": { "punctuation": ".,;:" },
+  "MD040": true,
+
+  "MD013": false,
+  "MD024": { "siblings_only": true },
+  "MD025": false,
+  "MD033": false,
+  "MD034": false,
+  "MD036": false,
+  "MD041": false,
+  "MD046": false,
+  "MD060": false,
+
+  "MD001": false,
+
+  "no-hard-tabs": true,
+  "no-trailing-spaces": { "br_spaces": 0 }
+}

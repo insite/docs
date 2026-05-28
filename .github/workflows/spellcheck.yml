@@ -1,0 +1,29 @@
+name: Spell check
+
+on:
+  pull_request:
+    paths:
+      - '**/*.md'
+      - 'cspell.json'
+      - '.github/workflows/spellcheck.yml'
+  push:
+    branches: [master]
+    paths:
+      - '**/*.md'
+      - 'cspell.json'
+  workflow_dispatch:
+
+jobs:
+  cspell:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run cspell
+        uses: streetsidesoftware/cspell-action@v6
+        with:
+          config: cspell.json
+          files: |
+            **/*.md
+          inline: warning
+          strict: false

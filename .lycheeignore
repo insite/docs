@@ -1,0 +1,10 @@
+# Hosts that block bots or rate-limit aggressively. lychee will not flag
+# these as broken even if they return non-200.
+^https://insite\.atlassian\.net/
+^https://.+\.hubspotlinks\.com/
+^https://www\.linkedin\.com/
+^https://twitter\.com/
+^https://x\.com/
+
+# Local-only references inside example snippets
+^file://

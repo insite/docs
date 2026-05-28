@@ -1,0 +1,20 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 2
+
+[*.md]
+# Markdown sometimes uses trailing spaces for hard breaks. We disable hard
+# breaks at the lint level (no-trailing-spaces.br_spaces=0) so this stays safe.
+trim_trailing_whitespace = true
+
+[*.{yml,yaml,json}]
+indent_size = 2
+
+[Makefile]
+indent_style = tab
