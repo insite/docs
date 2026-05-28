@@ -31,7 +31,7 @@ Refer to this article for details: [LTI as a SSO Mechanism](https://www.imsgloba
 
 An LTI launch message submitted for SSO access to Shift iQ looks something like this:
 
-<figure><img src="../.gitbook/assets/lti-launch.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/lti-launch.png" alt="Lti launch"><figcaption></figcaption></figure>
 
 The LTI Launch message is signed with a secure digital signature, using [HMAC-SHA1](https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.hmacsha1?view=net-7.0) or [HMAC-SHA256](https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.hmacsha256?view=net-7.0), with a secret key that is shared between the two systems.
 

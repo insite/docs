@@ -21,7 +21,7 @@ For details on API keys, bearer tokens, and other authentication methods, see [A
 
 Login, click your name at the top right, and click **My Profile**:
 
-<figure><img src="../.gitbook/assets/v2-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/v2-01.png" alt="V2 01"><figcaption></figcaption></figure>
 
 ## OpenAPI Specification
 
@@ -29,7 +29,7 @@ The API is described using the [OpenAPI Specification](https://github.com/OAI/Op
 
 The OAS for the Shift API looks like this:
 
-<figure><img src="../.gitbook/assets/v2-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/v2-02.png" alt="V2 02"><figcaption></figcaption></figure>
 
 Browse the full specification via the API Reference link below, or download it as JSON for use in your own applications.
 

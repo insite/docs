@@ -9,7 +9,7 @@ By default, API access tokens expire after 24 hours. For automated processes, sc
 
 ## Endpoint
 
-```
+```text
 POST /v2/{partition}/security/tokens/generate
 ```
 

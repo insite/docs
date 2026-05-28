@@ -1,38 +1,40 @@
+---
+description: Contextual help (or in-context help) refers to assistance that appears directly within the user interface - at the point where users need it.
+---
+
 # about
 
 Contextual help (or in-context help) refers to assistance that appears directly within the user interface - at the point where users need it. Alternative terms commonly used for this include:
 
-- Embedded help - help content built into the interface itself
-- Progressive disclosure - revealing information gradually as needed
-- Microcopy - short, helpful text snippets within the UI
-- Contextual guidance - assistance provided based on the user's current context
+* Embedded help - help content built into the interface itself
+* Progressive disclosure - revealing information gradually as needed
+* Microcopy - short, helpful text snippets within the UI
+* Contextual guidance - assistance provided based on the user's current context
 
 Specific types of contextual help include:
 
-- Tooltips (hover or click-triggered explanations)
-- Inline help text
-- Field hints or placeholder text
-- Progressive onboarding flows
-- Contextual callouts or popovers
+* Tooltips (hover or click-triggered explanations)
+* Inline help text
+* Field hints or placeholder text
+* Progressive onboarding flows
+* Contextual callouts or popovers
 
 The term "contextual help" is widely recognized in UX design and technical writing communities as it emphasizes that the help is relevant to the user's immediate context and task, rather than requiring them to navigate away to a separate help section or documentation.
-
 
 ***
 ui/lobby/eula
 
 ## Terms of Use
- 
-Thanks for using our products and services ("Services"). The Services are provided by InSite Information Systems Corp. (IIS Corp.) under the trademarks InSite, SkillsCheck, SkillsPassport and Shift iQ, located at 1055 West Hastings Street, Suite 300, Vancouver, BC V6E 4P1 Canada. 
- 
-Our Services are diverse, so sometimes additional terms or product requirements (including age requirements) may apply. Additional terms will be available with the relevant Services, and those additional terms become part of your agreement with us if you use those Services. 
- 
-By using our Services, you are agreeing to these terms. Please read them carefully. 
- 
-Click here for the full Terms of Use. 
- 
-**Disclaimer:** IIS Corp. does not guarantee the accuracy of any information captured or generated using our Services, nor the qualifications, credentials, or suitability of any person(s) using or identified through our Services. Users are solely responsible for verifying all information and conducting due diligence as needed. 
 
+Thanks for using our products and services ("Services"). The Services are provided by InSite Information Systems Corp. (IIS Corp.) under the trademarks InSite, SkillsCheck, SkillsPassport and Shift iQ, located at 1055 West Hastings Street, Suite 300, Vancouver, BC V6E 4P1 Canada.
+
+Our Services are diverse, so sometimes additional terms or product requirements (including age requirements) may apply. Additional terms will be available with the relevant Services, and those additional terms become part of your agreement with us if you use those Services.
+
+By using our Services, you are agreeing to these terms. Please read them carefully.
+
+Click here for the full Terms of Use.
+
+**Disclaimer:** IIS Corp. does not guarantee the accuracy of any information captured or generated using our Services, nor the qualifications, credentials, or suitability of any person(s) using or identified through our Services. Users are solely responsible for verifying all information and conducting due diligence as needed.
 
 ***
 ui/portal/eula

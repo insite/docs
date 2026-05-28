@@ -1,3 +1,7 @@
+---
+description: The DevOps Engineer uses their understanding of computer hardware and software infrastructure, cloud computing, application development, and
+---
+
 # DevOps Engineer
 
 ### Summary <a href="#summary" id="summary"></a>

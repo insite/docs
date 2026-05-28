@@ -35,7 +35,7 @@ Secure cookie authentication may be preferred in some specific integration scena
 Authentication cookies incorporate several security features to protect user data and prevent unauthorized access. These security features include the following:
 
 * The `Secure` flag ensures the cookie is only transmitted over encrypted HTTPS connections, preventing interception during communication between clients and the server.
-* The `HttpOnly` attribute prevents client-side scripts from accessing the cookie through JavaScript, mitigating cross-site scripting (XSS) attacks.* The `SameSite` attribute helps prevent cross-site request forgery (CSRF) attacks by restricting the cookie to same-site contexts or explicitly allowing cross-site usage.* An expiration date limits the cookie's lifespan.
+* The `HttpOnly` attribute prevents client-side scripts from accessing the cookie through JavaScript, mitigating cross-site scripting (XSS) attacks.*The `SameSite` attribute helps prevent cross-site request forgery (CSRF) attacks by restricting the cookie to same-site contexts or explicitly allowing cross-site usage.* An expiration date limits the cookie's lifespan.
 * Domain and path restrictions limit where the cookie can be used and where it can be accessed.
 * The cookie value is signed with a cryptographically secure digital signature, and then encrypted for additional privacy and security.
 
@@ -53,7 +53,7 @@ To authenticate a request, provide the secret in the `Authorization` header of t
 `Secret wJalrXUtnFEMI0O6JX5MCkmbs6JqPcx3`
 
 Client secrets are generated using cryptographically strong random number generators, ensuring they have sufficient entropy to resist brute-force attacks and are statistically unique across different client applications.
+
 * The secrets are typically long, random strings that are computationally infeasible to guess or derive through cryptanalysis.* The secrets are designed to be treated as sensitive credentials with proper lifecycle management, including secure generation, storage, rotation, and revocation capabilities.
 
 Client secret authentication is limited in scope because it requires the ability to securely store and protect the secret, which is feasible only for confidential clients like server-side applications. Bearer tokens have more sophisticated security features (e.g., shorter lifespans, scoped permissions, easy revocation) — this is why bearer authentication is preferred and required for most API endpoints throughout the platform.
-

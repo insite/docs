@@ -28,7 +28,7 @@ The administrator dashboard contains everything needed to quickly view critical 
 
 Depending on the configuration of the system for your organization account, an administrator might have access to any (or all!) of these features:
 
-<figure><img src="../.gitbook/assets/admin-experience-11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/admin-experience-11.png" alt="Admin experience 11"><figcaption></figcaption></figure>
 
 > Administrator Note: Email notifications are disabled in all Sandbox environments.
 
@@ -36,7 +36,7 @@ Depending on the configuration of the system for your organization account, an a
 
 Return to the home screen at any time by clicking the Home button, or **Admin** on the breadcrumb trail. Navigate to any toolkit by clicking on the left menu OR on the tile on the main admin work area.
 
-<figure><img src="../.gitbook/assets/admin-experience-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/admin-experience-01.png" alt="Admin experience 01"><figcaption></figcaption></figure>
 
 Shift iQ is delivered using role-based access control, meaning different features, functionality and information is displayed to administrators based on their on the permissions and roles in the system.
 
@@ -44,13 +44,13 @@ Shift iQ is delivered using role-based access control, meaning different feature
 
 When you click on a toolkit, you're presented with tiles showing the different types of data available there. For example, the **Contacts** toolkit shows that there are 36 **People**, 17 **Employers**, 9 **Roles** (Permissions), etc.
 
-<figure><img src="../.gitbook/assets/admin-experience-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/admin-experience-02.png" alt="Admin experience 02"><figcaption></figcaption></figure>
 
 Click the **People** card to start exploring.
 
 The **People** -> **Search** page has a tab for search **Criteria** and search **Results**. This page is powerful for searching for anything related to a person. Note: If you have a set of search criteria that you use regularly, you can save it to be used again and again.
 
-<figure><img src="../.gitbook/assets/admin-experience-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/admin-experience-03.png" alt="Admin experience 03"><figcaption></figcaption></figure>
 
 Try searching for all **People** associated with the **Safety Training Employer**. On the People Search **Criteria** page, click on the **Group** field and select **Safety Training Employer**. Click on the **Search** button at the bottom of the screen.&#x20;
 
@@ -58,7 +58,7 @@ You can see on the **Results** tab that there are currently 33 people associated
 
 View more columns by selecting which ones you want on the Criteria tab.
 
-<figure><img src="../.gitbook/assets/admin-experience-04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/admin-experience-04.png" alt="Admin experience 04"><figcaption></figcaption></figure>
 
 Form the search results tab, edit a person to view all the information the system has about him. This is called the Person Record. From the person record you can:&#x20;
 
@@ -141,7 +141,7 @@ Insert an additional assessment into the Privacy Awareness FIPPA course
 
 Click on Course Catalogue -> Privacy Awareness FIPPA course to see the changes that you’ve made to the course and to try it out.
 
-<figure><img src="../.gitbook/assets/admin-experience-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/admin-experience-05.png" alt="Admin experience 05"><figcaption></figcaption></figure>
 
 ## Assessments and Certifications
 
@@ -161,7 +161,7 @@ Configure the Privacy Awareness FIPPA course to follow the logic above.
 * [ ] Log out and log back in as Jane Learner.  View the course to see the lock on the course outline
 * [ ] Proceed through the learning activity to test
 
-<figure><img src="../.gitbook/assets/admin-experience-06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/admin-experience-06.png" alt="Admin experience 06"><figcaption></figcaption></figure>
 
 ## Communication and Learner Engagement
 
@@ -176,7 +176,7 @@ Notifications are sent automatically by the system based on system events, or co
 3. Click the Add New Notification link at the top of the page
 4. Create some sample content and save your notification.
 
-<figure><img src="../.gitbook/assets/admin-experience-07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/admin-experience-07.png" alt="Admin experience 07"><figcaption></figcaption></figure>
 
 Attach your notification to a course:
 
@@ -200,7 +200,7 @@ To send a message to a contact:&#x20;
 
 A complete history of changes to a contact including the dates of any messages sent and the content of those messages is available on the Person -> Details tab.
 
-<figure><img src="../.gitbook/assets/admin-experience-08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/admin-experience-08.png" alt="Admin experience 08"><figcaption></figcaption></figure>
 
 ## Tracking and Reporting
 
@@ -217,7 +217,7 @@ A complete history of changes to a contact including the dates of any messages s
    5. **Standards**: Shows average scores for each competency in your framework. This can highlight the strengths and weaknesses of your training program. Note, you can also toggle this to a learner view to see this report by individual learner.
    6. **Downloads**: Download any of this data to share or for external analysis.
 
-<figure><img src="../.gitbook/assets/admin-experience-09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/admin-experience-09.png" alt="Admin experience 09"><figcaption></figcaption></figure>
 
 ### View or export learner records from the person record
 
@@ -237,4 +237,4 @@ A complete history of changes to a contact including the dates of any messages s
 6. The **Grade items** tab will give an overview of the grade items you have set up. You can add, remove, or change the scoring settings of your gradebook here
 7. Export records using the **Summary List** button
 
-<figure><img src="../.gitbook/assets/admin-experience-10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/admin-experience-10.png" alt="Admin experience 10"><figcaption></figcaption></figure>

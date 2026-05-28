@@ -10,7 +10,7 @@ Adding a SCORM package to a course in Shift iQ is a simple process.&#x20;
 
 Add a Link activity to a module in your course.
 
-<figure><img src="../../.gitbook/assets/scoop-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/scoop-01.png" alt="Scoop 01"><figcaption></figcaption></figure>
 
 ### Step 2
 
@@ -20,7 +20,7 @@ If an SCO library is not already created for your organization, the system will 
 
 Click the link to open your SCO library.
 
-<figure><img src="../../.gitbook/assets/scoop-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/scoop-02.png" alt="Scoop 02"><figcaption></figcaption></figure>
 
 ### Step 3
 
@@ -28,23 +28,22 @@ Upload your SCORM package.
 
 Click the button to choose a file on your computer, and click the button to add your SCORM package to your library.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt="Image (3)"><figcaption></figcaption></figure>
 
 The system will generate a SCORM package identifier for you automatically. It converts the name of your file to lowercase, and replaces non-alphanumeric characters to hyphens. This ensures the identifier is web-friendly. Copy this to your clipboard.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt="Image (4)"><figcaption></figcaption></figure>
 
 ### Step 4
 
 Paste the SCORM package identifier into the field labelled "SCORM Package ID".
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="Image (2)"><figcaption></figcaption></figure>
 
 ### Step 5
 
 Save your changes, preview the course in Shift, and click the Launch button to confirm your content is displayed.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="Image (1)"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../.gitbook/assets/image.png" alt="Image"><figcaption></figcaption></figure>

@@ -1,3 +1,9 @@
+---
+description: >-
+  The roles that make up a technical group at Shift iQ, plus the distinction
+  between software developer and software engineer
+---
+
 # Technical Job Descriptions
 
 A technical group is typically comprised of these roles (listed alphabetically):

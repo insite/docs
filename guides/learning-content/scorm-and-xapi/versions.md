@@ -112,11 +112,11 @@ Just like smartphones have evolved from basic devices to powerful computers, eLe
 
 #### **If you want very advanced features:**
 
-3. **SCORM 2004 3rd or 4th Edition** - For complex course navigation and prerequisites.
+1. **SCORM 2004 3rd or 4th Edition** - For complex course navigation and prerequisites.
 
 #### **If you're forward-thinking:**
 
-4. **xAPI + cmi5** - For comprehensive learning analytics and modern learning experiences.
+1. **xAPI + cmi5** - For comprehensive learning analytics and modern learning experiences.
 
 #### **Special situations:**
 

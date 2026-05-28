@@ -29,7 +29,7 @@ If you are working with the API for the first time, then always start in the Dev
 
 Sign in and visit the My Profile page. If your account is enabled for development and integration work with the API then you'll see a Developer Settings panel on this page.
 
-<figure><img src="../.gitbook/assets/power-bi-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/power-bi-1 (1).png" alt="Power bi 1 (1)"><figcaption></figcaption></figure>
 
 If you don't see a Developer Settings panel then contact your LMS administrator to have this enabled for your account.
 
@@ -37,7 +37,7 @@ If you don't see a Developer Settings panel then contact your LMS administrator 
 
 Visit the My Profile page and click the key beside the API Access Token label in the Developer Settings section. The system will create a token that you can copy to your clipboard with a single mouse-click.
 
-<figure><img src="../.gitbook/assets/power-bi-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/power-bi-2.png" alt="Power bi 2"><figcaption></figcaption></figure>
 
 ## Step 3: Create a data source in Power BI
 
@@ -45,7 +45,7 @@ Start the Power BI Desktop app on your computer and create a new report.&#x20;
 
 When you are prompted for a data source, select "Get data from another source". In the "Get Data" dialog box, select "Web".
 
-<figure><img src="../.gitbook/assets/power-bi-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/power-bi-3.png" alt="Power bi 3"><figcaption></figcaption></figure>
 
 In the "From Web" dialog box, select "Advanced" and input the settings for the URL parts and the HTTP request header.
 
@@ -64,13 +64,13 @@ You can input the entire, fully-qualified URL for an API endpoint as a single UR
 
 Here is an example for reference:
 
-<figure><img src="../.gitbook/assets/power-bi-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/power-bi-4.png" alt="Power bi 4"><figcaption></figcaption></figure>
 
-## That's it!
+## That's it
 
 Click "OK", and the data source is ready to use in Power BI.
 
-<figure><img src="../.gitbook/assets/power-bi-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/power-bi-5.png" alt="Power bi 5"><figcaption></figcaption></figure>
 
 ## Next steps: explore and experiment
 

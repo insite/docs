@@ -1,5 +1,5 @@
 ---
-description: This instructor experience walkthrough is demonstrates gradebook features
+description: Instructor walkthrough demonstrating gradebook features
 ---
 
 # Instructor experience
@@ -21,7 +21,7 @@ Our team has configured a sample organization for demo and training purposes. Yo
 
 The sample organization is named Safety Training Authority (STA). It is configured with an **Instructor Dashboard** that includes links to the **Course Catalog** and the **Instructor Gradebook**.
 
-<figure><img src="../.gitbook/assets/instructor-experience-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/instructor-experience-01.png" alt="Instructor experience 01"><figcaption></figcaption></figure>
 
 > Administrator Note: In the STA demo organization, this instructor is granted access to multiple areas of the system. The visibility of navigation cards on the dashboard is managed with role-based access permissions. For example, if you are assigned to a role with permission granted to an area of the system, then the launch card for that area is visible on your dashboard — otherwise it is not visible to you.
 
@@ -31,7 +31,7 @@ The **Course Catalog** displays the same information for an instructor that it d
 
 When you navigate to the **Instructor Gradebook** you'll see an administrative view of the system, with limited access to gradebook administration. For example:
 
-<figure><img src="../.gitbook/assets/instructor-experience-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/instructor-experience-02.png" alt="Instructor experience 02"><figcaption></figcaption></figure>
 
 An instructor can see an Instructor Gradebook for every course they teach. This limits their view to a confined learner population. Instructors can:
 
@@ -48,10 +48,10 @@ An instructor can see an Instructor Gradebook for every course they teach. This 
 5. View scores for groups of learners scores on specific grade items by clicking on the Grade Items tab.
 6. Print a Grade Report for each learner
 
-<figure><img src="../.gitbook/assets/instructor-experience-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/instructor-experience-03.png" alt="Instructor experience 03"><figcaption></figcaption></figure>
 
 Instructors can navigate back to the admin homepage by clicking the Home icon in the upper right or the Admin link in the breadcrumb trail.
 
 They can navigate back to the portal by clicking on the Portal shortcut, or back to the My Dashboard view through the link in the dropdown menu under their name.
 
-<figure><img src="../.gitbook/assets/instructor-experience-04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/instructor-experience-04.png" alt="Instructor experience 04"><figcaption></figcaption></figure>
