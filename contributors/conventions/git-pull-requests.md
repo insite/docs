@@ -19,7 +19,7 @@ Details about how the Github actions automatically build and test are found here
 * Rapid Test Feature Branch
 * [https://insite.atlassian.net/wiki/spaces/PD/pages/110133249/Rapid+Test+Feature+Branch#Github-Failure-Recovery](https://insite.atlassian.net/wiki/spaces/PD/pages/110133249/Rapid+Test+Feature+Branch#Github-Failure-Recovery)
 
-### Steps to implement and submit code changes for resolving a Jira issue (as a **developer**):
+### Steps to implement and submit code changes for resolving a Jira issue (as a **developer**)
 
 1. Create a new local feature branch. For example: **feature/alice/dev-1234**
 2. Implement the requested changes to the code in the local feature branch.
@@ -34,7 +34,7 @@ Details about how the Github actions automatically build and test are found here
 9. Do not push commits for the new issues into the PR where the review process was already started
 10. f it is needed to close PR where was started the review then please specify the reason for this
 
-### Steps to approve a pull request (as a **reviewer**):
+### Steps to approve a pull request (as a **reviewer**)
 
 1. A Pull Request must be approved by at least one person (who is not the developer) before it can be merged. Note the review process can be started by multiple people.
 2. Sign in to GitHub, select the repository, and click the **Pull requests** tab.
@@ -46,13 +46,13 @@ Details about how the Github actions automatically build and test are found here
 8. Review changes/explanations, and if something still needs improvement/clarification then continue the discussion. Otherwise, if everything is done, then approve changes.
 9. After the **Pull Request** is approved by all reviewers then the developer who has merge permissions merges the code.
 
-### Steps for the reviewer to make changes he/she decided to implement while were reviewing the code:
+### Steps for the reviewer to make changes he/she decided to implement while were reviewing the code
 
 1. During the PR review, the reviewer found some issues not related to the PR that he/she wants to fix/implement
 2. In this case, create either a child task for the current task or a new task
 3. Make sure the new task and the original task are linked either as a child issue or via “Link Issue” button:
 
-   <figure><img src="../.gitbook/assets/git-pull-requests-01.png" alt=""><figcaption></figcaption></figure>
+   <figure><img src="../.gitbook/assets/git-pull-requests-01.png" alt="Jira issue screen showing the Link Issue button used to relate a child task back to the original task"><figcaption></figcaption></figure>
 4. Push your changes and create a new PR for this new task
 
 ### Jira and PR requests
@@ -67,7 +67,7 @@ After our code is reviewed and completed:
 
 ## Example
 
-### Developer Workflow:
+### Developer Workflow
 
 Here is the git command to create a check out a new local feature branch:
 
@@ -81,22 +81,22 @@ After I have implemented my changes, here are the git command to commit and push
 
 After my changes are pushed, then I click this button to create a new PR:
 
-<figure><img src="../.gitbook/assets/git-pull-requests-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/git-pull-requests-02.png" alt="GitHub Compare & pull request button shown after pushing a new feature branch"><figcaption></figcaption></figure>
 
 Then select a base branch and click **Create pull request**:
 
-<figure><img src="../.gitbook/assets/git-pull-requests-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/git-pull-requests-03.png" alt="GitHub Open a pull request screen showing the base-branch selector and the Create pull request button"><figcaption></figcaption></figure>
 
-### Reviewer Workflow:
+### Reviewer Workflow
 
 Select the required PR
 
-<figure><img src="../.gitbook/assets/git-pull-requests-04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/git-pull-requests-04.png" alt="GitHub Pull requests tab listing open PRs for the reviewer to select"><figcaption></figcaption></figure>
 
 Comment on the line:
 
-<figure><img src="../.gitbook/assets/git-pull-requests-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/git-pull-requests-05.png" alt="GitHub Files changed tab showing an inline review comment attached to a specific line of code"><figcaption></figcaption></figure>
 
 Request changes:
 
-<figure><img src="../.gitbook/assets/git-pull-requests-06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/git-pull-requests-06.png" alt="GitHub Review changes dialog with Request changes selected to ask the developer for revisions"><figcaption></figcaption></figure>

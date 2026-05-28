@@ -10,7 +10,7 @@ description: >-
 
 Source code for the software developed by InSite can be organized into three (3) broad systems:
 
-<figure><img src="../.gitbook/assets/architecture-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/architecture-01.png" alt="Overview diagram showing InSite source code split into three systems: God (green), Shift iQ (yellow), and General (grey)"><figcaption></figcaption></figure>
 
 **Shift iQ** is a multitenant enterprise software system, and its source code depends heavily upon **general-purpose** source code that is written and maintained by InSite developers. General code is not specific to any part of Shift iQ, and therefore has no dependencies on Shift iQ code.
 
@@ -42,7 +42,7 @@ You can see the system dependencies more clearly in the following diagram, which
 
 > Note: Test projects are omitted for clarity, because they (potentially) reference everything everywhere. Redundant dependency arrows are omitted for simplicity. For example, if A depends on both B and C, and B depends on C, then an arrow is shown from A to B, and from B to C. The arrow from A to C is implied, and therefore not necessary to include in the diagram.
 
-<figure><img src="../.gitbook/assets/architecture-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/architecture-02.png" alt="Current-state project dependency graph for the InSite Code repository, colour-coded by system (God, Shift, General, Custom)"><figcaption></figcaption></figure>
 
 ## Constructive Criticism
 
@@ -61,7 +61,7 @@ I propose a "reset" in our thinking about General source code and God source cod
 
 To help clear and reset our thinking about General code and God code, the Overview diagram can be reimagined this way, with some added context for further clarity:
 
-<figure><img src="../.gitbook/assets/architecture-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/architecture-03.png" alt="Proposed future-state overview with God renamed to Archon (Arc) and General renamed to Tekton (Tek), each system split into API, UI, and Terminal components"><figcaption></figcaption></figure>
 
 ### God = Archon
 
@@ -87,7 +87,7 @@ Historically, we have taken a UI-first approach to our software development work
 
 In an ideal, perfect-world, future state, all functions in the UI should be available also in the API and in the console - which ensures a simpler, cleaner, and more testable architecture. Therefore, I propose a Terminal console app in all 3 core InSite systems.
 
-## Project Dependencies Revisted (Future State)
+## Project Dependencies Revisited (Future State)
 
 To understand more clearly how the current state evolves to the future state (eventually!), this diagram shows the proposed dependencies between projects in the [InSite Code repository](https://github.com/InSite/Code), with small boxes to show how existing projects move into the future state.
 
@@ -98,12 +98,12 @@ For example, in this future state we will see:
 * God code (i.e., the Archon system) provides platform-wide tools for InSite administrators and developers. For instance, it might perform data-integrity checks on all Shift partitions, propagate password changes for user accounts, and so on. (It is useful to note that Octopus could be configured to perform all such tasks, but in some cases these tasks will be easier to implement and maintain with our own source code.)
 * .NET Framework code will remain for a long time. When there is opportunity, such code can be ported to .NET Standard libraries, where it can be referenced by both .NET Core and .NET Framework projects.
 
-<figure><img src="../.gitbook/assets/architecture-04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/architecture-04.png" alt="Proposed future-state project dependency graph showing where existing projects move under Archon, Shift, Tekton, and Plugin"><figcaption></figcaption></figure>
 
 ### Clean Architecture
 
 The Clean Architecture pattern still has a role within the architecture of the system. Dependencies between classes in the UI, API, Service, and Contract libraries should be organized with Clean Architecture principles in mind. It is not always possible to follow these principles in a modular monolith, but when it is possible to do so, it is a good idea.
 
-<figure><img src="../.gitbook/assets/architecture-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/architecture-05.png" alt="Clean Architecture dependency rule diagram showing inward-only dependencies between UI, API, Service, and Contract layers"><figcaption></figcaption></figure>
 
 (More documentation is coming!)

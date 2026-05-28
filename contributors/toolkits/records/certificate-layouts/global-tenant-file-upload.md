@@ -14,17 +14,17 @@ Select Library → Tenants → \[desired tenant code] → Images (if not existin
 
 Example for IECBC tenant
 
-<figure><img src="../../../.gitbook/assets/global-tenant-file-upload-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/global-tenant-file-upload-01.png" alt="Global tenant file upload 01"><figcaption></figcaption></figure>
 
 Example for COTBC tenant
 
-<figure><img src="../../../.gitbook/assets/global-tenant-file-upload-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/global-tenant-file-upload-02.png" alt="Global tenant file upload 02"><figcaption></figcaption></figure>
 
 We upload our desired background certificate layout in that location:
 
 Example with COTBC tenant
 
-<figure><img src="../../../.gitbook/assets/global-tenant-file-upload-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/global-tenant-file-upload-03.png" alt="Global tenant file upload 03"><figcaption></figcaption></figure>
 
 To check if the background image is properly uploaded we follow this URL:
 

@@ -15,11 +15,12 @@ How to change the font color of the **Answer Options** in an **Survey**:
   .form-check-label { color: black; }
   </style>
   ```
+
 * You can change the color by typing the color name (e.g. black, red, blue) or adding the HTML color code (e.g. #060606, #F90F0F, #0F0FF9) after "**color:**".
   * For example: `color: blue` or `color: #060606`
 * Click **Save.**
 
-<figure><img src="../../.gitbook/assets/survey-content-font-colours-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/survey-content-font-colours-01.png" alt="Survey content font colours 01"><figcaption></figcaption></figure>
 
 > **Please note:** Adding this code to the survey will change the color for **all** answer options in the survey.
 
@@ -33,6 +34,6 @@ How to change the font color of the **Question Text** in a **Survey**:
   * For example: `color: blue` or `color: #060606`
 * Click **Save.**
 
-<figure><img src="../../.gitbook/assets/survey-content-font-colours-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/survey-content-font-colours-02.png" alt="Survey content font colours 02"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/survey-content-font-colours-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/survey-content-font-colours-03.png" alt="Survey content font colours 03"><figcaption></figcaption></figure>

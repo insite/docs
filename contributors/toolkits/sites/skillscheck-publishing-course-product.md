@@ -18,7 +18,7 @@ description: >-
   },
 ```
 
-<figure><img src="../../.gitbook/assets/skillscheck-publishing-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/skillscheck-publishing-01.png" alt="Skillscheck publishing 01"><figcaption></figcaption></figure>
 
 **Course/Assessment/Group creation instructions:**
 

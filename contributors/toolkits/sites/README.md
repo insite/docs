@@ -24,4 +24,4 @@ If you want to use one of the existing wallpaper images for a portal tile, go to
 
 There is no download option; if you want a copy of one of the image files there, click on it and choose the Open button. The image you selected will download to your download folder.
 
-<figure><img src="../../.gitbook/assets/sites-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sites-01.png" alt="Sites 01"><figcaption></figcaption></figure>

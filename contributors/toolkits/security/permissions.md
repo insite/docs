@@ -1,3 +1,9 @@
+---
+description: >-
+  How to check whether an identity user holds a specific TAction permission and
+  use the result to gate UI elements
+---
+
 # Permissions
 
 #### ClaimType.Action Permissions <a href="#permissions-claimtype.actionpermissions" id="permissions-claimtype.actionpermissions"></a>
@@ -14,7 +20,7 @@ Create Group: `contacts.Group entry` table
 
 > Best by SQL script
 
-Add accounts to this Group, and insert ActionIdentifire with GroupIdentifire in: `contacts.TGroupAction` table
+Add accounts to this Group, and insert ActionIdentifier with GroupIdentifier in: `contacts.TGroupAction` table
 
 After that you can simply check like this:
 

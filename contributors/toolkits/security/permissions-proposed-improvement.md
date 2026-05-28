@@ -1,3 +1,9 @@
+---
+description: >-
+  Design sketch for a more expressive permission model based on three explicit
+  attributes
+---
+
 # Permissions (Proposed Improvement)
 
 ## Permission Overview <a href="#permissions-proposedimprovement-permissionoverview" id="permissions-proposedimprovement-permissionoverview"></a>

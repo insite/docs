@@ -6,7 +6,7 @@ description: >-
 
 # Granting portal or design permission to roles
 
-## Portal Permissions:
+## Portal Permissions
 
 Note: Although "Portal" is a permission, it does not need to be granted to any role, as all users already have Portal access by default. The other Portal permissions do need to be granted to both Portal and Admin groups that want to access the specific functionality from the Portal side. (In other words, these prevent a portal user without permission from accessing the related action paths even if they have obtained the direct URL.)
 
@@ -19,7 +19,7 @@ Note: Although "Portal" is a permission, it does not need to be granted to any r
   * Portal/Jobs/Employers - give to admin and employer groups
 * Portal/Logbooks - give to admin, leaner and validator groups
 
-## Design Permissions:
+## Design Permissions
 
 These are meant to be restricted versions of our existing toolkits, for specific roles like Logbook validators, Attempt assessors, Gradebook instructors, and (soon) Content authors. Roles with these permissions see a custom view of the Admin home page, and can't navigate to other admin views.
 

@@ -9,9 +9,9 @@ description: >-
 I’ll be using Gradebook Search screen as an example
 
 1. Create an interface for the API Row model (ApiGradebookMatch) and API Query model (ApiSearchGradebooks)\
-   <figure><img src="../../../.gitbook/assets/search-api-models.jpg" alt=""><figcaption></figcaption></figure>
+   <figure><img src="../../../.gitbook/assets/search-api-models.jpg" alt="Search api models"><figcaption></figcaption></figure>
 2. Add search and download methods to the controller object:
-   <figure><img src="../../../.gitbook/assets/search-api-functions.jpg" alt=""><figcaption></figcaption></figure>
+   <figure><img src="../../../.gitbook/assets/search-api-functions.jpg" alt="Search api functions"><figcaption></figcaption></figure>
 
 3. Go to cacheKey.ts and add a new unique key to the union type CacheKey
 
@@ -19,8 +19,8 @@ I’ll be using Gradebook Search screen as an example
    This folder will contain code related to Gradebook Search form
 
 5. Create a new file GradebookRow.ts with interface GradebookRow and the function toGradebookRow\
-   - GradebookRow provides properties used by Result Grid.
-   - toGradebookRow converts ApiGradebookMatch to GradebookRow
+   * GradebookRow provides properties used by Result Grid.
+   * toGradebookRow converts ApiGradebookMatch to GradebookRow
 
 6. Create a new file GradebookCriteria.ts with the interface GradebookCriteria and functions defaultGradebookCriteria and toApiSearchGradebooks
 
@@ -33,4 +33,4 @@ I’ll be using Gradebook Search screen as an example
 10. Create a new file GradebookSearch.tsx that joins Search, Result, and Download components.
 
 11. Add a new Search form to routes in the file /src/routes/formRoutes.tsx:
-    <figure><img src="../../../.gitbook/assets/search-menu.jpg" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/search-menu.jpg" alt="Search menu"><figcaption></figcaption></figure>

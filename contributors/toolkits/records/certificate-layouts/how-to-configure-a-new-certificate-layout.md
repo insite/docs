@@ -8,11 +8,11 @@ description: >-
 
 Under our desired Tenant go to Records → Certificate Layouts
 
-<figure><img src="../../../.gitbook/assets/how-to-configure-a-new-certificate-layout-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/how-to-configure-a-new-certificate-layout-01.png" alt="How to configure a new certificate layout 01"><figcaption></figcaption></figure>
 
 If you want to edit a layout then select a layout code, but if you want to create completely new layout then we should select '**Add New Certificate Layout**'. It looks scary but it is not.
 
-<figure><img src="../../../.gitbook/assets/how-to-configure-a-new-certificate-layout-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/how-to-configure-a-new-certificate-layout-02.png" alt="How to configure a new certificate layout 02"><figcaption></figcaption></figure>
 
 Write the JSON for your new certificate. You need these properties: type, background, elements.
 
@@ -118,15 +118,15 @@ First part/section of elements as we is is of type text and it's value will be u
 
 Second part is about time of completion. The structure is exactly the same as the first part. Here we just describe the date time element value font size face and position. If we want to add additional values we need to confirm with dev team what other values can we present on Certificate layout.
 
-<figure><img src="../../../.gitbook/assets/how-to-configure-a-new-certificate-layout-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/how-to-configure-a-new-certificate-layout-03.png" alt="How to configure a new certificate layout 03"><figcaption></figcaption></figure>
 
-**Insert a new record in the Certificate Layout table (achievements.TCredentialLayout) - dprecated**
+**Insert a new record in the Certificate Layout table (achievements.TCredentialLayout) - deprecated**
 
 Edit the Achievement in the Records toolkit, and select the new Certificate Layout.
 
 After we successfully added our new Certificate Layout we should be able to edit our desired Achievement Template with a Drop Down selection
 
-<figure><img src="../../../.gitbook/assets/how-to-configure-a-new-certificate-layout-04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/how-to-configure-a-new-certificate-layout-04.png" alt="How to configure a new certificate layout 04"><figcaption></figcaption></figure>
 
 The URL in the Portal to view your certificate for a achievement looks like this:
 

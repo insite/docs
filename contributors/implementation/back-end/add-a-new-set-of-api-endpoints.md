@@ -16,7 +16,7 @@ Before you start, navigate to `ui/admin/metadata/entities/search` in your local 
 
 When you find the entity definition, make special note of the Component, Subcomponent, and Entity Name.
 
-<figure><img src="../../.gitbook/assets/back-end-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/back-end-01.png" alt="Back end 01"><figcaption></figcaption></figure>
 
 ### Prepare the code generator
 
@@ -48,7 +48,7 @@ Open your file explorer and navigate to the output folder. You should see 3 subf
 * **Contract**: Query and command classes, request and response classes, DTO classes
 * **Service**: Classes to read and write database entities, and adapters for entity/model conversion
 
-<figure><img src="../../.gitbook/assets/back-end-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/back-end-02.png" alt="Back end 02"><figcaption></figcaption></figure>
 
 ## Integrate the new classes
 
@@ -65,7 +65,7 @@ For example. copy File, FileActivity, and FileClaim folders&#x20;
 * from **Output/Contract/Content/Files**&#x20;
 * to **code/src/library/Shift.Sdk/Contract/Content/Files**
 
-<figure><img src="../../.gitbook/assets/code-generation-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/code-generation-01.png" alt="Code generation 01"><figcaption></figcaption></figure>
 
 Build the solution to ensure no compiler errors.
 
@@ -80,11 +80,11 @@ Copy from the output folder to the Service project.
 For example, copy the Data folder
 
 * from **Output/Service/Content/Files**
-* to **code/src/library/Shift.Service/Conent/Files**
+* to **code/src/library/Shift.Service/Content/Files**
 
-<figure><img src="../../.gitbook/assets/code-generation-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/code-generation-02.png" alt="Code generation 02"><figcaption></figcaption></figure>
 
-In the output folder, navigate to the Service/Orchecestration subfolder and open the TableDbContext class.
+In the output folder, navigate to the Service/Orchestration subfolder and open the TableDbContext class.
 
 Find the entity type configuration code and copy this to TableDbContext in the Shift.Service library.
 
@@ -119,9 +119,9 @@ Copy from the output folder to the Api project.
 For example, copy the Data folder
 
 * from **Output/Api/Content/Files**
-* to **code/src/library/Shift.Api/Conent/Files**
+* to **code/src/library/Shift.Api/Content/Files**
 
-<figure><img src="../../.gitbook/assets/code-generation-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/code-generation-03.png" alt="Code generation 03"><figcaption></figcaption></figure>
 
 Build the solution to ensure no compiler errors.
 
@@ -139,13 +139,13 @@ The generated code provides some guidance and advice, but the details are for yo
 
 For example:
 
-<figure><img src="../../.gitbook/assets/back-end-04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/back-end-04.png" alt="Back end 04"><figcaption></figcaption></figure>
 
 ### Remove organization identifier properties from models
 
 Every API request is authenticated with an access key that identifies the user and the organization submitting the request. Therefore, the organization identifier is not needed in an API response, because it is redundant to the client.
 
-<figure><img src="../../.gitbook/assets/back-end-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/back-end-03.png" alt="Back end 03"><figcaption></figcaption></figure>
 
 ### Rename Identifier suffixes to Id in model property names
 
@@ -192,5 +192,4 @@ Open the Shift collection in Insomnia, and add requests to test and confirm the 
 
 For example:
 
-<figure><img src="../../.gitbook/assets/code-generation-04.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../.gitbook/assets/code-generation-04.png" alt="Code generation 04"><figcaption></figcaption></figure>

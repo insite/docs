@@ -42,15 +42,15 @@ Interface layouts should be optimized for conversion while providing sufficient 
 
 # Admin page layout guidelines
 
-- [Admin Portal](#admin-portal)
-  - [Simple Input Screens](#simple-input-screens)
-  - [Outline Pages](#outline-pages)
-  - [Cards with Search Results](#cards-with-search-results)
-  - [Cards with Inputs](#cards-with-inputs)
+* Admin Portal
+  * [Simple Input Screens](#simple-input-screens)
+  * [Outline Pages](#outline-pages)
+  * [Cards with Search Results](#cards-with-search-results)
+  * [Cards with Inputs](#cards-with-inputs)
 
 On this page we focus on describing a set of guidelines on how to place buttons on different screens in different *boxes* from the admin site.
 
-> **Note**  
+> **Note**
 > This is just a **Draft**. Let us all collaborate on achieving the best possible outcome and create the best standards together for button placement.
 
 ---
@@ -59,11 +59,12 @@ On this page we focus on describing a set of guidelines on how to place buttons 
 
 **Description:**
 
-Every normal input screen like **Create**, **Edit**, **Change/Update (from Outline)** or **Delete** can be done using this approach:  
-- Input fields are implemented in different cards with additional titles and description (if necessary).  
-- Main action buttons for **Saving/Updating** or **Canceling** should be placed in the **bottom left**.
+Every normal input screen like **Create**, **Edit**, **Change/Update (from Outline)** or **Delete** can be done using this approach:
 
-⚠️ If screens are longer and buttons don’t fit, try to make the buttons **sticky at the bottom of the screen**.  
+* Input fields are implemented in different cards with additional titles and description (if necessary).
+* Main action buttons for **Saving/Updating** or **Canceling** should be placed in the **bottom left**.
+
+⚠️ If screens are longer and buttons don’t fit, try to make the buttons **sticky at the bottom of the screen**.
 [Reference: Position sticky button bar (bottom)](https://codepen.io/jaakritso/pen/zMXRaw)
 
 **Examples:**
@@ -73,14 +74,14 @@ Every normal input screen like **Create**, **Edit**, **Change/Update (from Outli
 | ![Edit Seat — bottom-left Save/Cancel](https://github.com/user-attachments/assets/54583a6f-9a36-4a9e-9a3a-b1607c4f8c29) | ![Schedule a New Class — bottom-left Save/Cancel](https://github.com/user-attachments/assets/3947dbb0-9449-4abd-b84e-bda3e912ba41) |
 | ![Describe Class — bottom-left Save/Cancel](https://github.com/user-attachments/assets/af93fba0-142d-484c-87bf-251f60eb87dd) | ![Delete Person — bottom-left Delete/Cancel](https://github.com/user-attachments/assets/c597d148-d60e-497e-b652-3eecffd289dc) |
 
-
 ## Outline Pages
 
 **Description:**
 
-An outline page displays combined information for a specific *Toolkit Object*.  
-- The practice so far: keep all **outline object control buttons** on the **top left**.  
-- The entirety of the information is locked within one card and separated with grouping dividers.
+An outline page displays combined information for a specific *Toolkit Object*.
+
+* The practice so far: keep all **outline object control buttons** on the **top left**.
+* The entirety of the information is locked within one card and separated with grouping dividers.
 
 **Examples:**
 
@@ -90,27 +91,26 @@ An outline page displays combined information for a specific *Toolkit Object*.
 |---|---|
 | ![Class Outline — top-left action buttons](https://github.com/user-attachments/assets/45c1c5bc-06f8-439f-bdf8-86358a5cbb47) | ![Outline — 2020 ISO Policies with top-left action buttons](https://github.com/user-attachments/assets/9deaf45e-5aa3-405e-9148-004ccb7d8b58) |
 
-
 ## Cards with Search Results
 
 **Description:**
 
-Some cards may gather and display data in a *Search Results* way. These cards usually:  
-- Have a **Card Title** or **Filter** on the **top left**.  
-- Include additional **Action Buttons** (e.g., Downloading, Adding to results) on the **top right**.  
-- Item rows may include action links/buttons such as **View/Edit/Delete**, placed on the **right side** of the item row.
+Some cards may gather and display data in a *Search Results* way. These cards usually:
+
+* Have a **Card Title** or **Filter** on the **top left**.
+* Include additional **Action Buttons** (e.g., Downloading, Adding to results) on the **top right**.
+* Item rows may include action links/buttons such as **View/Edit/Delete**, placed on the **right side** of the item row.
 
 | | |
 |---|---|
 | <img width="1903" height="454" alt="image" src="https://github.com/user-attachments/assets/d95f1704-389d-4cb5-bf5e-43d732e5ccaa" /> | <img width="1891" height="643" alt="image" src="https://github.com/user-attachments/assets/01c38731-5b97-42fe-b96e-55072cac5157" /> |
 | <img width="947" height="367" alt="image" src="https://github.com/user-attachments/assets/115bb8b8-6202-4b9d-803d-8b20e90a4828" /> | <img width="1891" height="425" alt="image" src="https://github.com/user-attachments/assets/a6bc7eb8-04df-4603-aae4-4fa333097174" /> |
 
-
 ## Cards with Inputs
 
 **Description:**
 
-Some cards, in addition to regular **Save/Update/Delete** actions, may have extra actions such as adding data to a *Toolkit Object*.  
+Some cards, in addition to regular **Save/Update/Delete** actions, may have extra actions such as adding data to a *Toolkit Object*.
 Example: a card with an **Upload** button. (Placement for this is still under discussion.)
 
 **Examples:**
@@ -133,7 +133,6 @@ Example: a card with an **Upload** button. (Placement for this is still under di
 
 The topic was discussed here: [DEV-5903: Upgrade UI\Desktops\Admin\Courses2\Manage.aspx from B3 to B5
 Closed](https://insite.atlassian.net/browse/DEV-5903)
-  
 
 If the form has nested tabs then:
 
@@ -144,4 +143,4 @@ If the form has nested tabs then:
 
 ## Delete
 
-For delete checkbox we need to use 
+For delete checkbox we need to use

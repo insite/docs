@@ -155,7 +155,7 @@ SomeMethod(
    `doSomething();`
 3. Always wrap the code block in braces, even if it is one-line code.\
    `if (isLoading) {`\
-   `    return;`\
+   `return;`\
    `}`
 4. Use a Pascal Case for TSX file names:\
    `AdminGradebookSearch.tsx`
@@ -169,7 +169,7 @@ SomeMethod(
    `...`
 7. Use a Camel Case for variable names, parameters, and function names:\
    `function doSomething(param1: string) {`\
-   `    const localVariable1 = "hello world";`\
+   `const localVariable1 = "hello world";`\
    `}`
 8. Use underscore when the global variable is defined:\
    `let _queryResult: QueryResult<GradebookRow, GradebookFilter> | null = null;`

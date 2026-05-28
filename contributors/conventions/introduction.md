@@ -185,13 +185,13 @@ When the UI needs a new query from the API, the procedure to implement a new que
 
 Here is an example:
 
-#### Step 1. Define a query class and a result class.
+#### Step 1. Define a query class and a result class
 
 For example, these two classes might be written in a Contract library.
 
 ```csharp
 public class SearchDistinctBirthdateYears : Query<DistinctBirthdateYear[]>
-{	
+{ 
   public int? SinceYear { get; set; }
   public int? BeforeYear { get; set; }
 }
@@ -203,7 +203,7 @@ public class DistinctBirthdateYear
 }
 ```
 
-#### Step 2. Implement a function to execute the query.
+#### Step 2. Implement a function to execute the query
 
 For example, this function might be added to a Search class in a Service library.
 
@@ -234,7 +234,7 @@ public DistinctBirthdateYear[] Execute(SearchDistinctBirthdateYears query)
 }
 ```
 
-#### Step 3. Register the function.
+#### Step 3. Register the function
 
 For example, this line of code might be added to the Search class constructor from Step 2.
 
@@ -301,10 +301,6 @@ This general-purpose endpoint is designed to handle any Timeline command, where 
 
 When the UI needs a new query from the API, the procedure to implement a new command is the same procedure that we follow to implement any new command that follows the CQRS+ES pattern.
 
-### Using api/react/commands
-
-(Documentation in progress.)
-
 ## Monitoring and Measuring API Usage
 
 This is NOT yet implemented, but is it very important to do so. I propose the following requirements for our implementation:
@@ -349,25 +345,25 @@ SELECT * FROM contacts.TPersonSecret;
 
 Step 2. Start the API.
 
-<figure><img src="../.gitbook/assets/introduction-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/introduction-01.png" alt="Introduction 01"><figcaption></figcaption></figure>
 
 Step 3. Start Insomnia and edit the Base Environment settings. Confirm your host is correct.
 
-<figure><img src="../.gitbook/assets/introduction-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/introduction-02.png" alt="Introduction 02"><figcaption></figcaption></figure>
 
 Step 4. Send the request named "Get API status" (`api/status`) to confirm the API is running. This is a health-check endpoint, and it does not require authentication or authorization.
 
 Step 5. Click the Body tab for the request named "Generate API token" (`api/token`). Confirm your secret is correct.
 
-<figure><img src="../.gitbook/assets/introduction-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/introduction-03.png" alt="Introduction 03"><figcaption></figcaption></figure>
 
 Step 6. Send the `api/token` request. Copy and paste the response (an encoded JWT) to your Base Environment settings.
 
-<figure><img src="../.gitbook/assets/introduction-04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/introduction-04.png" alt="Introduction 04"><figcaption></figcaption></figure>
 
 Step 7. Use the request named "Test authorization header" (`api/debug/token`) to confirm the API correctly decodes your Bearer authorization token.
 
-<figure><img src="../.gitbook/assets/introduction-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/introduction-05.png" alt="Introduction 05"><figcaption></figcaption></figure>
 
 ### Next Steps
 
@@ -377,4 +373,5 @@ These endpoints are available to test and explore the API:
 * `api/debug/resources` - List all resources for which permissions are specified. These are determined by the Permissions section in appsettings.json.
 * `api/debug/permissions` - List all permissions granted. These are determined by the Permissions section in appsettings.json.
 </content>
+
 </invoke>

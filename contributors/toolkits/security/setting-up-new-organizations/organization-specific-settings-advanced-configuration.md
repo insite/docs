@@ -1,9 +1,5 @@
 # Organization Specific Settings (Advanced Configuration)
 
-
-
-
-
 * Assessments
   * LockPublishedQuestions (true/false)
   * DisableStrictQuestionCompetencySelection (true/false)
@@ -38,16 +34,14 @@
 
 [**Organization Specific Settings**](https://e02.insite.com/ui/admin/accounts/organizations/search)
 
-
-
 #### LockPublishedQuestions (true/false) <a href="#organizationspecificsettings-advancedconfiguration-lockpublishedquestions-true-false" id="organizationspecificsettings-advancedconfiguration-lockpublishedquestions-true-false"></a>
 
-If this setting is set to "true" and Admin is not able to edit a question that has been published. The edit icon () will not be visisble. If setting is set to "false" then the edit icon () will be visible.
+If this setting is set to "true" and Admin is not able to edit a question that has been published. The edit icon () will not be visible. If setting is set to "false" then the edit icon () will be visible.
 
 * **Page URL:** /ui/admin/assessments/banks/outline
 * **Page URL:** /ui/admin/assessments/forms/workshop
 
-```
+```text
 "LockPublishedQuestions": false,
 ```
 
@@ -57,7 +51,7 @@ This setting allows Administrators to attach Competencies to a question that is 
 
 * **Page URL:** /ui/admin/assessments/questions/change
 
-```
+```text
 "DisableStrictQuestionCompetencySelection": true,
 ```
 
@@ -65,7 +59,7 @@ This setting allows Administrators to attach Competencies to a question that is 
 
 * **Page URL:** /ui/admin/assessments/questions/change
 
-```
+```text
 "EnableQuestionSubCompetencySelection": true,
 ```
 
@@ -77,7 +71,7 @@ If **AttemptGradingAssessor** is set to “**true**”, then a Group = Role for 
 
 * **Page URL:** /ui/admin/assessments/attempts/reports/search
 
-```
+```text
 "AttemptGradingAssessor": true,
 ```
 
@@ -91,7 +85,7 @@ When the Setting is Set to "False", all rubric scores are cleared when an attemp
 
 * **Page URL:** /ui/admin/assessments/attempts/grade
 
-```
+```text
 "RubricReGradeKeepInitialScores": false,
 ```
 
@@ -105,7 +99,7 @@ When the setting is set to “true”, then Full Name and Person Code will be vi
 
 **Page URL:** /ui/admin/assessments/assessor/grade
 
-```
+```text
 "ShowPersonNameToGradingAssessor": false
 ```
 
@@ -113,22 +107,14 @@ When the setting is set to “true”, then Full Name and Person Code will be vi
 
 [**Organization Specific Settings**](https://global.insite.com/ui/admin/accounts/organizations/search)
 
-
-
 #### OrganizationIndustry (Industry Specialist) <a href="#organizationspecificsettings-advancedconfiguration-organizationindustry-industryspecialist" id="organizationspecificsettings-advancedconfiguration-organizationindustry-industryspecialist"></a>
 
 * **Page URL:** /ui/admin/contacts/people/edit
 * Display Custom Fields card in users contact record
 
-
-
 * Display Jobs Access checkbox
 
-
-
 #### Full Name Policy <a href="#organizationspecificsettings-advancedconfiguration-fullnamepolicy" id="organizationspecificsettings-advancedconfiguration-fullnamepolicy"></a>
-
-
 
 The Full Name Policy allows Organizations to specify the pattern to be used for Full Names in Shift iQ
 
@@ -139,7 +125,7 @@ The Full Name Policy allows Organizations to specify the pattern to be used for 
 
 **Example:**
 
-```
+```text
 "FullNamePolicy": "{First} {Middle} {Last}"
 ```
 
@@ -151,7 +137,7 @@ When **AutomaticGroupJoin** is set with a **Group Unique Identifier**, every con
 
 **Example:**
 
-```
+```text
 "AutomaticGroupJoin": "0c57b958-d894-4ff1-be42-b0050009fc1f"
 ```
 
@@ -169,31 +155,23 @@ If the org wants to have their own terminology used instead of “Person Code”
 
 [**Organization Specific Settings**](https://global.insite.com/ui/admin/accounts/organizations/search)
 
-
-
 #### ShowUnapplicableSeats (true/false) <a href="#organizationspecificsettings-advancedconfiguration-showunapplicableseats-true-false" id="organizationspecificsettings-advancedconfiguration-showunapplicableseats-true-false"></a>
 
 Display all seats or only seats applicable to user during Class Registration.
 
 * **Page URL:** /ui/portal/events/classes/register
 
-
-
 #### DisableClassExams (true/false) <a href="#organizationspecificsettings-advancedconfiguration-disableclassexams-true-false" id="organizationspecificsettings-advancedconfiguration-disableclassexams-true-false"></a>
 
-Dsiplay/Hide Assessment Form column and Exam Password
+Display/Hide Assessment Form column and Exam Password
 
 * **Page URL:** /ui/admin/events/classes/outline
-
-
 
 #### AllowUsersRegisterEmployees (true/false) <a href="#organizationspecificsettings-advancedconfiguration-allowusersregisteremployees-true-false" id="organizationspecificsettings-advancedconfiguration-allowusersregisteremployees-true-false"></a>
 
 Display/Hide the Register Employees button
 
-* **Page URL:** ui/protal/classes/outline
-
-
+* **Page URL:** ui/portal/classes/outline
 
 #### AllowUserAccountCreationDuringRegistration (true/false) <a href="#organizationspecificsettings-advancedconfiguration-allowuseraccountcreationduringregistration-true-f" id="organizationspecificsettings-advancedconfiguration-allowuseraccountcreationduringregistration-true-f"></a>
 
@@ -201,15 +179,11 @@ Display/Hide the Register New Employee link during class registration.
 
 * **Page URL:** /ui/portal/events/classes/register-employee
 
-
-
 #### CompanySelectionAndCreationDisabledDuringRegistration (true/false) <a href="#organizationspecificsettings-advancedconfiguration-companyselectionandcreationdisabledduringregistra" id="organizationspecificsettings-advancedconfiguration-companyselectionandcreationdisabledduringregistra"></a>
 
 Allow or Disallow the selection and creation of Employers during class registration.
 
 * **Page URL:** /ui/portal/events/classes/register
-
-
 
 #### AllowClassRegistrationFields (true/false) <a href="#organizationspecificsettings-advancedconfiguration-allowclassregistrationfields-true-false" id="organizationspecificsettings-advancedconfiguration-allowclassregistrationfields-true-false"></a>
 
@@ -217,40 +191,28 @@ Turn on/off the Class Settings tab, so that administrators can set what fields s
 
 * **Page URL:** /ui/admin/events/classes/outline
 
-
-
 #### Class Registration Account Panel <a href="#organizationspecificsettings-advancedconfiguration-classregistrationaccountpanel" id="organizationspecificsettings-advancedconfiguration-classregistrationaccountpanel"></a>
 
 We are able to add/remove fields under the Accounts panel on the Class Registration page.
 
-To add/remove fields, open the Organization settings and select the different fields under the Fileds and Class Registration tab.
-
-
+To add/remove fields, open the Organization settings and select the different fields under the Fields and Class Registration tab.
 
 ### Portals <a href="#organizationspecificsettings-advancedconfiguration-portals" id="organizationspecificsettings-advancedconfiguration-portals"></a>
 
 [**Organization Specific Settings**](https://global.insite.com/ui/admin/accounts/organizations/search)
 
-
-
 #### ShowMyDashboard (true/false) <a href="#organizationspecificsettings-advancedconfiguration-showmydashboard-true-false" id="organizationspecificsettings-advancedconfiguration-showmydashboard-true-false"></a>
 
 * **Page URL:** /ui/portal/reports/dashboard/account-settings
-
-
 
 ### Surveys <a href="#organizationspecificsettings-advancedconfiguration-surveys" id="organizationspecificsettings-advancedconfiguration-surveys"></a>
 
 [**Organization Specific Settings**](https://global.insite.com/ui/admin/accounts/organizations/search)
 
-
-
 * **EnableUserConfidentiality (true/false)**
   * **Page URL:** /ui/admin/surveys/forms/outline
 * **LockUserConfidentiality (true/false)**
   * **Page URL:** /ui/admin/surveys/forms/outline
-
-
 
 ### Integrations <a href="#organizationspecificsettings-advancedconfiguration-integrations" id="organizationspecificsettings-advancedconfiguration-integrations"></a>
 
@@ -260,7 +222,7 @@ To add/remove fields, open the Organization settings and select the different fi
 
 Sends Eligibility status of class registrants to Prometric.
 
-```
+```text
 "Prometric": {
       "ClientCode": "ProgramID",
       "UserName": "UserName",
@@ -268,22 +230,18 @@ Sends Eligibility status of class registrants to Prometric.
     },
 ```
 
-
-
 The ProgramID, UserName and Password needs to be provided to Shift iQ by Prometric or the Organization using Prometric.
 
 #### SCORM <a href="#organizationspecificsettings-advancedconfiguration-scorm" id="organizationspecificsettings-advancedconfiguration-scorm"></a>
 
 SCORM Cloud login credentials (**AppId** and **Secret Key**) can be found here: [https://app.cloud.scorm.com/sc/user/Apps](https://app.cloud.scorm.com/sc/user/Apps)
 
-```
+```text
 "ScormCloud": {
       "UserName": "",
       "Password": ""
     }
 ```
-
-
 
 ### Sign-In Page <a href="#organizationspecificsettings-advancedconfiguration-sign-inpage" id="organizationspecificsettings-advancedconfiguration-sign-inpage"></a>
 
@@ -291,24 +249,18 @@ After the 25.1 release (February 19, 2025), the Google and Microsoft Sign-In but
 
 **URL: /ui/lobby/signin**
 
-
-
-```
+```text
 "SignIn": {
       "AllowGoogleSignIn": false,
       "AllowMicrosoftSignIn": false
     }
 ```
 
-
-
 ### NCSHA <a href="#organizationspecificsettings-advancedconfiguration-ncsha" id="organizationspecificsettings-advancedconfiguration-ncsha"></a>
 
 In the fall, NCSHA will request that this setting is turned to true so their users can see the newly published reports. Shortly after Jan 1 of each year, change this setting back to FALSE so users can’t see the newly previous year. Also add the new year as a period early in the new year.
 
-
-
-```
+```text
 "NCSHA": {
   "ShowLastYearToEveryone": false
   },

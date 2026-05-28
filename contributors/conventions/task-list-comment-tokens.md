@@ -22,8 +22,6 @@ Here is a list of color-coded tokens used the source code for this platform.
 // WTF: WHAT THE ****?
 ```
 
-
-
 🟠 **ORANGE** code works but is not right:
 
 ```csharp
@@ -41,7 +39,7 @@ Here is a list of color-coded tokens used the source code for this platform.
 // SMELLS: Same as FIXME.
 ```
 
-\
+\
 🔵 **BLUE** code works but needs more features or more explaining:
 
 ```csharp
@@ -55,7 +53,7 @@ Here is a list of color-coded tokens used the source code for this platform.
 
 The [Task List](https://learn.microsoft.com/en-us/visualstudio/ide/using-the-task-list?view=vs-2022) tool in Visual Studio lets you track code comments that use tokens like `TODO` and `HACK` or custom tokens. For example:
 
-<figure><img src="../.gitbook/assets/contributor-01.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/contributor-01.jpg" alt="Contributor 01"><figcaption></figcaption></figure>
 
 ## VS Code
 
@@ -65,4 +63,4 @@ VS Code does not natively support Task List comment tokens in the same way as Vi
 
 You can define additional tags in the extension settings, and you can also define your own styles, regexes, and folders to include/exclude. For example:
 
-<figure><img src="../.gitbook/assets/contributor-02.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/contributor-02.jpg" alt="Contributor 02"><figcaption></figcaption></figure>

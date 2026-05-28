@@ -1,3 +1,9 @@
+---
+description: >-
+  How to grant and use the Impersonate permission so staff can act on behalf of
+  another user
+---
+
 # Impersonations
 
 ### Adding Impersonate Permissions to an Organization <a href="#impersonations-addingimpersonatepermissionstoanorganization" id="impersonations-addingimpersonatepermissionstoanorganization"></a>
@@ -11,10 +17,6 @@ On the **Admin Home Page**, select **Settings** Toolkit
 Select the **Actions** counter and under the Criteria tab search for **Action URL = impersonate**\
 Click on the Action URL (**ui/portal/accounts/users/impersonate**)
 
-
-
 Under the **Permissions** tab, select **Add Permission**
-
-
 
 Select the **Group** within the **Organization** that you would like to give this permission to and select **Save**

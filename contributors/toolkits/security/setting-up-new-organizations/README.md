@@ -1,3 +1,9 @@
+---
+description: >-
+  End-to-end checklist for provisioning a new customer organization in Jira,
+  Microsoft Teams, and Shift iQ
+---
+
 # Setting Up New Organizations
 
 ### New Account Setup in Jira <a href="#settingupneworganizations-newaccountsetupinjira" id="settingupneworganizations-newaccountsetupinjira"></a>
@@ -36,7 +42,7 @@
     * Automatically grant Portal (learner) access to self-registered users - select if account doesn’t want to review self-registered new user accounts before they have access to a portal (if selected, ensure account is configured to give something to new users, not just a blank portal; if unselected, ensure account has the **AccessRequested** alert configured)
     * Settings card can be ignored
   *
-  * **Advanced** subtab, see [Advanced configuration](../../../../../components/utility-components/security/setting-up-new-organizations/broken-reference/) topic
+  * **Advanced** subtab, see [Organization Specific Settings (Advanced Configuration)](organization-specific-settings-advanced-configuration.md) topic
 * Configuration for desired New User Journey
 *
   * Do they want the New Users tab visible or not

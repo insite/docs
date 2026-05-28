@@ -1,3 +1,7 @@
+---
+description: Global admins can override the default Gender list in a users contact record and it can be added for a specific tenant if needed.
+---
+
 # Organization Collections
 
 ### Define Custom Gender list <a href="#organizationcollections-definecustomgenderlist" id="organizationcollections-definecustomgenderlist"></a>
@@ -26,13 +30,12 @@ When creating a New Document on the portal, there are 6 types of documents that 
 * Occupation Profile
 * Skills Checklist
 
-We are able to customize this list for Orginazations so they they only see the document types they are using.
+We are able to customize this list for Organizations so they they only see the document types they are using.
 
-In the **Accounts** Toolkit, open the **Orginazations** counter and search for the Orginaztation you would like to update the list for.
+In the **Accounts** Toolkit, open the **Organizations** counter and search for the Organization you would like to update the list for.
 
 Under the **Collections** tab, select **Standards/Document/Type** from the dropdown menu below the **Collection** field.
 
-Click on the Plus icon \<i class="fa fa-plus-circle" aria-hidden="true">\</i> next to the Item field, this will create the text boxes where you can enter the document types required by the Orginazation. After adding the required documents, click **Save**.
+Click on the Plus icon \<i class="fa fa-plus-circle" aria-hidden="true">\</i> next to the Item field, this will create the text boxes where you can enter the document types required by the Organization. After adding the required documents, click **Save**.
 
 Only the documents you added to the **Standards/Document/Type** list will appear in the New Document field on the portal.
-

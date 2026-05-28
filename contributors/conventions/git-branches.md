@@ -8,7 +8,7 @@ description: >-
 
 This article describes the purpose for each branch in the InSite Code repository, and the naming conventions for each branch.
 
-<figure><img src="../.gitbook/assets/git-branches-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/git-branches-01.png" alt="Branch model diagram showing master, hotfix, develop, and release branches with their parent-child relationships"><figcaption></figcaption></figure>
 
 ## master
 

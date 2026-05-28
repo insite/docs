@@ -17,13 +17,13 @@ We have two kinds of obsolete Changes:
 2. Create the list of obsolete changes
 3. Register this list in the Projector's class constructor:
 
-   <figure><img src="../.gitbook/assets/obsolete-timeline-01.png" alt=""><figcaption></figcaption></figure>
+   <figure><img src="../.gitbook/assets/obsolete-timeline-01.png" alt="Obsolete timeline 01"><figcaption></figcaption></figure>
 4. Add a new Handle method for SerializedChange to the Projector class:
 
-   <figure><img src="../.gitbook/assets/obsolete-timeline-02.png" alt=""><figcaption></figcaption></figure>
+   <figure><img src="../.gitbook/assets/obsolete-timeline-02.png" alt="Obsolete timeline 02"><figcaption></figcaption></figure>
 5. Add a new When method to the State class, it will intercept all obsolete changes:
 
-   <figure><img src="../.gitbook/assets/obsolete-timeline-03.png" alt=""><figcaption></figcaption></figure>
+   <figure><img src="../.gitbook/assets/obsolete-timeline-03.png" alt="Obsolete timeline 03"><figcaption></figcaption></figure>
 
 ## The Change should be upgraded to a new version
 
@@ -31,14 +31,14 @@ Lets assume we have the change **AttemptStarted1** and it needs to be marked as 
 
 1. Make **AttemptStarted1** as a private nested class of **AttemptStarted2** and implement a new Upgrade method that will convert AttemptStarted1 to AttemptStarted2:
 
-   <figure><img src="../.gitbook/assets/obsolete-timeline-04.png" alt=""><figcaption></figcaption></figure>
+   <figure><img src="../.gitbook/assets/obsolete-timeline-04.png" alt="Obsolete timeline 04"><figcaption></figcaption></figure>
 2. Delete all functionality related to **AttemptStarted1**
 3. In the AttemptChangeProjector register AttemptStarted1 as an obsolete change:
 
-   <figure><img src="../.gitbook/assets/obsolete-timeline-05.png" alt=""><figcaption></figcaption></figure>
+   <figure><img src="../.gitbook/assets/obsolete-timeline-05.png" alt="Obsolete timeline 05"><figcaption></figcaption></figure>
 4. Add a new Handle method in the Projector class that will upgrade **AttemptStarted1** to **AttemptStarted2** and call Handle for **AttemptStarted2**:
 
-   <figure><img src="../.gitbook/assets/obsolete-timeline-06.png" alt=""><figcaption></figcaption></figure>
+   <figure><img src="../.gitbook/assets/obsolete-timeline-06.png" alt="Obsolete timeline 06"><figcaption></figcaption></figure>
 5. Add a new When method to AttemptState that will upgrade **AttemptStarted1** to **AttemptStarted2** and call When for **AttemptStarted2**:
 
-   <figure><img src="../.gitbook/assets/obsolete-timeline-07.png" alt=""><figcaption></figcaption></figure>
+   <figure><img src="../.gitbook/assets/obsolete-timeline-07.png" alt="Obsolete timeline 07"><figcaption></figcaption></figure>

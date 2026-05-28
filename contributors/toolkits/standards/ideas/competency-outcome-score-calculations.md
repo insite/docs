@@ -23,13 +23,13 @@ Project goals and metrics to determine success.
 
 ## Assumptions
 
-- While this feature has not been requested _directly_ from our customers, there is an assumption through conversations with customers (USU, CBExchange etc.) that this is a core feature for a true Competency-based LMS.
-  - _We are assuming that having this functionality in place will make the core product more valuable to our prospective (and some of our existing) customers._
-  - _Waiting for customers to completely drive requirements and a solution to this problem has not proven successful. We should have an MVP in place to prove that this is possible in Shift._
-- We _**do not**_ need to be tightly aligned to Canvas. Rather, we can use Canvas to understand how an LMS has implemented outcome / competency calculations, ensuring it works for Shift / our customers at all times.
-- Note: we documented a related issue with Logbooks where it was hypothesised that we should display the most recent status of validated competencies instead of the "highest". However, as noted during investigation in the comments of this task - we should heed caution with changing the logic here and ensure alignment with assessments:
-  - [https://insite.atlassian.net/browse/DEV-10528](https://insite.atlassian.net/browse/DEV-10528)
-    - _**Some analysis competed via the above issue that should be incorporated into this document.**_
+* While this feature has not been requested _directly_ from our customers, there is an assumption through conversations with customers (USU, CBExchange etc.) that this is a core feature for a true Competency-based LMS.
+  * _We are assuming that having this functionality in place will make the core product more valuable to our prospective (and some of our existing) customers._
+  * _Waiting for customers to completely drive requirements and a solution to this problem has not proven successful. We should have an MVP in place to prove that this is possible in Shift._
+* We _**do not**_ need to be tightly aligned to Canvas. Rather, we can use Canvas to understand how an LMS has implemented outcome / competency calculations, ensuring it works for Shift / our customers at all times.
+* Note: we documented a related issue with Logbooks where it was hypothesised that we should display the most recent status of validated competencies instead of the "highest". However, as noted during investigation in the comments of this task - we should heed caution with changing the logic here and ensure alignment with assessments:
+  * [https://insite.atlassian.net/browse/DEV-10528](https://insite.atlassian.net/browse/DEV-10528)
+    * _**Some analysis competed via the above issue that should be incorporated into this document.**_
 
 ## Requirements
 
@@ -51,19 +51,19 @@ Add links, documents etc. that support development or help the team more deeply 
 
 From the email sent on "Fri 10/8/2021 1:25 PM"
 
-- _Canvas Outcomes 2019-2020:_ Example of the report that MPH has been receiving after much data manipulation.
-- _Outcome\_results\_csv_: The Canvas account-level CSV "Outcome results" report.
-- _Outcomes-Fall\_2020\_HEP-6550…_: The Mastery Gradebook CSV export, from Canvas at the course level.
-- _Outcome\_export_: All outcomes from the KHS subaccount
-- _Student\_assignment_: The Canvas account-level "Student Compentency" report.
+* _Canvas Outcomes 2019-2020:_ Example of the report that MPH has been receiving after much data manipulation.
+* _Outcome\_results\_csv_: The Canvas account-level CSV "Outcome results" report.
+* _Outcomes-Fall\_2020\_HEP-6550…_: The Mastery Gradebook CSV export, from Canvas at the course level.
+* _Outcome\_export_: All outcomes from the KHS subaccount
+* _Student\_assignment_: The Canvas account-level "Student Compentency" report.
 
 Attached files:
 
-- Canvas Outcomes - 2019-2020.xlsx
-- student_assignment_outcome_map_csv_08_Oct_2021_420220211008-104587-xr30si.csv
-- Outcomes-Fall_2020_HEP-6550-LO1_XL.csv
-- outcome_results_csv_07_Feb_2020_396320200207-9660-vo4qya.csv
-- outcome_export_csv_08_Oct_2021_420120211008-106631-1dlzsuu.csv
+* Canvas Outcomes - 2019-2020.xlsx
+* student_assignment_outcome_map_csv_08_Oct_2021_420220211008-104587-xr30si.csv
+* Outcomes-Fall_2020_HEP-6550-LO1_XL.csv
+* outcome_results_csv_07_Feb_2020_396320200207-9660-vo4qya.csv
+* outcome_export_csv_08_Oct_2021_420120211008-106631-1dlzsuu.csv
 
 From the email sent on "Mon 10/18/2021 5:20 PM":
 
@@ -71,13 +71,13 @@ From the email sent on "Mon 10/18/2021 5:20 PM":
 >
 > Their outcomes data website is a beauty to behold: [https://biology.usu.edu/assessment\_files/undergrad\_assessment/outcomes\_data](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbiology.usu.edu%2Fassessment_files%2Fundergrad_assessment%2Foutcomes_data&data=04%7C01%7Caleksey%40insite.com%7C231f4dd25b8e4822cb0d08d9928dc548%7C926e6a06be7e47539a3f50d1842137ca%7C0%7C0%7C637701960153920373%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=AembdjVPgMYXeRuaEe%2FTXqKXmsKCe9V1S64aZ6WNyi4%3D&reserved=0)
 >
-> - It's worth noting that this was spearheaded by one of the faculty we worked with for the original CBE project that brought us all together. She would probably be a great collaborator to bring into our conversations.
+> * It's worth noting that this was spearheaded by one of the faculty we worked with for the original CBE project that brought us all together. She would probably be a great collaborator to bring into our conversations.
 >
 > Also attached is a spreadsheet that our data specialist, Meghan Lewis, helped put together, which helped lead to the reports on the site above.
 
 Attached file:
 
-- Biology Outcomes - 202040.xlsx
+* Biology Outcomes - 202040.xlsx
 
 ## User interaction and design
 
@@ -92,4 +92,4 @@ Attached file:
 
 ## Out of Scope
 
-- Occasionally there is discussion about **whether or not a question should evaluate multiple competencies**, and in the past the **decision has always been "no"** for the sake of simplicity.
+* Occasionally there is discussion about **whether or not a question should evaluate multiple competencies**, and in the past the **decision has always been "no"** for the sake of simplicity.

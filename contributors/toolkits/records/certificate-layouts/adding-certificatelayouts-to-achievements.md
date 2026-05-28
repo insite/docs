@@ -21,4 +21,4 @@ If a tenant wants to provide users with a downloadable certificate upon completi
 
 If the tenant desires (usually if users could have a number of achievements year over year), a portal tile can be added that allows users to see all of their achievements and download the certificates for any that have them. Point the portal tile to: [/ui/portal/records/credentials/search](https://e02.insite.com/ui/portal/records/credentials/search).
 
-<figure><img src="../../../.gitbook/assets/adding-certificatelayouts-to-achievements-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/adding-certificatelayouts-to-achievements-01.png" alt="Adding certificatelayouts to achievements 01"><figcaption></figcaption></figure>

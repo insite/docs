@@ -19,7 +19,7 @@ The proposed solution uses two new interfaces and the class **ReturnUrl**.
 
 1. The screen should implement two additional interfaces: **IOverridesParent** and **IHasParentLinkParameters**
 
-```
+```text
     public partial class Lock : BaseScreenUserControl, IOverridesParent, IHasParentLinkParameters
     {
 ```
@@ -27,7 +27,7 @@ The proposed solution uses two new interfaces and the class **ReturnUrl**.
 1. Implement methods **GetParent** and **GetParentLinkParameters**.\
    Below is an example from Lock.ascx screen
 
-```
+```text
         WebRoute IOverridesParent.GetParent() =>
             GetParent();
 
@@ -39,14 +39,14 @@ Methods **GetParent** and **GetParentLinkParameters** are members of **BaseScree
 
 1. If it is required to redirect back to the parent screen manually then **GetReturnUrl** method can be used
 
-```
+```text
             CancelButton.NavigateUrl = GetReturnUrl("panel=results");
 ```
 
 1. When it is needed to generate the link with "return url" then the class **ReturnUrl** can be used.\
    Below is an example from Responses/Outline.ascx
 
-```
+```text
             LockLink.NavigateUrl = new ReturnUrl($"session={queryString.Session}")
                 .GetRedirectUrl($"/admin/surveys2/responses/lock?session={queryString.Session}");
             UnlockLink.NavigateUrl = new ReturnUrl($"session={queryString.Session}")

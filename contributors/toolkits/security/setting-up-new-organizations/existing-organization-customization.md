@@ -1,3 +1,9 @@
+---
+description: >-
+  Per-organization customizations that exist outside the standard configuration
+  options, grouped by toolkit
+---
+
 # Existing Organization Customization
 
 | **Organization** | **Toolkit**           | **Customization and how it works**                                                                                                                    |

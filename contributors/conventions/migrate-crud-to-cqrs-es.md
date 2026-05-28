@@ -10,18 +10,18 @@ description: >-
 
 A query in a CQRS implementation can be thought of as a system message that is handled by a handler or subscriber. In CQRS, the architecture is often designed to separate the handling of commands (which modify state) from queries (which read state). Here's a more detailed explanation:
 
-### Key Concepts in CQRS:
+### Key Concepts in CQRS
 
 1. **Commands**: These are messages that represent an intent to change the state of the system. Commands are typically handled by command handlers, which process the command and apply the necessary changes to the write model.
 2. **Queries**: These are messages that represent a request to read data from the system. Queries are handled by query handlers, which retrieve and return the data from the read model.
 3. **Read Model**: The read model (or projection) is an optimized view of the data designed specifically for querying. It is kept in sync with the write model (often using events in an event-sourced system) to reflect the current state.
 
-### Handling Queries:
+### Handling Queries
 
 * **Query Handlers**: In a CQRS implementation, a query handler is responsible for processing a query message. The handler retrieves the necessary data from the read model and returns the result to the caller.
 * **Subscribers**: While the term "subscriber" is more commonly used in the context of event handling (where components subscribe to events and react to them), in some architectures, the concept of handling queries can also be seen as subscribing to query messages.
 
-### Example:
+### Example
 
 Consider an e-commerce system using CQRS:
 
