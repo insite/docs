@@ -1,3 +1,7 @@
+---
+description: Shift iQ allows for a wide variety of assessment question types, including multiple choice, true/false, multiple correct, composed response
+---
+
 # Choosing Question Types
 
 Shift iQ allows for a wide variety of assessment question types, including multiple choice, true/false, multiple correct, composed response (voice recording or typed essay), drag-and-drop reordering, matching, hotspot and Likert.
@@ -13,7 +17,7 @@ Shift iQ allows for a wide variety of assessment question types, including multi
   * **Composed Voice:** Learners can capture their verbal response to a question. This question type is associated with a scoring Rubric and is graded manually by an administrator / instructor. Configuration options include:
     * Limit Number of Attempts
     * Limit Response Time (Seconds)<br>
-  * **Composed Essay:** Learners can capture their reponse by typing their asnwer in the text box field below the question. This question type is associated with a scoring Rubric and is graded manually by an administrator / instructor.<br>
+  * **Composed Essay:** Learners can capture their response by typing their answer in the text box field below the question. This question type is associated with a scoring Rubric and is graded manually by an administrator / instructor.<br>
 * **Multiple True/False:** Allows the learner to select True/False in response to a series of statements. Calculation Methods include:
   * All or Nothing
   * Equally Weighted
@@ -24,7 +28,7 @@ Shift iQ allows for a wide variety of assessment question types, including multi
   * Equally Weighted
   * Correct Minus Incorrect
   * Limited Correct<br>
-*   **Likert Question Type:** This is a dynamic question type often included on surveys to assess variables such as sentiment, satisfaction, quality, or likelihood. For standardized exams, this question type can be used for third party assessmsent purposes or where answers options are not binary in nature.
+* **Likert Question Type:** This is a dynamic question type often included on surveys to assess variables such as sentiment, satisfaction, quality, or likelihood. For standardized exams, this question type can be used for third party assessment purposes or where answers options are not binary in nature.
 
     <br>
 * **Hotspot Question Type:** Any image can be uploaded for use with this question type. Configuration Options Include:

@@ -1,3 +1,7 @@
+---
+description: "How to create a Gradebook:"
+---
+
 # Creating a New Gradebook
 
 **How to create a Gradebook:**
@@ -6,8 +10,6 @@
 2. Click the **Add New Gradebook** link at the top of the page.
 3. Enter the **Gradebook Title** and select the associated **Achievement**.
 4. Select the **Grade Items** tab and add the Grade Items required for the Gradebook.
-
-
 
 **How to create a Gradebook from an Assessment Form:**
 
@@ -20,8 +22,6 @@
 5. Click on the **Form** tab. Under the **Identification** section, click the **edit (pencil) icon** next to the  **Gradebook** heading.
 6. Select **Create Gradebook**, then click **Save**.
 7. The system automatically creates the Gradebook and corresponding Grade Items. Each question in the Form becomes a Grade Item, allowing you to view a learner’s score for each question directly in the Gradebook.
-
-
 
 **How to create a Gradebook from a Course:**
 
@@ -42,8 +42,6 @@
       4. Points&#x20;
       5. Score %
 
-
-
 **How to create a Gradebook from a Class:**
 
 1. On the **Admin Home** page, select the **Events Toolkit**, then click the **Classes** tile.
@@ -54,12 +52,3 @@
 6. Click **Save**.
 7. Under the **Gradebooks** tab, click the **Gradebook Title** to open it.
 8. Select the **Grade Items** tab and add the Grade Items required for the Class.
-
-
-
-
-
-
-
-
-

@@ -1,3 +1,7 @@
+---
+description: "On the Results tab, click on the Magnifying Glass (<i class=\"fas fa-search\"></i>) at the front of any row to view that survey response."
+---
+
 # View Responses
 
 On the Results tab, click on the Magnifying Glass (<i class="fas fa-search"></i>) at the front of any row to view that survey response. (The magnifying glass will not be available for any responses to surveys where confidentiality has been enabled.)

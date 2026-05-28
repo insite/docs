@@ -1,14 +1,18 @@
+---
+description: Before attaching an Assessment Forms to a learners registration, you need to attach the required Assessment Forms to the Class.
+---
+
 # Assign Assessments
 
 ### Attach an Assessment to Class
 
-Before attaching an Assessment Froms to a learners registration, you need to attach the required Assessment Forms to the Class. You are able to attached multiple Assessment Forms to a class.
+Before attaching an Assessment Forms to a learners registration, you need to attach the required Assessment Forms to the Class. You are able to attached multiple Assessment Forms to a class.
 
 Under the Class Setup tab, scroll down to the Assessments card and click the Add Form button.
 
 Filter for the Assessment Form you want to attach to the Class and select the Form. The selected Assessment Form will be displayed below the Add Form button. If you attached the incorrect Form, you can click the Trash Can icon  (<i class="fas fa-trash-alt"></i>) on the right side of the Form to remove it from the Class.
 
-If more than one Assessment Forms need to be attched to the Class, follow the same process as above for each Form you want to attach.
+If more than one Assessment Forms need to be attached to the Class, follow the same process as above for each Form you want to attach.
 
 ### Assign an Assessment to Learner
 

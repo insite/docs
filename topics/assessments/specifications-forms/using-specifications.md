@@ -1,11 +1,14 @@
+---
+description: Every Bank will contain at least ONE Specification. Specifications provide the rules that determine which questions will be contained on an exam Form.
+---
+
 # Using Specifications
 
-Every Bank will contain at least ONE Specification. Specifications provide the rules that determinewhich questions will be contained on an exam Form. The same Specification may be used for multiple Forms, or there may be a different specification for each Form.
+Every Bank will contain at least ONE Specification. Specifications provide the rules that determine which questions will be contained on an exam Form. The same Specification may be used for multiple Forms, or there may be a different specification for each Form.
 
 ![specification.png](https://e02.insite.com/files/sites/global/using-specifications/specification.png)
 
 ![specification-2.png](https://e02.insite.com/files/sites/global/9844/specification-2.png)
-
 
 **Important Note when using Filter Type in Specifications:**
 The **Set Weight** stores the value entered by an administrator in **GAC %** column on **Workshop** page and helps calculate the values for the **Pivot Table Filter**, and then the **Pivot Table Filter** will determine the set number of questions on the form. In other words, the **Set Weight** only makes sense when the **Filter Type** in the Specification is set to **Filter with Pivot Table**.

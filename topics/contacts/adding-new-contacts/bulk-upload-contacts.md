@@ -1,3 +1,7 @@
+---
+description: Any organization's admins can upload NEW contacts with the bulk upload tool.
+---
+
 # Adding access to bulk upload contacts
 
 Any organization's admins can upload **NEW** contacts with the bulk upload tool. However, this tool can also be used by those with permission to **bulk update** existing contacts. Typically, bulk updating should be done by Platform Administrators, or well-trained super admins, to prevent overwriting information that should be kept. Here's how our Support team can give the latter access:

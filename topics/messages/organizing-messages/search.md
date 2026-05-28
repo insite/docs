@@ -1,3 +1,7 @@
+---
+description: On the Admin Home Page, select the Messages Toolkit.
+---
+
 # Search for existing Message
 
 On the **Admin Home** Page, select the **Messages** Toolkit.
@@ -5,9 +9,10 @@ On the **Admin Home** Page, select the **Messages** Toolkit.
 Under the **Messages** heading, select the **Message Type** (**Alert**, **Invitation**, **Newsletter** or **Notification**) you want to search for.
 
 You can narrow down your search results by entering as much search criteria you know. Under the **Criteria** tab, you can search for the following fields:
+
 * Message Type (**Alert**, **Invitation**, **Newsletter** or **Notification**)
 * External Subject
-* Interal Name
+* Internal Name
 * Last Modified Date **≥**
 * Last Modified Date **≤**
 * Sender Nickname

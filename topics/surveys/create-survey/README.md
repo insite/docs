@@ -1,6 +1,10 @@
+---
+description: To create a new survey form, click on the Surveys toolkit on the Admin Home Screen, then select the Survey counter.
+---
+
 # Creating survey forms
 
-To create a new survey form, click on the **Surveys** toollkit on the Admin Home Screen, then select the **Survey** counter.
+To create a new survey form, click on the **Surveys** toolkit on the Admin Home Screen, then select the **Survey** counter.
 
 Click on **Add New Survey** at the top of the Survey search page.
 
@@ -13,7 +17,7 @@ Select **Limit Responses per Respondent**, **Allow Anonymous Responses** and **C
     * Turn off the Limit response option
     * Delete the respondent’s answers
   * Not Limited - Allows respondents to answer the survey an unlimited amount of times, and also allow anonymous responses.<br>
-* **Allow Anonymous Responses** Allow users to answer the survey without identifying themselves and without signing in. Please Note: Allow Anonymous Responses is only availble if **Not Limited** is selected under **Limit Responses per Respondent** settings<br>
+* **Allow Anonymous Responses** Allow users to answer the survey without identifying themselves and without signing in. Please Note: Allow Anonymous Responses is only available if **Not Limited** is selected under **Limit Responses per Respondent** settings<br>
 * **Confidentiality for Respondents** Enable this setting if you do not want to disclose confidential/personal information about survey respondents to survey administrators.<br>
 
 Click the **Save** button.

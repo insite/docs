@@ -1,3 +1,7 @@
+---
+description: Click on the Plus icon next to the Module where you want to add the New Lesson.
+---
+
 # How to Add and Remove Units, Modules and Lessons in a Course
 
 ## Adding a new Lesson to a course

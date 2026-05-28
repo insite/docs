@@ -1,3 +1,7 @@
+---
+description: Under the Registration tab, Administrators are able to manually Add Registrations to a class and download different class Reports.
+---
+
 # Add and Edit Class Information
 
 ## Registrations Tab
@@ -20,14 +24,14 @@ Under the **Registration** tab, Administrators are able to manually **Add Regist
     * Billing Customer
     * Employer
   * Click **Save** after changes were made to the users registration.<br>
-*   **Download Reports**
+* **Download Reports**
 
-    * Reports available for Classes:
-      * Registration Report (\*.pdf / \*.xlsx)
-      * Detailed Registration Report (\*.pdf / \*.xlsx)
-      * Attendee List (\*.pdf / \*.xlsx)
-      * Scores Report (\*.pdf / \*.xlsx)
-      * Most Improved Report (\*.xlsx)<br>
+  * Reports available for Classes:
+    * Registration Report (\*.pdf / \*.xlsx)
+    * Detailed Registration Report (\*.pdf / \*.xlsx)
+    * Attendee List (\*.pdf / \*.xlsx)
+    * Scores Report (\*.pdf / \*.xlsx)
+    * Most Improved Report (\*.xlsx)<br>
 
     ### Gradebooks Tab
 
@@ -35,7 +39,7 @@ Under the **Registration** tab, Administrators are able to manually **Add Regist
 * Create **New Gradebook**
   * Click on the **New Gradebook** button.
   * Create a **Title** for the new Gradebook, select **Period** (optional) and select the **Achievement**.
-  * Choose if you want to include only Scores in the Gradebook or Standards (Compentencies) as well. If Standards is included, select the Competency Framework you want to attached to the Gradebook.
+  * Choose if you want to include only Scores in the Gradebook or Standards (Competencies) as well. If Standards is included, select the Competency Framework you want to attached to the Gradebook.
   * Select **Save**<br>
 * Add **Existing Gradebook**
   * Click on the **Find Gradebook** button.

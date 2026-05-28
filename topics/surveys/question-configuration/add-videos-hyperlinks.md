@@ -23,7 +23,7 @@ When you select Create Link, the system will create the outline needed for the l
 
 You are able to configure the link with an email address instead. You can either add a email address between the square brackets or text. Instead of adding a website, you remove the http:// and add [mailto:add email address.](mailto:support@insite.com.) The full link will be \[Click Here to Email]\(mailto:support@insite.com) or \[support@insite.com]\(mailto:support@insite.com). The text will display as [Click Here to Email](mailto:support@insite.com) or [support@insite.com](mailto:support@insite.com)
 
-#### Open Link in New Browser Window:
+#### Open Link in New Browser Window
 
 If you require the link you are inserting to open on in a new browser window, you can us the following link:\
 \<a href="url or link to file" target="\_blank">text to display\</a>

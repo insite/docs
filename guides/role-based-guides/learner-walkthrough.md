@@ -25,7 +25,7 @@ You can navigate to the Dashboard page any time by clicking your name at the top
 
 > Administrator Note: Your organization account can be configured so this page is the default home page for all your learners.
 
-<figure><img src="../.gitbook/assets/learner-experience-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/learner-experience-01.png" alt="Learner experience 01"><figcaption></figcaption></figure>
 
 The navigation menu in the left panel provides learners with quick and easy access to everything they need.
 
@@ -44,7 +44,7 @@ In addition to allowing your learners to browse your e-learning catalogue for se
 
 Here, for example, here an administrator has published a library of online courses (Course Catalog) as well as event registrations (Enroll in a Course) in the learning portal:
 
-<figure><img src="../.gitbook/assets/learner-experience-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/learner-experience-02.png" alt="Learner experience 02"><figcaption></figcaption></figure>
 
 Please note, in the STA demo organization:
 
@@ -63,7 +63,7 @@ Here is a suggested activity to try for yourself:
   * [ ] On the Assessments tab, view the results of your assessments
   * [ ] A complete list of completed Lessons and Assessments can be found on the Grades tab
 
-<figure><img src="../.gitbook/assets/learner-experience-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/learner-experience-03.png" alt="Learner experience 03"><figcaption></figcaption></figure>
 
 ## Explore class enrollments
 

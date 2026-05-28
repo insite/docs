@@ -1,3 +1,7 @@
+---
+description: When uploading your Competency Framework using Markdown, the structure of the file must follow a specific heading hierarchy, depending on the number
+---
+
 # Upload Standards using Markdown
 
 When uploading your Competency Framework using Markdown, the structure of the file must follow a specific heading hierarchy, depending on the number of tiers in your framework.
@@ -14,4 +18,4 @@ Example of Markdown Upload 4 Tiers:\
 (_The heading specifying the tiers must be included at the top of your file you are uploading._)
 
 Example of Competency Framework after upload:\
-![](<../../.gitbook/assets/Framework Example.png>)
+![Framework Example](<../../.gitbook/assets/Framework Example.png>)

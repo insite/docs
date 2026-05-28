@@ -1,3 +1,7 @@
+---
+description: Software developers use their knowledge of programming languages to design and implement software applications.
+---
+
 # Software Developer
 
 ### Summary <a href="#summary" id="summary"></a>

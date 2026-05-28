@@ -1,9 +1,14 @@
+---
+description: Add your message content here using the Shift iQ markdown Content Authoring tool, designed to be fast, light, and easy to use.
+---
+
 # Editing and Formatting Message Contents
 
 Add your message content here using the Shift iQ markdown Content Authoring tool, designed to be fast, light, and easy to use. This tool helps create content that’s less likely to be marked as spam, making it more likely that your messages will reach your email subscribers.
 
 The Markdown toolbar buttons can be used to quickly format text, or you can simply add the correct markdown language manually. Here is what the buttons do:
-* **B** bolds or *I* italisizes the selected text
+
+* **B** bolds or *I* italicizes the selected text
 * **H** makes a line of text into a heading with larger, bolded, font, and space before and after that line; each click of **H** button changes the Heading level, from level 1 (largest font) to level 6 (smallest font)
 * **"** makes a line of text into a quote
 * the bullet and numbered list buttons can be used to make a generic or numbered lists

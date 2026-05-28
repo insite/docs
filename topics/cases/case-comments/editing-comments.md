@@ -1,3 +1,7 @@
+---
+description: Open the case that you need to edit the comment for and click on the Comments tab.
+---
+
 # Editing and Deleting Comments
 
 ### Editing an Existing Comment
@@ -6,7 +10,7 @@ Open the case that you need to edit the comment for and click on the **Comments*
 
 Click on the pencil icon (<i class="fa-pencil-alt">:pencil-alt:</i>) next to the existing comment.
 
-Edit the comement or other fields you want to update.
+Edit the comment or other fields you want to update.
 
 Click the **Save** button.<br>
 

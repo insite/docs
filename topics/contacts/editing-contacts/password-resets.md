@@ -1,6 +1,10 @@
+---
+description: Method 1 - User resets their own Users can also reset their own passwords by clicking the Reset my password button on the initial login window.
+---
+
 # Password Resets
 
-## There are 2 methods of resetting a user's password:
+## There are 2 methods of resetting a user's password
 
 <br>
 

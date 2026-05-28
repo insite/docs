@@ -3,7 +3,7 @@ description: Welcome to the Shift iQ documentation portal.
 icon: book-open
 ---
 
-# Welcome!
+# Welcome
 
 This is your home base for everything you need to understand, use, and integrate with **Shift iQ**. Whether you're just getting started or you are a seasoned power user, this portal is designed to help you navigate our platform with confidence.
 

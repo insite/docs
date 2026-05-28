@@ -1,3 +1,7 @@
+---
+description: Managing a contact's Roles and Permissions is a key part of an Administrator's job in Shift iQ. Here are some things to keep in mind when doing so.
+---
+
 # Understanding Permissions and Roles
 
 Managing a contact's Roles and Permissions is a key part of an Administrator's job in Shift iQ. Here are some things to keep in mind when doing so.

@@ -1,3 +1,7 @@
+---
+description: "Thanks to The Markdown Guide for providing this list! This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements."
+---
+
 # Markdown Reference
 
 Thanks to [The Markdown Guide](https://www.markdownguide.org) for providing this list! This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax/) and [extended syntax](https://www.markdownguide.org/extended-syntax/).
@@ -9,7 +13,9 @@ These are the elements outlined in John Gruber’s original design document. All
 ### Heading
 
 # H1
+
 ## H2
+
 ### H3
 
 ### Bold
@@ -32,9 +38,9 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Unordered List
 
-- First item
-- Second item
-- Third item
+* First item
+* Second item
+* Third item
 
 ### Code
 
@@ -65,7 +71,7 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 ### Fenced Code Block
 
-```
+```text
 {
   "firstName": "John",
   "lastName": "Smith",
@@ -94,9 +100,9 @@ term
 
 ### Task List
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+* [x] Write the press release
+* [ ] Update the website
+* [ ] Contact the media
 
 ### Emoji
 

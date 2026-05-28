@@ -1,28 +1,31 @@
+---
+description: Contextual help (or in-context help) refers to assistance that appears directly within the user interface - at the point where users need it.
+---
+
 # about
 
 Contextual help (or in-context help) refers to assistance that appears directly within the user interface - at the point where users need it. Alternative terms commonly used for this include:
 
-- Embedded help - help content built into the interface itself
-- Progressive disclosure - revealing information gradually as needed
-- Microcopy - short, helpful text snippets within the UI
-- Contextual guidance - assistance provided based on the user's current context
+* Embedded help - help content built into the interface itself
+* Progressive disclosure - revealing information gradually as needed
+* Microcopy - short, helpful text snippets within the UI
+* Contextual guidance - assistance provided based on the user's current context
 
 Specific types of contextual help include:
 
-- Tooltips (hover or click-triggered explanations)
-- Inline help text
-- Field hints or placeholder text
-- Progressive onboarding flows
-- Contextual callouts or popovers
+* Tooltips (hover or click-triggered explanations)
+* Inline help text
+* Field hints or placeholder text
+* Progressive onboarding flows
+* Contextual callouts or popovers
 
 The term "contextual help" is widely recognized in UX design and technical writing communities as it emphasizes that the help is relevant to the user's immediate context and task, rather than requiring them to navigate away to a separate help section or documentation.
-
 
 ***
 ui/lobby/eula
 
 ## Terms of Use
- 
+
 # Conditions d'utilisation
 
 Merci d'utiliser nos produits et services (les « Services »). Les Services sont fournis sous les marques de commerce InSite et Shift iQ par InSite Information Systems Corp. (IIS Corp.), société située au 1055 West Hastings Street, Suite 300, Vancouver, BC V6E 4P1 Canada.
@@ -33,11 +36,10 @@ Parce que nos Services sont diversifiés, il arrive que d'autres conditions ou e
 
 Cliquez ici pour consulter [les conditions d'utilisation complètes](/ui/lobby/eula).
 
-
 ***
 ui/portal/eula
 
-# Conditions d'utilisation
+# Conditions d'utilisation (Portail)
 
 Merci d'utiliser nos produits et services (les « Services »). Les Services sont fournis sous les marques de commerce InSite et Shift iQ par InSite Information Systems Corp. (IIS Corp.), société située au 1055 West Hastings Street, Suite 300, Vancouver, BC V6E 4P1 Canada.
 

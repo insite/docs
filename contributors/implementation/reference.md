@@ -15,7 +15,4 @@ Clearly, every software system has a "Contributor API", so it is unfortunate the
 
 By adopting this convention, we make it immediately clear whether documentation is intended for those _integrating with_ the system versus those _building on_ the system. In turn, this helps reduce confusion and ensures contributors can easily locate the technical depth they need for internal development work.
 
-
-
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Contributor API</strong></td><td>Internal interface for team members modifying and maintaining the system</td><td><a href="https://docfx.shiftiq.com/">https://docfx.shiftiq.com/</a></td></tr><tr><td><strong>Developer API</strong></td><td>External public interface for developers and integrators extending the system</td><td><a href="https://docs.shiftiq.com/developers/api-v2/introduction">https://docs.shiftiq.com/developers/api-v2/introduction</a></td></tr></tbody></table>
-

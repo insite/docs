@@ -4,4 +4,3 @@ icon: brackets-curly
 ---
 
 # Endpoints
-

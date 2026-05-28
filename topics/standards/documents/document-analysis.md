@@ -1,6 +1,10 @@
+---
+description: Publish Documents to the Portal through the Web Sites module. We recommend you make a Folder to group your Documents on the portal.
+---
+
 # Publishing Document Analysis Tools on the Portal
 
-Publish Documents to the Portal through the Web Sites module. We recommend you make a Folder to group your Documents on the portal. 
+Publish Documents to the Portal through the Web Sites module. We recommend you make a Folder to group your Documents on the portal.
 
 Create a link to a page where you can select any document analysis tool using the following syntax:
 

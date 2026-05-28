@@ -1,0 +1,21 @@
+name: Commit lint
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  commitlint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run commitlint
+        uses: wagoid/commitlint-github-action@v6
+        with:
+          configFile: .commitlintrc.json
+          # GitBook back-sync commits land directly on master, not via PRs,
+          # so PRs are dev-authored and must follow Conventional Commits.
+          failOnWarnings: false

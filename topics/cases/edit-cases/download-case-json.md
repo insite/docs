@@ -1,10 +1,14 @@
+---
+description: Select the Workflows Toolkit on the Admin Home page.
+---
+
 # Download Case JSON File
 
 Select the **Workflows** Toolkit on the **Admin Home** page.
 
 Select the **Cases** counter.
 
-Fill in the **Criteria** you want to you use to search for an existing Case. 
+Fill in the **Criteria** you want to you use to search for an existing Case.
 ***Note:**  Click on **Clear** to remove any prior search criteria.*
 
 Click on **Filter**. You will be directed to the **Results** tab.

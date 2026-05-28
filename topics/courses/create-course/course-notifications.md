@@ -1,3 +1,7 @@
+---
+description: Administrators can setup Course Stalled Notifications and Course Completed Notifications.
+---
+
 # Setting up Course Notifications
 
 Administrators can setup **Course Stalled Notifications** and **Course Completed Notifications**.
@@ -16,7 +20,7 @@ Course stalled notifications can be sent to **Learners** and **Administrators**.
 * $AppUrl
 * $CourseName
 * $CourseStarted
-* $LearnerIdentifie
+* $LearnerIdentifier
 * $LearnerFirstName
 * $LearnerLastName<br>
 
@@ -32,6 +36,6 @@ Course completion notifications can be sent to **Learners** and **Administrators
 * $AppUrl
 * $CourseName
 * $CourseStarted
-* $LearnerIdentifie
+* $LearnerIdentifier
 * $LearnerFirstName
 * $LearnerLastName<br>

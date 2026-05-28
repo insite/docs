@@ -1,3 +1,7 @@
+---
+description: Occupations are just a type of Framework Standard.
+---
+
 # Occupations
 
 Occupations are just a type of Framework Standard.

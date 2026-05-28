@@ -1,3 +1,7 @@
+---
+description: Search for the Case you would like to Edit (see Searching for Cases) and open the Case.
+---
+
 # Editing Cases
 
 Search for the **Case** you would like to **Edit** (see [**Searching for Cases**](/ui/help/portal/issues/edit-issues/search-for-an-issue)) and open the **Case**.

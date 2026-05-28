@@ -1,14 +1,18 @@
+---
+description: Administrators can add Reference Materials for Online Sessions (Acronyms, Formulas and/or a Document).
+---
+
 # Adding Reference Materials to a Form
 
 Administrators can add **Reference Materials for Online Sessions** (Acronyms, Formulas and/or a Document).
 
-These materials will appear to the Assessment taker at the top of the Assessmemt Attemp page. By clicking on the different icons at the top of the page, it will open the uploaded files.
+These materials will appear to the Assessment taker at the top of the Assessment Attemp page. By clicking on the different icons at the top of the page, it will open the uploaded files.
 
 ![acronymformula.png](https://e02.insite.com/files/sites/e02/reference-materials/acronymformula.png)
 
 Documents: <i class="fa-download">:download:</i>Acronyms: <i class="fa-table">:table:</i>Formulas:<i class="fa-square-root-alt">:square-root-alt:</i>
 
-#### Uploading the File:
+#### Uploading the File
 
 * Search for the **Assessment Bank** where you want to add the reference materials.
 * After opening the **Assessment Bank**, click on the **Attachments** tab and then the **Add Attachment** button.
@@ -26,7 +30,7 @@ Documents: <i class="fa-download">:download:</i>Acronyms: <i class="fa-table">:t
   * Palette (Color/Black and White)
 * Click the **Save** button<br>
 
-#### Adding the File to the From:
+#### Adding the File to the From
 
 * After uploading the file to the **Assessment Bank**, select the **Form** the file need to be attached to.
 * Under the **Forms** tab, click on the **Addendum** tab.

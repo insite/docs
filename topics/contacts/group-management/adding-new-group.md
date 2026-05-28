@@ -1,3 +1,7 @@
+---
+description: Select the Contact toolkit on the Admin Home Page and select the Groups counter below the Contact Group heading.
+---
+
 # Create a New Group and Adding People to the Group
 
 ## Create a New Group
@@ -40,7 +44,7 @@ _Please note, these users need to already have a contact record in the system to
 
 ## Allow User Self-Registration
 
-To allow **User Self Registration**, after creating the group, go into the **Group** and under the **Group** tab select the checkbox next to **Allow users to subscribe/unsubscribe themslevles**. By selecting the checkbox, the system adds a toggle for the group on the new user registration screen. Users are able to select the group when creating their new account on the [**New User** registration page.](../../../ui/lobby/register)
+To allow **User Self Registration**, after creating the group, go into the **Group** and under the **Group** tab select the checkbox next to **Allow users to subscribe/unsubscribe themselves**. By selecting the checkbox, the system adds a toggle for the group on the new user registration screen. Users are able to select the group when creating their new account on the [**New User** registration page.](../../../ui/lobby/register)
 
 ![self-register.png](https://e02.insite.com/files/sites/global/portal-permissions/self-register.png)<br>
 

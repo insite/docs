@@ -1,3 +1,7 @@
+---
+description: Download an individual survey response as a PDF from the response review page
+---
+
 # Download Responses
 
 When reviewing a users survey response, you are able to download a *.pdf copy of the users response by clicking on the **Download** button under the  **Respondent Answers** heading.

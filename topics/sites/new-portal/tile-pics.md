@@ -1,3 +1,7 @@
+---
+description: Under the Page Content tab of the Site folder you want to add a picture to, select the ImageURL tab (if there is no ImageURL tab, please
+---
+
 # Add Portal Tile Pictures or Icons
 
 ## Adding Portal Tile Pictures
@@ -11,7 +15,7 @@ The image will display as a URL link, for example:\
 
 Edit the URL link to only show /files/sites/insite/example/insite.jpg and select Save.
 
-![](https://e02.insite.com/files/sites/global/tile-pics/portal-tile.png)
+![Portal tile](https://e02.insite.com/files/sites/global/tile-pics/portal-tile.png)
 
 ## Adding Portal Tile Icons
 
@@ -19,7 +23,7 @@ If you'd prefer to use fa-fa icons, rather than pictures, you can do so on the P
 
 On the Update Content card, add the icon code in the Icon field. Icon codes can be found on websites like [_Font Awesome_](https://fontawesome.com/v5/search)_._
 
-![](https://e02.insite.com/files/web/bc03a342-fc83-4fe9-946c-af900134fadd/icon-1.png)
+![Icon 1](https://e02.insite.com/files/web/bc03a342-fc83-4fe9-946c-af900134fadd/icon-1.png)
 
 Click the Save button to save your changes.
 
@@ -27,6 +31,6 @@ When going back to the portal, you will see the Icon you added on the tile.
 
 <br>
 
-![](https://e02.insite.com/files/web/bc03a342-fc83-4fe9-946c-af900134fadd/icon-2.png)<br>
+![Icon 2](https://e02.insite.com/files/web/bc03a342-fc83-4fe9-946c-af900134fadd/icon-2.png)<br>
 
 <br>

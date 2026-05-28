@@ -1,3 +1,7 @@
+---
+description: The Branches tab shows a summary of the skip patterns contained in the survey.
+---
+
 # Branches Tab
 
 The Branches tab shows a summary of the skip patterns contained in the survey.

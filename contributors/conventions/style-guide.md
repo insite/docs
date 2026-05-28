@@ -75,7 +75,7 @@ When it is possible to do so, buttons that perform destructive actions should be
 
 The prompt for confirmation of a destructive action should look like this:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="Image"><figcaption></figcaption></figure>
 
 ## Tooltips
 
@@ -94,9 +94,9 @@ Tooltips provide brief, contextual help for UI elements. They should be concise,
 **Punctuation:**
 
 * **Do not use ending punctuation** (like periods) **for short phrases or fragments**.\
-  &#xNAN;_&#x45;xample: "Displays on the learner's dashboard"_
+  &#xNAN;_&#x45;example: "Displays on the learner's dashboard"_
 * **Use a period** if the tooltip is a complete sentence.\
-  &#xNAN;_&#x45;xample: "This text appears under the achievement title."_
+  &#xNAN;_&#x45;example: "This text appears under the achievement title."_
 
 **Grammar:**
 

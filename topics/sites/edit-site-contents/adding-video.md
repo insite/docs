@@ -1,3 +1,7 @@
+---
+description: To embed a video on the portal, you will need to upload the video to either Vimeo or You Tube.
+---
+
 # Adding an Embedded Video
 
 To embed a video on the portal, you will need to upload the video to either **Vimeo** or **You Tube**.

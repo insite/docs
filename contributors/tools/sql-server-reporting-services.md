@@ -1,3 +1,7 @@
+---
+description: To open an RPTPROJ file (SQL Server Reporting Services project) in Visual Studio 2022, you'll need to install the appropriate extension, because
+---
+
 # SQL Server Reporting Services
 
 To open an RPTPROJ file (SQL Server Reporting Services project) in Visual Studio 2022, you'll need to install the appropriate extension, because SSRS support is not included by default.

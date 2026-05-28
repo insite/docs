@@ -1,3 +1,7 @@
+---
+description: From the Admin Home Page, select Messages toolkit.
+---
+
 # Create New Message
 
 From the Admin Home Page, select **Messages** toolkit.
@@ -6,11 +10,11 @@ Select your **Message Type**:
 
 * **Invitation:** Tenants can send an **Invitation** to users to complete a **Survey**. The system tracks who has answered the original survey invitation.  If you re-send an invitation, the system will omit the people who have already answered the survey.
 * **Newsletter:**  This can be used to send News, Updates or Reminders to users
-* **Notification:** Notifications can be sent to users for different reasons (Do NOT use for general communication). 
+* **Notification:** Notifications can be sent to users for different reasons (Do NOT use for general communication).
    **Example:**
-   - Reminder to complete a survey
-   - Confirmation of exam registration
-   - Failed Login Attempts
+  * Reminder to complete a survey
+  * Confirmation of exam registration
+  * Failed Login Attempts
 
 Click the **Add New Invitation**, **Add New Newsletter** or **Add New Notification** link at the top of the **Search** page.
 

@@ -1,0 +1,49 @@
+name: Link check
+
+on:
+  pull_request:
+    paths:
+      - '**/*.md'
+      - '**/SUMMARY.md'
+      - '.github/workflows/link-check.yml'
+      - '.lycheeignore'
+  push:
+    branches: [master]
+    paths:
+      - '**/*.md'
+      - '**/SUMMARY.md'
+  workflow_dispatch:
+  schedule:
+    # Weekly Monday 09:00 UTC sweep so external link rot surfaces even
+    # when no PR is open.
+    - cron: '0 9 * * 1'
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # --no-progress keeps logs clean
+          # --base resolves root-relative links against the repo root
+          # --exclude-mail skips mailto: links
+          # --accept skips 429 rate-limits as non-failures
+          args: >-
+            --no-progress
+            --base .
+            --exclude-mail
+            --accept 200,206,429
+            './**/*.md'
+          fail: true
+          format: markdown
+          output: lychee-report.md
+
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lychee-report
+          path: lychee-report.md

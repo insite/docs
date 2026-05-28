@@ -270,6 +270,6 @@
   * [Download Responses](surveys/survey-responses/download-responses.md)
   * [Survey Reporting](surveys/survey-responses/survey-reporting.md)
 
-## Sales
+## Billing
 
 * [Sales](sales.md)

@@ -19,4 +19,4 @@ To access your sandbox environment, follow these steps:
 
 For example:
 
-<figure><img src=".gitbook/assets/signin-environments.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/signin-environments.png" alt="Signin environments"><figcaption></figcaption></figure>

@@ -1,3 +1,7 @@
+---
+description: The Chief Technology Officer leads the company to effectively use technology to meet its objectives.
+---
+
 # Chief Technology Officer
 
 ### Summary  <a href="#summary" id="summary"></a>

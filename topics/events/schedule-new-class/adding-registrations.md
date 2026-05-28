@@ -1,3 +1,7 @@
+---
+description: Under the Registration tab, Administrators are able to manually Add Registrations to a class and download different class Reports.
+---
+
 # Manually Adding/Removing Registrations
 
 Under the **Registration** tab, Administrators are able to manually **Add Registrations** to a class and download different class **Reports**.

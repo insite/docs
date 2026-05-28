@@ -1,3 +1,7 @@
+---
+description: Content can be added to a class to provide users with a description or additional information about the class they are registering for.
+---
+
 # Adding Content
 
 Content can be added to a class to provide users with a description or additional information about the class they are registering for.

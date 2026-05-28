@@ -1,3 +1,7 @@
+---
+description: Currently there are five types of relationships between Standards
+---
+
 # Types of relationships
 
 Currently there are five types of relationships between Standards

@@ -1,10 +1,16 @@
+---
+description: "There are 2 ways to Publish a course to the portal:"
+---
+
 # Publishing a Course to your Learner Portal
 
 There are 2 ways to Publish a course to the portal:
+
 1. From the Course itself;
 2. From the Sites toolkit.
 
 **1. Publish a Course to the Portal, from the Course:**
+
 * In the Course, click on the **Course Setup** tab, then the **Publication** tab.
 * Select the Site URL in the **Web Portal** field (organization.insite.com / organization.shiftiq.com).
 * Select the **Web Folder** (page) where you want to publish the course to.

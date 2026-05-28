@@ -1,8 +1,12 @@
+---
+description: To Navigate the different folders/pages in the Web Sites toolkit, select the Sitemap panel
+---
+
 # Using the Sitemap tab to Navigate Site Administration
 
 To Navigate the different folders/pages in the Web Sites toolkit, select the Sitemap panel
 
-You will see all the folders/pages on your portal/site. 
+You will see all the folders/pages on your portal/site.
 
 You can click on the edit button (pencil) next to the title of the folder/page to view and edit the content.
 

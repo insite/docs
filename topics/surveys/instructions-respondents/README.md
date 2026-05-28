@@ -1,3 +1,7 @@
+---
+description: "In the Contact panel, add survey instructions for respendents:"
+---
+
 # Providing instructions to respondents
 
 In the **Contact** panel, add survey instructions for respendents:

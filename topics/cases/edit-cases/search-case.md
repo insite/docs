@@ -1,3 +1,7 @@
+---
+description: Select the Workflows Toolkit on the Admin Home page.
+---
+
 # Search for an Case
 
 Select the **Workflows** Toolkit on the **Admin Home** page.

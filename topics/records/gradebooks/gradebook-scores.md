@@ -1,3 +1,7 @@
+---
+description: Navigating the Grade Item Hierarchy
+---
+
 # Learner Progress and Scores
 
 Navigating the Grade Item Hierarchy

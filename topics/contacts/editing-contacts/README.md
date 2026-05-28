@@ -1,8 +1,12 @@
+---
+description: This screen contains all of the information related to each contact in Shift iQ.
+---
+
 # Editing Contacts
 
 This screen contains all of the information related to each contact in Shift iQ. Find and update personal details, employment info, addresses, any related uploaded documents, internal comments, a history of changes to the contact record, and more on the **Persons** tab. Use the **Memberships** tab to see and edit the groups they belong to and other relationships. The **Records** tab contains links to a variety of assets the contact may have generated. Grant and control access on the **System Access** tab.
 
-**Deleting a Contact Record:** Deleting contact records should be used with **caution**. Deleting a contact will remove the link to all of their activitity in the system and is typically only done with duplicate records that have never logged in. If it is someone who has had activity but left your organization, it is better to Archive the user and remove their access to the system using the Sign In tab.
+**Deleting a Contact Record:** Deleting contact records should be used with **caution**. Deleting a contact will remove the link to all of their activity in the system and is typically only done with duplicate records that have never logged in. If it is someone who has had activity but left your organization, it is better to Archive the user and remove their access to the system using the Sign In tab.
 
 **Edit:** Make changes to any of the fields in the Person panel and click **Save**.
 
@@ -16,7 +20,7 @@ This screen contains all of the information related to each contact in Shift iQ.
 
 #### Phone Number Auto-Configuration parameters
 
-When an telephone number is added to a users Contact Record, Shift iQ automatically configurates the phone number based on the number of digits added:
+When an telephone number is added to a users Contact Record, Shift iQ automatically configures the phone number based on the number of digits added:
 
 * If you save the record with **10 digits** in any of the phone fields, our system adds brackets around the first 3 digits, adds a space after the second bracket and adds a dash before the last four digits. **Example:** 1234567890 ![phone-number-1.png](https://e02.insite.com/files/web/a53ae6fb-9834-4fd4-960b-b09300e40d6f/phone-number-1.png)
 * If you put **11 digits** and save, it removes whatever the first digit is, adds brackets around the first 3 digits, adds a space after the second bracket and adds a dash before the last four digits. **Example:** 12345678901 ![phone-number-2.png](https://e02.insite.com/files/web/a53ae6fb-9834-4fd4-960b-b09300e40d6f/phone-number-2.png)

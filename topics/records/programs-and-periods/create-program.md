@@ -1,3 +1,7 @@
+---
+description: Open the Records toolkit and then click on the Programs tile under the Programs and Periods heading.
+---
+
 # Purpose of Programs and How to Create Them
 
 ### Creating a New Program
@@ -22,13 +26,13 @@ On the **Program Outline** page, add the **Achievement** for the program by sele
 
 ### Add Tasks to the Progam
 
-On the **Program Outline** page, in the **Tasks** card, administrators can add the different tasks that will form part of the Program by clicking on the **Edit Tasks** button. The administrator can add each task by selecting the chechbox next to the task.
+On the **Program Outline** page, in the **Tasks** card, administrators can add the different tasks that will form part of the Program by clicking on the **Edit Tasks** button. The administrator can add each task by selecting the checkbox next to the task.
 
 Tasks that can be added to a Program:
 
 * **Assessments**
   * Only **Published Assessment Forms** in **Assessment Banks** can be selected.
-    * When selecting the checkbox next to the **Assessment Bank**, a list of all the **Published Assessment Forms** in that bank will be availble for selection by an administrator. Select the checkbox next to each **Assessment Form** that needs to be included in the Program.
+    * When selecting the checkbox next to the **Assessment Bank**, a list of all the **Published Assessment Forms** in that bank will be available for selection by an administrator. Select the checkbox next to each **Assessment Form** that needs to be included in the Program.
     * Multiple Assessment Forms can be added to one Program.
 * **Standalone Achievements** - _Please Note: Adding a Standalone Achievement will not include its related activity._
   * If the Achievement you want to add to the Program is not listed, the achievement still need to be created. (See [**Create new Achievement**](../../../ui/help/portal/records/achievements/define-achievement/))
@@ -51,7 +55,7 @@ Learners need to be enrolled in a Program before they will be able to see any of
 * Search for the **Learner** or **Group** that you want to enroll in the Program.
 * Once selected, click on the **Add** button.
 
-The **Learner** or **Group** that was seleced will be enrolled into the Program and can access the Program on the Portal.<br>
+The **Learner** or **Group** that was selected will be enrolled into the Program and can access the Program on the Portal.<br>
 
 ### Program Achievement
 
@@ -76,7 +80,7 @@ Under the **Achievements** tab, administrators will be able to see all learners 
 
 Administrators can setup **Progress Stalled** and **Progress Completed** notifications.
 
-* **Progress Stalled** Stalled notifications can be setup to send reminders to a **Learners** and **Administrators** to compelete the Program they started. The following notifications can be created:
+* **Progress Stalled** Stalled notifications can be setup to send reminders to a **Learners** and **Administrators** to complete the Program they started. The following notifications can be created:
   * **Send to Learner:** The stalled notification is sent to the **Learner** once they started the Program, but no progress has been made after a set amount of days.
   * **Send to Administrator:** The stalled notification is sent to an **Administrator** to advise that a learner started the Program, but no progress has been recorded after a set amount of days.
   * **Days Without Task Completion:** This is the number of days a learner can go without completing a task before the program is considered stalled.
@@ -84,6 +88,6 @@ Administrators can setup **Progress Stalled** and **Progress Completed** notific
 * **Progress Completed** Once a learner has completed a Program, notifications can be sent to the **Learner** and **Administrator** to advise that they have completed the Program. The following notifications can be created:
   * **Send to Learner:** Add the notification you want to send to the **Learner** once they have completed the Program.
   * **Send to Administrator:** Add a notification if you want to let an **Administrator** know when a **Learner** has completed the Program.
-  * **Send On Completion of this Task:** An administrator can select the task in the Progam that is considered the last task that needs to be complted to consider the Program as Done.
+  * **Send On Completion of this Task:** An administrator can select the task in the Progam that is considered the last task that needs to be completed to consider the Program as Done.
 
 Once the notifications has been added, click the **Save** button.

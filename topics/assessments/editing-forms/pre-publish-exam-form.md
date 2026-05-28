@@ -1,3 +1,7 @@
+---
+description: An Administrator can Pre-Publish an Assessment Form for testing purposes. You will be able to complete the Assessment Form and submit your attempt.
+---
+
 # Pre-Publish an Assessment Form
 
 An Administrator can Pre-Publish an Assessment Form for **testing** purposes. You will be able to complete the Assessment Form and submit your attempt.
@@ -9,7 +13,7 @@ Pre-Publishing an Assessment:
 * Click on **Action** button and select **Prepublish**.
 * On the **Pre-Publish** page, you will see a URL on the right side, under the **Start an exam attempt** heading. Click on the URL to start your attempt.<br>
 
-#### Important Notes:
+#### Important Notes
 
 * The Pre-Publish URL is for **Administrator Access Only**. This link is strictly for administrative testing and review of the assessment form. Distribution to, or use by, actual assessment takers is NOT advised. Any assessment attempts completed using this link are considered to be tests and are NOT recorded by the system.
 * The system does not keep attempts for Forms that has an **Publication Status = Drafted**. If an attempt is submitted, while the form has an **Publication Status = Drafted**, the last thing the learner's session does is clean up after itself by deleting the attempt. There will be no record of the Pre-Published attempt. If you want to have a record of a Published attempt, then you should publish the Assessment Form as a Standalone Assessment on the Portal. (See [How to publish an exam Form](../../../ui/help/portal/assessments/editing-forms/publish-exam-form/))

@@ -1,3 +1,7 @@
+---
+description: The user expects competencies printing in a document to follow the logical structure of the framework, see below.
+---
+
 # Competencies in a document print in an illogical structure
 
 The user expects competencies printing in a document to follow the logical structure of the framework, see below.

@@ -1,3 +1,7 @@
+---
+description: Question Banks are used to organize collections of related questions that are to be used together on an exam form.
+---
+
 # Creating a new bank
 
 Question Banks are used to organize collections of related questions that are to be used together on an exam form. They may be organized by competency, standard, topic, occupation, course, program or any grouping that best reflects your assessment needs.
@@ -9,11 +13,13 @@ At the top of the **Search Banks** page, click on **Add New Bank**.
 ![add-bank.png](https://e02.insite.com/files/sites/e02/create-new-bank/add-bank.png)
 
 From the dropdown menu at the top of the page you are able to select one of the following options:
+
 * **One new bank:**  Create a brand new Assessment Bank from the beginning.
-* **Duplicate copy of existing bank:**  If you have an existing Assessment Bank you wan to use as your framework, you can duplicate the existing bank.  
+* **Duplicate copy of existing bank:**  If you have an existing Assessment Bank you wan to use as your framework, you can duplicate the existing bank.
 * **Upload one new bank from file:**  Assessment banks can by uploaded by using a JSON File
 
-If you selected to create **One new bank**, complete the following fields: 
+If you selected to create **One new bank**, complete the following fields:
+
 1. **Bank Type:**  In the Bank Type Field, Advanced is preselected as this is the only option currently available.
 2. **Add Bank Title (Required Field):** A descriptive user-friendly title for the bank.
 3. **Add Bank Name (Required Field):** A short name that identifies the bank internally for filing purposes.
@@ -22,6 +28,7 @@ If you selected to create **One new bank**, complete the following fields:
 6. Select **Save**.
 
 If you selected to create a **Duplicate copy** of existing bank, complete the following fields:
+
 1. **Bank:**  Select the Bank from the dropdown list that you want to duplicate.
 2. **Bank Type:**  In the Bank Type Field, Advanced is preselected as this is the only option currently available.
 3. **Add Bank Title (Required Field):** A descriptive user-friendly title for the bank.
@@ -31,14 +38,16 @@ If you selected to create a **Duplicate copy** of existing bank, complete the fo
 7. Select **Save**.
 
 If you selected to **Upload one new bank from file**, complete the following fields:
-1. Click on the **Magnifying Glass** icon next to the **Select and Upload Bank JSON File** field and select the JSON file. 
-2. Once file is selected, it the content of the JSON file will be displayed in the **Uploaded JSON** field. 
+
+1. Click on the **Magnifying Glass** icon next to the **Select and Upload Bank JSON File** field and select the JSON file.
+2. Once file is selected, it the content of the JSON file will be displayed in the **Uploaded JSON** field.
 3. Select the **Save** button for the Assessment Bank to be uploaded and created.
 
 ![upload-json-file-2.png](https://e02.insite.com/files/sites/e02/create-new-bank/upload-json-file-2.png)
 
-The Bank has now been created and details for the bank will be displayed under the Bank tab of the Assessment. 
-Changes can be made to editable fields on this page. 
+The Bank has now been created and details for the bank will be displayed under the Bank tab of the Assessment.
+Changes can be made to editable fields on this page.
+
 * **Standards:** The formal standard evaluated by questions in the bank
 * **Bank Name:** The name that uniquely identifies the bank for internal filing purposes
 * **Level:** The type and number for a discrete skill level

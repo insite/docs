@@ -1,8 +1,12 @@
+---
+description: Under the Translations tab, you will be able to see the the language your Survey was translated to.
+---
+
 # Translations Tab
 
 Under the **Translations** tab, you will be able to see the the language your Survey was translated to. If there is not translation, it will show None under **Translate To**.
 
-The **Translate** button at the top of the page enables you to set the language and translation features of the survey (if necessary). Surveys must be authored in English.  Once the English version is complete, you can translate it into another language.  
+The **Translate** button at the top of the page enables you to set the language and translation features of the survey (if necessary). Surveys must be authored in English.  Once the English version is complete, you can translate it into another language.
 
 Select the **Translate** button in the **Survey** and then select the language you would like to translate your survey into.
 

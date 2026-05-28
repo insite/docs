@@ -1,3 +1,7 @@
+---
+description: "To add or remove page breaks in your survey. In the Details panel, choose Page # from the drop Down and Page Break as Question Type. Click Save"
+---
+
 # Adding a Break Page
 
 To add or remove page breaks in your survey. In the Details panel, choose **Page #** from the drop Down and **Page Break** as Question Type. Click **Save**
