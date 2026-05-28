@@ -2,7 +2,7 @@
 description: Version 25.4 was released to the Production environment today
 ---
 
-# July 16: Version 25.4 is live!
+# July 16: Version 25.4 is live
 
 This next update introduces a series of meaningful improvements that reflect ongoing enhancements to the platform, along with feedback we've received from customers. Each change is designed to improve visibility, reduce unnecessary steps, and give you more control across key workflows.
 
