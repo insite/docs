@@ -1,3 +1,7 @@
+---
+description: Open the Survey that you want to send the invitation for.
+---
+
 # Survey Invitation
 
 ### Create an Invitation from a Survey
@@ -7,7 +11,7 @@
 * Click on the **Add Invitation** button.
 * Add the **Internal Name** and **Subject**.
 * Then select the **Save** button.
-* After saving you will be redirected to the **Message Outline** page where you can modify the invitaion's content, under the **Content** tab. **Please note:** Do not remove the {Survey-Link} placeholder that is in the content message content.
+* After saving you will be redirected to the **Message Outline** page where you can modify the invitation's content, under the **Content** tab. **Please note:** Do not remove the {Survey-Link} placeholder that is in the content message content.
 * Under the **Subcribers** tab, add the user you want to send the **Survey Invitation** to.
   * Add existing contacts to a message individually
   * Add existing contacts to a message as a group
@@ -22,7 +26,7 @@
 * Add information into the following fields:
   * **Survey Form** - A link to this survey must be included in the body of the invitation email.
   * Add the **Internal Name** and **Subject**.
-* Under the **Content** tab, add the\*\* Content\*\* you want included in your **Invitiation**. This will be the body of the message the respondent receives via email.
+* Under the **Content** tab, add the\*\* Content\*\* you want included in your **Invitation**. This will be the body of the message the respondent receives via email.
 * Add Subscribers/Recipients
   * Add existing contacts to a message individually
   * Add existing contacts to a message as a group

@@ -1,3 +1,7 @@
+---
+description: Users are able to lookup specific groups that were created by going to the Contacts Toolkit on the Admin Home Page, and selecting Groups under
+---
+
 # Creating and Managing Groups
 
 Users are able to lookup specific groups that were created by going to the **Contacts** Toolkit on the Admin Home Page, and selecting **Groups** under **Counters** panel.

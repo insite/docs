@@ -9,8 +9,8 @@ Using this button will translate the entire Survey, depending on the language co
 <i class="fas fa-history"></i>  **History**
 History shows a detailed log of who has made changes to the survey.
 <i class="fas fa-download"></i>  **Download**
-Download .JSON file of Survey 
- <i class="far fa-chart-bar"></i>  **Reports** 
+Download .JSON file of Survey
+ <i class="far fa-chart-bar"></i>  **Reports**
 Survey Report give statistics for each question in the survey.
 <i class="fas fa-search"></i>   **Responses**
 Shortcut all started and completed responses for this survey.
@@ -19,7 +19,7 @@ This is often used after testing when you are preparing to launch your survey li
 
 ### Translations
 
-The **Translations** tab enables you to set the language and translation features of the survey (if necessary). Surveys must be authored in English.  Once the English version is complete, you can translate it into another language.  
+The **Translations** tab enables you to set the language and translation features of the survey (if necessary). Surveys must be authored in English.  Once the English version is complete, you can translate it into another language.
 
 Select **Translate** in the **Survey** Panel and then select the language you would like to translate your survey into.
 
@@ -29,13 +29,13 @@ Please contact [support@shiftiq.com](mailto:support@shiftiq.com) if you are unsu
 
 ### Conditions
 
-Add conditional logic to your survey.  This function hides a question on a subsequent page based on the answers of an earlier page (in case the condition is met or not met). 
+Add conditional logic to your survey.  This function hides a question on a subsequent page based on the answers of an earlier page (in case the condition is met or not met).
 
-If Conditions have been enabled, you will see this icon <i class="far fa-code-branch"></i> beside the survey questions. 
+If Conditions have been enabled, you will see this icon <i class="far fa-code-branch"></i> beside the survey questions.
 
 ### Branches
 
-The Branches tab shows a summary of the skip patterns contained in the survey.  
+The Branches tab shows a summary of the skip patterns contained in the survey.
 
 Set up skip patterns by editing the answer options for the question you want to branch off.  Skip patterns will be displayed on the Branches tab but cannot be edited on the Branches tab.
 

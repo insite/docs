@@ -1,6 +1,10 @@
+---
+description: Privacy settings can be applied to a course to restrict access to specific users or groups, ensuring that only authorized individuals can view
+---
+
 # Adding Privacy Settings to a Course
 
-Privacy settings can be applied to a course to restrict access to specific users or groups, ensuring that only authorized individuals can view or participate in the course content. 
+Privacy settings can be applied to a course to restrict access to specific users or groups, ensuring that only authorized individuals can view or participate in the course content.
 
 * In the Course click on the **Course Setup** tab, then the **Privacy Settings** tab.
 * Click on the **Plus** icon (<i class="fas fa-plus-circle"></i>) under the **Groups** heading.

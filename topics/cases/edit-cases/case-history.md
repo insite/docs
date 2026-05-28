@@ -1,3 +1,7 @@
+---
+description: Select the Workflows Toolkit on the Admin Home page.
+---
+
 # View Case History
 
 Select the **Workflows** Toolkit on the **Admin Home** page.
@@ -8,9 +12,10 @@ Fill in the **Criteria** you want to you use to search for an existing Case.
 
 Click on **Filter** button.
 
-In the Case, under the **Details** tab, click on the **History** button. 
+In the Case, under the **Details** tab, click on the **History** button.
 
 An administrator will be able to see the followign History information:
+
 * **Date and Time** a change was made.
 * The **Change Type**.
 * **User** who made the change.

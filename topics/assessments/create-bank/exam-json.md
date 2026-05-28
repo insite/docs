@@ -1,3 +1,7 @@
+---
+description: Select the Assessment Toolkit from the Admin Home Page.
+---
+
 # Download and Uploading Assessment Banks
 
 ## Downloading an Assessment Bank to a JSON file
@@ -8,7 +12,7 @@ Select the **Banks** counter.
 
 Search for the **Bank** you want to duplicate and select the bank in the **Results** panel.
 
-Click on the **Bank Name** to open the Assessment. 
+Click on the **Bank Name** to open the Assessment.
 
 When the Assessment bank is open, click on the **Download JSON** button. You will be redirected to the Download confirmation page. Review the information and click on **Download** button.
 

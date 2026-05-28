@@ -1,9 +1,13 @@
+---
+description: From the Admin Home Screen select the Event Toolkit
+---
+
 # How to Create a New Class
 
 ## Create a New Class
 
 * From the **Admin Home Screen** select the **Event** Toolkit
-* Under the **Classes** heading, select the **Clases** counter.
+* Under the **Classes** heading, select the **Classes** counter.
 * At the top of the page, click on **Add New Class**
 
 On the **Schedule a New Class** page:

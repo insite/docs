@@ -1,3 +1,7 @@
+---
+description: assigning validators
+---
+
 # Validating Logbook Entries
 
 assigning validators

@@ -1,8 +1,12 @@
+---
+description: On the Admin Home Page, select Records Toolkit
+---
+
 # Create New Achievement Template
 
-#### There are 2 ways of creating a New Achievement:
+#### There are 2 ways of creating a New Achievement
 
-#### Option 1:
+#### Option 1
 
 On the **Admin Home Page**, select **Records** Toolkit
 
@@ -16,11 +20,11 @@ Click the **Add New Achievement** link at the top of the page.
 * Select the **Achievement Expiry** (If achievement expires, select whether this is a fixed date or relative to when issued)
   * No Expiry
   * Fixed Date: Add the date the Achievement expires
-  * Relative Date: Set the duration the Achievment is valid for
+  * Relative Date: Set the duration the Achievement is valid for
     * Months
     * Years<br>
 
-#### Option 2:
+#### Option 2
 
 On the **Admin Home Page**, select **Records** Toolkit
 

@@ -1,8 +1,12 @@
+---
+description: After an Form was created for an exam, an Administrator can test the Form by Publishing or Pre-Publishing the Form.
+---
+
 # How to test an Exam Form
 
 After an Form was created for an exam, an Administrator can test the Form by **Publishing** or **Pre-Publishing** the Form.
 
-#### Publish the Form:
+#### Publish the Form
 
 Publish the Form as a **Standalone** Form, with permissions so only the Administrator can see the From on the Portal. (See [How to publish an exam Form](../../../ui/help/portal/assessments/editing-forms/publish-exam-form/))
 
@@ -25,7 +29,7 @@ From the portal start the exam and review the following to ensure they are as de
 * Additional attempts for the exam are available as desired.
 * If Assessment Attempt is locked after the allocated time has run out.<br>
 
-#### Pre-Publish the Form:
+#### Pre-Publish the Form
 
 An Administrator can Pre-Publish an Assessment Form for **testing** purposes. You will be able to complete the Assessment Form and submit your attempt.
 

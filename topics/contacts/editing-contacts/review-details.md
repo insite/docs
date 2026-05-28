@@ -1,10 +1,14 @@
+---
+description: The Person Edit screen is one of the most frequently used screens in Shift iQ.
+---
+
 # Review and Edit a Contact
 
 The Person Edit screen is one of the most frequently used screens in Shift iQ. It provides access to all information and activity related to a contact in one place. Whenever a contact’s name appears as a hyperlink, clicking it will take you directly to this screen. Information can be both viewed and updated on this screen.
 
 Under the <i class="fa-user-alt">:user-alt:</i>  **Person** tab:
 
-* **Details**: the key details of a contact record, including name, email, gender, birthday, employment details, phone numbers and more; use the **Send Email** button to send correspondance directly to the contact; use the **More Info** button to access additional details about the contact; use the **History** button to view changes that have been made in the past to the contact record.
+* **Details**: the key details of a contact record, including name, email, gender, birthday, employment details, phone numbers and more; use the **Send Email** button to send correspondence directly to the contact; use the **More Info** button to access additional details about the contact; use the **History** button to view changes that have been made in the past to the contact record.
 * **Other**: additional details about the contact, such as preferred language, time zone, honorific; also any custom fields your organization may be using, and any responses to survey questions with a Respondant Attribute that doesn't match an existing field in the contact record.
 * **Documents**: view and manage any attachments uploaded to a contact record, either directly, or through a survey response, workflow case or their jobs candidate portfolio.
 * **Addresses**: view and manage home, work, shipping and billing addresses for the contact (note that home address fields can be populated by a survey response using the **Respondant Attribute** fields; the other addresses can be copied from the **Employed By/Belongs To** group on the Details tab, if that Employer group has them).

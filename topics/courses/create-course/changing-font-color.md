@@ -1,3 +1,7 @@
+---
+description: "How to change the content font color for an entire Course:"
+---
+
 # Changing font color of the Course
 
 How to change the content font color for an entire Course:
@@ -11,6 +15,6 @@ How to change the content font color for an entire Course:
   Example:   color: blue / color: #060606<br>
 * Click Save.
 
-![](https://e02.insite.com/files/sites/global/change-font-color/coursefontcolor.png)\
+![Coursefontcolor](https://e02.insite.com/files/sites/global/change-font-color/coursefontcolor.png)\
 \
 Please note:  Adding this code to the Course Style will change the color for all content in the Course. However, if there are Assessments or Surveys attached to the Course the font color for those items will not change as those are pulling data from a different toolkit.

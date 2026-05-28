@@ -1,3 +1,7 @@
+---
+description: Edit the Standard for which you wish to re-order the child Standards.
+---
+
 # Reorder within a Standard
 
 Edit the Standard for which you wish to re-order the child Standards.

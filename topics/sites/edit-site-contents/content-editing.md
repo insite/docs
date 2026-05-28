@@ -1,3 +1,7 @@
+---
+description: Add your site page or block content here using the Markdown or HTML editors. Markdown is a simple way to format text that looks great on any device.
+---
+
 # Adding and Editing Site and Block Content
 
 Add your site page or block content here using the Markdown or HTML editors. Markdown is a simple way to format text that looks great on any device. We recommend caution when using HTML, as there can be hidden formatting code that may not translate as expected on different computer platforms, screen sizes, or software versions.
@@ -12,7 +16,7 @@ When you select Create Link, the system will create the outline needed for the l
 
 You are able to configure the link with an email address instead. You can either add a email address between the square brackets or text. Instead of adding a website, you remove the http:// and add [mailto:add email address.](mailto:support@shiftiq.com.) The full link will be \[Click Here to Email]\(mailto:support@shiftiq.com) or \[support@shiftiq.com]\(mailto:support@shiftiq.com). The text will display as [Click Here to Email](mailto:support@shiftiq.com) or [support@shiftiq.com](mailto:support@shiftiq.com)
 
-#### Open Link in New Browser Window:
+#### Open Link in New Browser Window
 
 If you require the link you are inserting to open on in a new browser window, you can us the following link:\
 \<a href="url or link to file" target="\_blank">text to display\</a>

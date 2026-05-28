@@ -1,3 +1,7 @@
+---
+description: Translate the content of each element in the document using the translation feature in the Content panel.
+---
+
 # Translation Tips
 
 **Translate** the content of each element in the document using the translation feature in the Content panel.

@@ -1,3 +1,7 @@
+---
+description: "After a Class is created, the following information can be added or edited under the Class Setup tab:"
+---
+
 # Class Settings
 
 After a **Class** is created, the following information can be added or edited under the **Class Setup** tab:

@@ -1,3 +1,7 @@
+---
+description: Certificate data is of high importance and is intended to be long-lived.
+---
+
 # Overview of Shift iQ's Blockchain Based Certificate Manager
 
 Certificate data is of high importance and is intended to be long-lived. By using blockchain, the security of the produced certificates is guaranteed and certificates will live on the blockchain as long as blockchain exists. What's more, the process of certificate management becomes decentralized, trustless, secure, and immutable.

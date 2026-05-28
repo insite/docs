@@ -1,3 +1,7 @@
+---
+description: _See below the steps to generate a PDF document that lists all the questions in an Assessment Bank, including comments by administrators._
+---
+
 # How to Print a Question Bank/Assessment Form to PDF
 
 ## How to Print a Question Bank to PDF
@@ -41,7 +45,7 @@ Under **Print Options** (Print Settings) check the boxes â€œ**Include Images**â€
 At the bottom of the Print Form page, there are 4 print options available:
 
 * **Print Form** - A PDF download containing all the Questions in the Form.
-* **Print Addendum** - A PDF download containing all the Addemdums attached to the Assessment Form.
+* **Print Addendum** - A PDF download containing all the Addendums attached to the Assessment Form.
 * **Print Form (internal)** - A PDF download containing all the questions in the Form, including administrator comments.
 * **Print Form (compact)** - A PDF download containing all the answers to the Questions in the Form.
 

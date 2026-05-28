@@ -1,3 +1,7 @@
+---
+description: If a user is no longer needed, or requests to remove their personal information, you are able to archive the user from the system.
+---
+
 # Archive Users
 
 ## Archive a User

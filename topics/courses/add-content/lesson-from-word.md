@@ -1,3 +1,7 @@
+---
+description: We are working on a new feature that will simplify the process of converting a Microsoft Word document into a Shift iQ lesson, using a utility
+---
+
 # Add New Lesson From Microsoft Word
 
 We are working on a new feature that will simplify the process of converting a Microsoft Word document into a Shift iQ lesson, using a utility called Pandoc.

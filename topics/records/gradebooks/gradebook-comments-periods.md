@@ -1,3 +1,7 @@
+---
+description: Hide/Unhide Comments and Periods
+---
+
 # Gradebook Comments and Periods
 
 Hide/Unhide Comments and Periods

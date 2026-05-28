@@ -1,3 +1,7 @@
+---
+description: "Before reporting an exam issue to Shift iQ support, gather the below information:<br>"
+---
+
 # Organization Checklist for SEB errors
 
 Before reporting an exam issue to Shift iQ support, gather the below information:<br>
@@ -6,13 +10,13 @@ Before reporting an exam issue to Shift iQ support, gather the below information
 2. Confirm if the venue tested the internet connection on the device that is having the issue.\
    If the issue is only happening to ONE person in the class, it is an indication that it is a possible venue issue and not a Shift iQ issue. If there was an issue with Shift iQ, it will affect ALL candidates and not just one candidate.
 3. Ask for the Venue’s IP Address. The Venue can open [https://whatismyipaddress.com/](https://whatismyipaddress.com/) and provide their IPv4 address.\
-   ![](https://e02.insite.com/files/sites/e02/seb-error-checklist/myipaddress.png)\
+   ![Myipaddress](https://e02.insite.com/files/sites/e02/seb-error-checklist/myipaddress.png)\
    <br>
 4. Confirm the version of SEB that venue is using.\
    The current supported versions of SEB:  SEB 3.3.2 up to SEB 3.7.0\
    This can change, and updates can be found here:  [https://safeexambrowser.org/download\_releases\_en.html](https://safeexambrowser.org/download_releases_en.html)\
    Venues can see their version installed on the exam login page.\
-   ![](https://e02.insite.com/files/sites/e02/seb-error-checklist/seb-version.png)\
+   ![Seb version](https://e02.insite.com/files/sites/e02/seb-error-checklist/seb-version.png)\
    <br>
 5. Shift iQ records the SEB version used by a user after they login to their exam.\
    An administrator can view the SEB versions in the following places:\

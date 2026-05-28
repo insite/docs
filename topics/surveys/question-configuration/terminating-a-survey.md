@@ -1,3 +1,7 @@
+---
+description: Navigate to the Survey Termination options by clicking in the Details panel, choose Terminate Survey as Question Type. Click Save
+---
+
 # Terminating a Survey
 
 Navigate to the Survey Termination options by clicking in the Details panel, choose **Terminate Survey** as Question Type. Click **Save**

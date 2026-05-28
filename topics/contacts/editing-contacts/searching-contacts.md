@@ -1,3 +1,7 @@
+---
+description: "You can view as little or as much information as you want on the search results page such as:"
+---
+
 # Searching Contacts
 
 You can view as little or as much information as you want on the search results page such as:

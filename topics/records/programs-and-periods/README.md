@@ -114,7 +114,7 @@ After the Program is created, you need to **Publish** the Program to the **Porta
 * Click on the **magnifying glass (🔍) icon** next to the Upload New Program Image field
 * Select the image you want to use for the portal tile
 
-<figure><img src="../../.gitbook/assets/{34096A6A-CC7C-497D-B3A8-2974D27D600D}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{34096A6A-CC7C-497D-B3A8-2974D27D600D}.png" alt="{34096A6A CC7C 497D B3A8 2974D27D600D}"><figcaption></figcaption></figure>
 
 ### Publishing the program to the learning portal
 

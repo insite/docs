@@ -1,3 +1,7 @@
+---
+description: "Note that some of the options below are only available to admins with Write and Delete access.*"
+---
+
 # Editing or Deleting Groups
 
 *Note that some of the options below are only available to admins with Write and Delete access.*

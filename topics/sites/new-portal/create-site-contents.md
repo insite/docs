@@ -1,3 +1,7 @@
+---
+description: From the Admin Home Page, select Sites toolkit. Under the Web Sites heading, click on the Site counter.
+---
+
 # Creating Contents for Your Sites
 
 ## Creating New Folders and Pages on your Site

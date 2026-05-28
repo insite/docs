@@ -1,3 +1,7 @@
+---
+description: adding portal tile and/or dashboard and/or program so learner can find their logbooks
+---
+
 # How Learners Create and Edit Logbook Entries
 
 adding portal tile and/or dashboard and/or program so learner can find their logbooks

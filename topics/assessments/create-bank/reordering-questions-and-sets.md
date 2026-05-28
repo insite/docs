@@ -1,3 +1,7 @@
+---
+description: After Questions are created in a Set, administrators are able to reorder those questions if needed.
+---
+
 # Reordering Questions and Sets
 
 #### Reordering Questions

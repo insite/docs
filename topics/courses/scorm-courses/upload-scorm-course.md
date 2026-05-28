@@ -1,3 +1,7 @@
+---
+description: "Login to <a href=\"https://cloud.scorm.com/sc/guest/SignInForm\" target=\"_blank\">https://cloud.scorm.com/sc/guest/SignInForm</a>"
+---
+
 # How to Upload a SCORM Course to SCORM
 
 Login to <a href="https://cloud.scorm.com/sc/guest/SignInForm" target="_blank">**https://cloud.scorm.com/sc/guest/SignInForm**</a>
@@ -14,10 +18,11 @@ Specify a **Course ID** for the file you are uploading (e.g. Planning-for-Your-F
 
 ![scorm-7.png](https://e02.insite.com/files/sites/global/upload-scorm-course/scorm-7.png)
 
-Once the course has been uploaded, you are able to change the Lauch behaviour in **Course Properties**. After your changes has been made, click **Save**.
+Once the course has been uploaded, you are able to change the Launch behaviour in **Course Properties**. After your changes has been made, click **Save**.
 
 ![scorm-8.png](https://e02.insite.com/files/sites/global/upload-scorm-course/scorm-8.png)
 
-The **Course ID** (e.g. Planning-for-Your-Future-V1) is what you use as: 
+The **Course ID** (e.g. Planning-for-Your-Future-V1) is what you use as:
+
 * <a href="https://e02.insite.com/help/portal/global-admins/adding-scorm-course/adding-scorm-course-to-courses-v1" target="_blank">**Hook / Integration Code in Courses V1**</a>
 * <a href="https://e02.insite.com/help/portal/global-admins/adding-scorm-course/adding-scorm-courses" target="_blank"> **SCORM Course ID in Courses V2**</a>

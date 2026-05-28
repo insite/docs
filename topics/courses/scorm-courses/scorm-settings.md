@@ -1,3 +1,7 @@
+---
+description: "First, find the SCORM Cloud AppId for the tenant. This is in the SCORM Cloud control panel here:"
+---
+
 # SCORM Cloud connection settings
 
 First, find the SCORM Cloud AppId for the tenant. This is in the SCORM Cloud control panel here:

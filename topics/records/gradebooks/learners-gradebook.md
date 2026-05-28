@@ -1,3 +1,7 @@
+---
+description: how learners are added automatically
+---
+
 # Managing Learners in a Gradebook
 
 how learners are added automatically

@@ -1,3 +1,7 @@
+---
+description: Step 1 Edit the downstream Standard you want to remove from it’s parent
+---
+
 # Remove upstream relationships
 
 **Step 1** Edit the downstream Standard you want to remove from it’s parent

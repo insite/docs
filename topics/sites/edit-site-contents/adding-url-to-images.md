@@ -1,3 +1,7 @@
+---
+description: In Markdown hyperlinks can be added to an image you added to the page content. .
+---
+
 # Adding a Hyperlink to Images
 
 In Markdown hyperlinks can be added to an image you added to the page content. .

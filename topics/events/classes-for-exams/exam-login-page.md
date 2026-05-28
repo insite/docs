@@ -1,3 +1,7 @@
+---
+description: For learners to login for their exam, they need access to the /ui/lobby/events/login page.
+---
+
 # Exam Login Page
 
 For learners to login for their exam, they need access to the **/ui/lobby/events/login** page.

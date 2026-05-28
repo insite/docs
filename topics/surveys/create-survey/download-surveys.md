@@ -1,3 +1,7 @@
+---
+description: "Open the survey that you want to download the JSON (*.json) file for."
+---
+
 # Download Survey in JSON (*.json) format
 
 Open the survey that you want to download the **JSON (*.json)** file for.

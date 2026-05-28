@@ -1,3 +1,7 @@
+---
+description: Documents are created to group and print Standards into various useful outputs
+---
+
 # Working in the Administrator View
 
 Documents are created to group and print Standards into various useful outputs
@@ -10,7 +14,7 @@ Title and additional information you would like to include with your document. T
 Use your document as a Template by checking the Template checkbox under the Settings tab. Template documents are locked on the portal.  They may be duplicated, but not modified.
 
 **Attach Competencies**
-Attach Competencies to your document on the Competencies panel. You may include some or all competencies in a particulare area.  If you choose to attach only some, the parent area for those competencies will still print on the Document as a header. In order for competencies to show on the outline screen, you must follow the convention: FRAMEWORK, then Area Asset, then Competency.
+Attach Competencies to your document on the Competencies panel. You may include some or all competencies in a particular area.  If you choose to attach only some, the parent area for those competencies will still print on the Document as a header. In order for competencies to show on the outline screen, you must follow the convention: FRAMEWORK, then Area Asset, then Competency.
 
 **Relate other Documents**
 Attach a pre-selected group of competencies by relating an existing Document.  All the competencies from the related document will now be attached to the current document.
@@ -22,5 +26,6 @@ Output and print a copy of your document using hte Download button in the Setup 
 **Why can't I relate a NOS or Job Description to one I'm creating?**
 
 In order to relate a document 2 conditions must be met:
+
 * The Document you are editing must not be a template (Settings tab)
 * You must have been assigned permission to the Standards/Documents module. If you do not have this permission, please contact your administrator.

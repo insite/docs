@@ -1,3 +1,7 @@
+---
+description: When adding a SCORM course to Sandbox or Development, if you select SCORM Course for the Link Type then it is set to Preview mode by default and
+---
+
 # Embedding a SCORM package in your Shift iQ Course
 
 When adding a SCORM course to **Sandbox** or **Development**, if you select **SCORM Course** for the **Link Type** then it is set to **Preview** mode by default and the **Launch SCORM Course in Preview mode** is selected by default.

@@ -1,3 +1,7 @@
+---
+description: An image can be added for the Course tile, when the Course is Published to the Portal.
+---
+
 # Adding a Course Image
 
 An image can be added for the Course tile, when the Course is Published to the Portal.

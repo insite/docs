@@ -1,10 +1,12 @@
+---
+description: "On the Classes Search page in the Portal, users will see various statuses. The flowchart below illustrates the different statuses visible to users:"
+---
+
 # What Learners see on the Class Registration Portal Page
 
 On the Classes Search page in the Portal, users will see various statuses. The flowchart below illustrates the different statuses visible to users:
 
-<figure><img src="../.gitbook/assets/Class Statuses (Portal).jpg" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/Class Statuses (Portal).jpg" alt="Class Statuses (Portal)"><figcaption></figcaption></figure>
 
 During the **Class Registration** process, there are 5 steps the user will move through to complete their registration:
 

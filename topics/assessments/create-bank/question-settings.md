@@ -64,7 +64,7 @@ To add a Prerequisites, click on the **New Prerequisite** button. Under the **Le
 
 Under the **Unlocks Course Activity** heading:
 
-* Select the lesson you want to unlock based on the Correct/Incorrct answer the learner provided.
+* Select the lesson you want to unlock based on the Correct/Incorrect answer the learner provided.
 
 Click **Save**\
 <br>

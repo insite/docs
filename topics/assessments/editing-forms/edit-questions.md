@@ -1,3 +1,7 @@
+---
+description: Depending on the Organization setting, Administrators are able to edit existing Assessment questions.
+---
+
 # Edit Assessment Questions
 
 Depending on the Organization setting, Administrators are able to edit existing Assessment questions. When editing questions that have already been published to a Form, a warning message will appear at the top of the page.
@@ -12,6 +16,6 @@ Depending on the change that was made to the question, an Admin can choose if th
 
 ![edit-assessment-questions.png](https://e02.insite.com/files/sites/e02/edit-questions/edit-assessment-questions.png)
 
-Any questions being edited will be available for learners who have not started a exam. If changes are made to a question, while a exam is in progress, the change will not be available to the learners. 
+Any questions being edited will be available for learners who have not started a exam. If changes are made to a question, while a exam is in progress, the change will not be available to the learners.
 
 Additional information about question configuration settings can be found here

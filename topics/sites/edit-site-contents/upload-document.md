@@ -1,3 +1,7 @@
+---
+description: To upload a document you are able to drag and drop the document from file into the body of the content.\
+---
+
 # Upload Document
 
 To upload a document you are able to drag and drop the document from file into the body of the content.\

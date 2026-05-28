@@ -1,3 +1,7 @@
+---
+description: "From the Course home page (/ui/admin/courses/home):"
+---
+
 # Add a Course to a Catalog
 
 From the Course home page (/ui/admin/courses/home):

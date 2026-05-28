@@ -1,8 +1,12 @@
+---
+description: "To add Impersonation permissions, please contact an Shift iQ administrator by submitting a Support Ticket or emailing support@shiftiq.com."
+---
+
 # Adding Impersonate Permission
 
-To add Impersonation permissions, please contact an Shift iQ administrator by subitting a [**Support Ticket**](https://insite.atlassian.net/servicedesk/customer/portal/3) or emailing [**support@shiftiq.com**](mailto:support@shiftiq.com).
+To add Impersonation permissions, please contact an Shift iQ administrator by submitting a [**Support Ticket**](https://insite.atlassian.net/servicedesk/customer/portal/3) or emailing [**support@shiftiq.com**](mailto:support@shiftiq.com).
 
-***Administrator Note**:  When adding the **Impersonate** permission for an administrative user, it can only be added when you are logged into the Organization account that requires this permission.* 
+***Administrator Note**:  When adding the **Impersonate** permission for an administrative user, it can only be added when you are logged into the Organization account that requires this permission.*
 
 Log into the **Organization** account that the **Impersonate** permission needs to be added to
 

@@ -1,3 +1,7 @@
+---
+description: configuration requirements (create a role for Instructors and ask Support to add the appropriate permissions)
+---
+
 # Instructor Gradebook Views
 
 configuration requirements (create a role for Instructors and ask Support to add the appropriate permissions)

@@ -1,6 +1,10 @@
+---
+description: Select the Workflows Toolkit on the Admin Home page.
+---
+
 # Creating Cases
 
-### Create an Case:
+### Create an Case
 
 Select the **Workflows** Toolkit on the **Admin Home** page.
 
@@ -29,9 +33,9 @@ Once your case is created, you can attach any supporting documents by clicking o
 
 Add additional comments by clicking on **Post Comment** under the **Comments** tab<br>
 
-### Create an Case using Surveys:
+### Create an Case using Surveys
 
-Administrators are able to allow users to create their own **Case** by submitting a Survey reponse.
+Administrators are able to allow users to create their own **Case** by submitting a Survey response.
 
 In the **Surveys** toolkit, open the survey you want to use to create an **Case**.
 

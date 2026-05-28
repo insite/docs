@@ -1,6 +1,10 @@
+---
+description: Publish Documents to the Portal through the Web Sites module. We recommend you make a Folder to group your Documents on the portal.
+---
+
 # Publishing Documents on the Portal
 
-Publish Documents to the Portal through the Web Sites module. We recommend you make a Folder to group your Documents on the portal. 
+Publish Documents to the Portal through the Web Sites module. We recommend you make a Folder to group your Documents on the portal.
 
 Note that you must have the admin/standards/documents permission in order to modify relationships for documents in the portal. If you are unable to modify relationships, please contact your administrator to have this permission added to your account.
 

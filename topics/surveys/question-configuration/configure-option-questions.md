@@ -1,3 +1,7 @@
+---
+description: Insert a new question with desired type.
+---
+
 # Configure Radio Button, Dropdown, or Check Box Questions
 
 Insert a new question with desired type.
@@ -9,8 +13,9 @@ Insert a new question with desired type.
 **Check Box List** questions allow respondents to select multiple answers.
 
 Under the Question panel, insert question text and decide on options.
-- The questions number by default, but you can override that by using the Question Code box.
-- The colour picker allows you to specify the colour you want the question numbers appear on the survey.
+
+* The questions number by default, but you can override that by using the Question Code box.
+* The colour picker allows you to specify the colour you want the question numbers appear on the survey.
 
 Under Options panel, define your answer fields.
 
