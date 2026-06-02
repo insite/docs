@@ -54,9 +54,9 @@ Instead of adding the Name of the Font (e.g. Green, Yellow, Blue, etc.) you are 
 
 Superscripts can be written by surrounding a text by ^ characters; subscripts can be written by surrounding the subscripted text by \~ characters
 
-* X<sup>2</sup> is created using X^2^ OR X\<sub>2\</sub>&#x20;
-* 10<sup>-18</sup> is created as 10^-18^ OR 10\<sub>-18\</sub>
-* H<sub>2</sub>O is created H\~2\~0 OR H\<sup>2\</sup>0
+* X<sup>2</sup> is created using X^2^ OR X\<sup>2\</sup>&#x20;
+* 10<sup>-18</sup> is created as 10^-18^ OR 10\<sup>-18\</sup>
+* H<sub>2</sub>O is created H\~2\~0 OR H\<sub>2\</sub>0
 * Footnote 1<sup>†</sup> / Footnote 2<sup>‡</sup>  is created Footnote 1^†^ and Footnote 2^‡^&#x20;
 
 
