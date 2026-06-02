@@ -1,5 +1,7 @@
 ---
-description: After creating questions for a bank, you may need to update or revise the questions or answer options while still keeping the original question data
+description: >-
+  After creating questions for a bank, you may need to update or revise the
+  questions or answer options while still keeping the original question data
 ---
 
 # Creating a New Version of a Question
@@ -7,10 +9,10 @@ description: After creating questions for a bank, you may need to update or revi
 After creating questions for a bank, you may need to update or revise the questions or answer options while still keeping the original question data and any associated attempts intact.
 
 1. Open the question you want to create a new version of and click the edit pencil next to the question.
-2. On the right side of the page, click on the little arrow below the **Current Version** heading.&#x20;
+2.  On the right side of the page, click on the little arrow below the **Current Version** heading.
 
-    <figure><img src="../../.gitbook/assets/image (6).png" alt="Image (6)"><figcaption></figcaption></figure>
-3. The Publication Status of the question will update to **Drafted (In Development)**.&#x20;
+    <figure><img src="../../.gitbook/assets/image (3).png" alt="Image (6)"><figcaption></figcaption></figure>
+3. The Publication Status of the question will update to **Drafted (In Development)**.
 4. You can now edit the Question Text and Answer Options as needed. The original Question and Answer Options will remain as is.
 
 After you updated the new version of that question:

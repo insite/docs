@@ -11,7 +11,7 @@ description: 1. Open the Assessment Form and click the Action button.
    * This will remove the question _from the form only,_ the original question will remain in the Question Bank.
    * If you select the checkbox next to the Bank Asset, it will delete the questions from both the Bank and the Form, including all aggregate attempt data.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="Image (1)" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="Image (1)" width="563"><figcaption></figcaption></figure>
 
 1. After making your selection, click **Delete**.
 2. Click the **Add** button and choose **Question** (or **Existing Question**).

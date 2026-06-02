@@ -1,12 +1,12 @@
 # Table of contents
 
 * [Help Center](README.md)
-* [Working with Markdown](working-with-markdown.md)
 * [Accessing your sandbox](sandbox.md)
 
 ## Markdown
 
 * [Working with Markdown](markdown/working-with-markdown.md)
+* [Additional Markdown Documentatio](markdown/additional-markdown-documentatio.md)
 
 ## Assessments
 

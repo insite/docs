@@ -1,5 +1,7 @@
 ---
-description: Add your site page or block content here using the Markdown or HTML editors. Markdown is a simple way to format text that looks great on any device.
+description: >-
+  Add your site page or block content here using the Markdown or HTML editors.
+  Markdown is a simple way to format text that looks great on any device.
 ---
 
 # Adding and Editing Site and Block Content
@@ -12,7 +14,7 @@ Here are some formatting tips for using Markdown:
 
 You are able to add web links or email addresses in the text of your content.
 
-When you select Create Link, the system will create the outline needed for the link \[]\(http://). Between the square brackets, add the text you want to be displayed. Copy and Paste or type the webpage you want the user to be directed to.  Example of what the link will look like:  \[Shift iQ]\(https://www.shiftiq.com). In your page content, the link will display as [Shift iQ](https://www.shiftiq.com/). The user can click on the text and will be directed to the webpage you added.
+When you select Create Link, the system will create the outline needed for the link \[]\(http://). Between the square brackets, add the text you want to be displayed. Copy and Paste or type the webpage you want the user to be directed to. Example of what the link will look like: \[Shift iQ]\(https://www.shiftiq.com). In your page content, the link will display as [Shift iQ](https://www.shiftiq.com/). The user can click on the text and will be directed to the webpage you added.
 
 You are able to configure the link with an email address instead. You can either add a email address between the square brackets or text. Instead of adding a website, you remove the http:// and add [mailto:add email address.](mailto:support@shiftiq.com.) The full link will be \[Click Here to Email]\(mailto:support@shiftiq.com) or \[support@shiftiq.com]\(mailto:support@shiftiq.com). The text will display as [Click Here to Email](mailto:support@shiftiq.com) or [support@shiftiq.com](mailto:support@shiftiq.com)
 
@@ -31,31 +33,31 @@ You can force Markdown to print special characters using HTML. Please visit the 
 
 * [https://www.rapidtables.com/web/html/html-codes.html](https://www.rapidtables.com/web/html/html-codes.html)
 
-Text copied out of Microsoft word is renowned for having special characters that look nice, but are not universal.&#x20;
+Text copied out of Microsoft word is renowned for having special characters that look nice, but are not universal.
 
-&#x20; If you’re copying text out of Word, we recommend replacing all special characters.\
+If you’re copying text out of Word, we recommend replacing all special characters.\
 Common replacements:\
 <br>
 
-| Special Character  | Markdown Equivalent  |
-| ------------------ | -------------------- |
-| <p>“ or ”<br></p>  | <p>“<br></p>         |
-| <p>’<br></p>       | <p>’<br></p>         |
-| <p>·<br></p>       | <p>-<br></p>         |
-| <p>\<br></p>       | <p>\\<br></p>        |
-| <p>*<br></p>       | <p>\*<br></p>        |
-| <p>_<br></p>       | <p>\_ <br></p>       |
-| <p>–<br></p>       | <p>-<br></p>         |
-| <p>[ or ] <br></p> | <p>\[ or \] <br></p> |
-| <p>{ or }<br></p>  | \\{ or \\}           |
+| Special Character | Markdown Equivalent |
+| ----------------- | ------------------- |
+| <p>“ or ”<br></p> | <p>“<br></p>        |
+| <p>’<br></p>      | <p>’<br></p>        |
+| <p>·<br></p>      | <p>-<br></p>        |
+| \<br>             | <p>\<br></p>        |
+| <p>*<br></p>      | <p>*<br></p>        |
+| <p>_<br></p>      | <p>_<br></p>        |
+| <p>–<br></p>      | <p>-<br></p>        |
+| <p>[ or ]<br></p> | <p>[ or ]<br></p>   |
+| <p>{ or }<br></p> | \\{ or \\}          |
 
 | <p>Special Character<br></p> | <p>Markdown Equivalent<br></p> |
 | ---------------------------- | ------------------------------ |
-| <p>(or)<br></p>              | <p>\( or \) <br></p>           |
-| <p>#<br></p>                 | <p>\#<br></p>                  |
-| <p>+<br></p>                 | <p>\+<br></p>                  |
-| <p>-<br></p>                 | <p>\-<br></p>                  |
-| <p>.<br></p>                 | <p>\.<br></p>                  |
+| <p>(or)<br></p>              | <p>( or )<br></p>              |
+| <p>#<br></p>                 | <p>#<br></p>                   |
+| <p>+<br></p>                 | <p>+<br></p>                   |
+| <p>-<br></p>                 | <p>-<br></p>                   |
+| <p>.<br></p>                 | <p>.<br></p>                   |
 | <p>!<br></p>                 | <p>!<br></p>                   |
 
 <br>
@@ -63,8 +65,8 @@ Common replacements:\
 | <p>Special Character<br></p> | <p>Markdown Equivalent<br></p> |
 | ---------------------------- | ------------------------------ |
 | <p>®<br></p>                 | <p>&#x26;#174;<br></p>         |
-| <p>TM <br></p>               | <p>&#x26;#8482;<br></p>        |
-| <p>© <br></p>                | <p>&#x26;#xA9<br></p>          |
+| <p>TM<br></p>                | <p>&#x26;#8482;<br></p>        |
+| <p>©<br></p>                 | <p>&#x26;#xA9<br></p>          |
 | <p>Ø<br></p>                 | <p>&#x26;#981;<br></p>         |
 | <p>Ω<br></p>                 | <p>&#x26;#8486;<br></p>        |
 | <p>∆<br></p>                 | <p>&#x26;Delta;<br></p>        |
