@@ -4,6 +4,10 @@
 * [Working with Markdown](working-with-markdown.md)
 * [Accessing your sandbox](sandbox.md)
 
+## Markdown
+
+* [Working with Markdown](markdown/working-with-markdown.md)
+
 ## Assessments
 
 * [Overview](assessments/overview.md)
