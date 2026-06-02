@@ -28,6 +28,16 @@ Column 1 | Column 2 | Column 3 | Column 4\
 Column 1 | Column 2 | Column 3 | Column 4\
 Column 1 | Column 2 | Column 3 | Column 4
 
+It will display as:
+
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| -------- | -------- | -------- | -------- |
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| Column 1 | Column 2 | Column 3 | Column 4 |
+
 ## Changing Font Color or Text <a href="#how-to-change-the-font-color-of-the-survey-question-text" id="how-to-change-the-font-color-of-the-survey-question-text"></a>
 
 The HTML code needs to be added around the text as follows:
